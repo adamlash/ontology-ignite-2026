@@ -1,6 +1,7 @@
 {
   "version": 1,
   "bundleSha256": "679c45aa6d06a8661ebaa181fe5d03cb8102b13e930ea1c44dad9612dfc9461c",
+  "baseContentSha256": "dd24de81bf98363784c8c9783c6ab802ba117ffdb03d86d1f317a585c61eb987",
   "lakehouseTables": 19,
   "files": [
     {

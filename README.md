@@ -134,7 +134,9 @@ Publish data changes and the matching regenerated checksum manifest together.
 Compatible data-only updates do not require rebuilding the notebook. Source
 revision and manifest identity are recorded in the private deployment ledger.
 Fixture bytes are preserved by `.gitattributes`, keeping byte-based ownership
-compatible with the earlier embedded-data notebook.
+compatible with the earlier embedded-data notebook. Dataset identity is computed
+from file contents, independently of Python/ZIP compression versions; only the
+exact original dataset retains its legacy ownership identity.
 
 ## Reruns and safety
 
