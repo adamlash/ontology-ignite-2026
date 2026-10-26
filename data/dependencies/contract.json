@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "asOfUtc": "2027-12-31T20:00:00Z",
+  "recoveryWindowHours": 48,
+  "tables": {
+    "BillOfMaterial": {"physical": "billofmaterial", "key": "BillOfMaterialId", "rows": 8},
+    "SupplierSite": {"physical": "suppliersite", "key": "SupplierSiteId", "rows": 4},
+    "ComponentSupply": {"physical": "componentsupply", "key": "ComponentSupplyId", "rows": 5},
+    "SupplyRoute": {"physical": "supplyroute", "key": "SupplyRouteId", "rows": 4},
+    "RouteHub": {"physical": "routehub", "key": "RouteHubId", "rows": 6},
+    "LogisticsHub": {"physical": "logisticshub", "key": "LogisticsHubId", "rows": 4}
+  },
+  "relationships": [
+    {"name": "BillOfMaterialProduct", "from": "BillOfMaterial", "column": "ProductId", "to": "Product"},
+    {"name": "BillOfMaterialComponent", "from": "BillOfMaterial", "column": "ComponentId", "to": "Component"},
+    {"name": "SupplierSiteSupplier", "from": "SupplierSite", "column": "SupplierId", "to": "Supplier"},
+    {"name": "ComponentSupplyComponent", "from": "ComponentSupply", "column": "ComponentId", "to": "Component"},
+    {"name": "ComponentSupplySupplierSite", "from": "ComponentSupply", "column": "SupplierSiteId", "to": "SupplierSite"},
+    {"name": "ComponentSupplySupplyRoute", "from": "ComponentSupply", "column": "SupplyRouteId", "to": "SupplyRoute"},
+    {"name": "SupplyRouteSupplierSite", "from": "SupplyRoute", "column": "SupplierSiteId", "to": "SupplierSite"},
+    {"name": "SupplyRouteFacility", "from": "SupplyRoute", "column": "DestinationFacilityId", "to": "Facility"},
+    {"name": "SupplyRouteCarrier", "from": "SupplyRoute", "column": "CarrierId", "to": "Carrier"},
+    {"name": "RouteHubSupplyRoute", "from": "RouteHub", "column": "SupplyRouteId", "to": "SupplyRoute"},
+    {"name": "RouteHubLogisticsHub", "from": "RouteHub", "column": "LogisticsHubId", "to": "LogisticsHub"}
+  ],
+  "scenario": {
+    "sharedComponent": "COMPONENT-0001",
+    "closedHub": "HUB-0001",
+    "exposedProducts": ["PRODUCT-0001", "PRODUCT-0009", "PRODUCT-0010", "PRODUCT-0011"],
+    "additionalRequirementProducts": ["PRODUCT-0009", "PRODUCT-0010", "PRODUCT-0011"],
+    "comparisonProduct": "PRODUCT-0012",
+    "qualifiedWithinWindow": ["SUPPLY-0001", "SUPPLY-0002"],
+    "unqualifiedIndependentSupply": "SUPPLY-0003",
+    "slowIndependentSupply": "SUPPLY-0004",
+    "qualification": "Recorded product/order dependency exposure, not predicted lost sales, a cause of the existing shipment delays, or proof of route feasibility."
+  }
+}

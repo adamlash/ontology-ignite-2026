@@ -1,0 +1,6 @@
+[
+  {"SupplyRouteId":"ROUTE-0001","RouteName":"Cedar through Northbridge","SupplierSiteId":"SITE-0001","DestinationFacilityId":"FACILITY-0001","CarrierId":"CARRIER-0001","Status":"Active","TransitHours":12},
+  {"SupplyRouteId":"ROUTE-0002","RouteName":"Northstar through Northbridge","SupplierSiteId":"SITE-0002","DestinationFacilityId":"FACILITY-0005","CarrierId":"CARRIER-0002","Status":"Active","TransitHours":20},
+  {"SupplyRouteId":"ROUTE-0003","RouteName":"Summit independent coastal lane","SupplierSiteId":"SITE-0003","DestinationFacilityId":"FACILITY-0009","CarrierId":"CARRIER-0003","Status":"Active","TransitHours":10},
+  {"SupplyRouteId":"ROUTE-0004","RouteName":"Reserve independent coastal lane","SupplierSiteId":"SITE-0004","DestinationFacilityId":"FACILITY-0001","CarrierId":"CARRIER-0004","Status":"Active","TransitHours":12}
+]

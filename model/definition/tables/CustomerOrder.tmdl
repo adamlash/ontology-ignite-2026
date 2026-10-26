@@ -1,0 +1,120 @@
+/// A customer or channel commitment whose fulfillment protects revenue and trust.
+table CustomerOrder
+
+	/// Promised units currently at risk.
+	measure 'At Risk Customer Order Units' = CALCULATE(SUM('CustomerOrder'[OrderQuantity]), 'CustomerOrder'[Status] = "AtRisk")
+		formatString: #,##0
+
+	/// Stable customer-order identifier.
+	column CustomerOrderId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: CustomerOrderId
+
+		annotation OntologyProperty = CustomerOrderId
+
+	/// Product promised.
+	column ProductId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ProductId
+
+		annotation OntologyProperty = ProductId
+
+	/// Node receiving the order.
+	column DestinationFacilityId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: DestinationFacilityId
+
+		annotation OntologyProperty = DestinationFacilityId
+
+	/// Fulfillment market.
+	column Market
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Market
+
+		annotation businessOwner = Regional Sales
+
+		annotation OntologyProperty = Market
+
+		annotation OntologyReusableProperty = MarketCode
+
+	/// Fulfillment status.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Commercial priority segment.
+	column CustomerSegment
+		dataType: string
+		summarizeBy: none
+		sourceColumn: CustomerSegment
+
+		annotation OntologyProperty = CustomerSegment
+
+	/// Units promised.
+	column OrderQuantity
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: OrderQuantity
+
+		annotation unit = units
+
+		annotation OntologyProperty = OrderQuantity
+
+	/// Customer-requested delivery time.
+	column RequestedDate
+		dataType: dateTime
+		summarizeBy: none
+		sourceColumn: RequestedDate
+
+		annotation OntologyProperty = RequestedDate
+
+	/// Penalty for a missed unit.
+	column PenaltyPerUnit
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: PenaltyPerUnit
+
+		annotation currency = USD
+
+		annotation OntologyProperty = PenaltyPerUnit
+
+	/// Expected revenue per fulfilled unit.
+	column RevenuePerUnit
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: RevenuePerUnit
+
+		annotation currency = USD
+
+		annotation OntologyProperty = RevenuePerUnit
+
+	partition CustomerOrder-DirectLake = entity
+		mode: directLake
+		source
+			entityName: customerorder
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Commercial Operations
+
+	annotation grain = One row per customer order line
+
+	annotation sensitivity = Commercial
+
+	annotation OntologyQualifiedName = market#CustomerOrder
+
+	annotation OntologyNamespace = market
+
+	annotation OntologySynonyms = sales order; customer commitment
+

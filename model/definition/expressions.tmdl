@@ -1,0 +1,5 @@
+expression 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source' =
+	let
+		Source = AzureStorage.DataLake("{{ONELAKE_ROOT}}", [HierarchicalNavigation=true])
+	in
+		Source

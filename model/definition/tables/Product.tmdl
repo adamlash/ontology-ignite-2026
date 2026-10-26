@@ -1,0 +1,130 @@
+/// A sellable Zava consumer-electronics product whose availability and margin must be protected.
+table Product
+
+	/// Distinct sellable Zava products.
+	measure 'Product Count' = DISTINCTCOUNT('Product'[ProductId])
+		formatString: #,##0
+
+		annotation OntologyMeasureSynonyms = SKU count; portfolio size
+
+	/// Stable product identifier.
+	column ProductId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: ProductId
+
+		annotation semanticType = Identifier
+
+		annotation OntologyProperty = ProductId
+
+	/// Commercial product name.
+	column ProductName
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ProductName
+
+		annotation semanticType = Display name
+
+		annotation OntologyProperty = ProductName
+
+	/// Primary constrained component used by the product.
+	column PrimaryComponentId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: PrimaryComponentId
+
+		annotation OntologyProperty = PrimaryComponentId
+
+	/// Consumer-electronics category.
+	column Category
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Category
+
+		annotation OntologyProperty = Category
+
+	/// Commercial brand family.
+	column Brand
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Brand
+
+		annotation OntologyProperty = Brand
+
+	/// Product lifecycle status.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation businessOwner = Portfolio Management
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Standard manufactured unit cost.
+	column UnitCost
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: UnitCost
+
+		annotation currency = USD
+
+		annotation aggregation = Do not sum
+
+		annotation OntologyProperty = UnitCost
+
+	/// Current reference selling price.
+	column ListPrice
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: ListPrice
+
+		annotation currency = USD
+
+		annotation aggregation = Do not sum
+
+		annotation OntologyProperty = ListPrice
+
+	/// Target gross margin.
+	column TargetMarginPercent
+		dataType: double
+		summarizeBy: none
+		sourceColumn: TargetMarginPercent
+
+		annotation unit = percent
+
+		annotation OntologyProperty = TargetMarginPercent
+
+	/// Commercial priority used in allocation.
+	column Criticality
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Criticality
+
+		annotation OntologyProperty = Criticality
+
+	partition Product-DirectLake = entity
+		mode: directLake
+		source
+			entityName: product
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Product Operations
+
+	annotation grain = One row per sellable SKU
+
+	annotation systemOfRecord = PLM
+
+	annotation freshnessSla = Daily
+
+	annotation OntologyQualifiedName = products#Product
+
+	annotation OntologyNamespace = products
+
+	annotation OntologySynonyms = SKU; finished good; device
+

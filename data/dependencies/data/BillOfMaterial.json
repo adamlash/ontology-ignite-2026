@@ -1,0 +1,10 @@
+[
+  {"BillOfMaterialId":"BOM-0001","ProductId":"PRODUCT-0009","ComponentId":"COMPONENT-0009","RequirementName":"Wearable primary camera assembly","UnitsPerProduct":1},
+  {"BillOfMaterialId":"BOM-0002","ProductId":"PRODUCT-0009","ComponentId":"COMPONENT-0001","RequirementName":"Wearable shared control electronics","UnitsPerProduct":2},
+  {"BillOfMaterialId":"BOM-0003","ProductId":"PRODUCT-0010","ComponentId":"COMPONENT-0010","RequirementName":"Audio primary enclosure","UnitsPerProduct":1},
+  {"BillOfMaterialId":"BOM-0004","ProductId":"PRODUCT-0010","ComponentId":"COMPONENT-0001","RequirementName":"Audio shared control electronics","UnitsPerProduct":1},
+  {"BillOfMaterialId":"BOM-0005","ProductId":"PRODUCT-0011","ComponentId":"COMPONENT-0011","RequirementName":"Smartphone primary processor assembly","UnitsPerProduct":1},
+  {"BillOfMaterialId":"BOM-0006","ProductId":"PRODUCT-0011","ComponentId":"COMPONENT-0001","RequirementName":"Smartphone shared control electronics","UnitsPerProduct":3},
+  {"BillOfMaterialId":"BOM-0007","ProductId":"PRODUCT-0012","ComponentId":"COMPONENT-0012","RequirementName":"Tablet primary display","UnitsPerProduct":1},
+  {"BillOfMaterialId":"BOM-0008","ProductId":"PRODUCT-0012","ComponentId":"COMPONENT-0005","RequirementName":"Tablet independent enclosure supply","UnitsPerProduct":1}
+]

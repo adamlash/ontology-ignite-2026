@@ -1,0 +1,106 @@
+/// A proposed or executing cross-functional action intended to reduce business impact.
+table Intervention
+
+	/// Interventions still requiring action.
+	measure 'Open Intervention Count' = CALCULATE(COUNTROWS('Intervention'), 'Intervention'[Status] <> "Complete", 'Intervention'[Status] <> "Rejected")
+		formatString: #,##0
+
+	/// Stable intervention identifier.
+	column InterventionId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: InterventionId
+
+		annotation OntologyProperty = InterventionId
+
+	/// Disruption addressed.
+	column DisruptionId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: DisruptionId
+
+		annotation OntologyProperty = DisruptionId
+
+	/// Shipment affected.
+	column ShipmentId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ShipmentId
+
+		annotation OntologyProperty = ShipmentId
+
+	/// Accountable function.
+	column Owner
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Owner
+
+		annotation OntologyProperty = Owner
+
+	/// Governed response pattern.
+	column ActionType
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ActionType
+
+		annotation OntologyProperty = ActionType
+
+	/// Execution state.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Estimated incremental cost.
+	column EstimatedCost
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: EstimatedCost
+
+		annotation currency = USD
+
+		annotation OntologyProperty = EstimatedCost
+
+	/// Units expected to be protected.
+	column ExpectedRecoveryUnits
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: ExpectedRecoveryUnits
+
+		annotation unit = units
+
+		annotation OntologyProperty = ExpectedRecoveryUnits
+
+	/// Action deadline.
+	column DueDate
+		dataType: dateTime
+		summarizeBy: none
+		sourceColumn: DueDate
+
+		annotation OntologyProperty = DueDate
+
+	partition Intervention-DirectLake = entity
+		mode: directLake
+		source
+			entityName: intervention
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Supply Chain Control Tower
+
+	annotation grain = One row per mitigation
+
+	annotation auditRequirement = Owner, cost, benefit, and status required
+
+	annotation OntologyQualifiedName = governance#Intervention
+
+	annotation OntologyNamespace = governance
+
+	annotation OntologySynonyms = mitigation; response action
+

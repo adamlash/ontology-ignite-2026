@@ -1,0 +1,88 @@
+relationship ProductUsesPrimaryComponent
+	fromColumn: Product.PrimaryComponentId
+	toColumn: Component.ComponentId
+
+relationship ComponentSuppliedBy
+	fromColumn: Component.SupplierId
+	toColumn: Supplier.SupplierId
+
+relationship InventoryForProduct
+	fromColumn: InventoryPosition.ProductId
+	toColumn: Product.ProductId
+
+relationship InventoryAtFacility
+	fromColumn: InventoryPosition.FacilityId
+	toColumn: Facility.ObjectId
+
+relationship ProductionBuildsProduct
+	fromColumn: ProductionOrder.ProductId
+	toColumn: Product.ProductId
+
+relationship ProductionAtFacility
+	isActive: false
+	fromColumn: ProductionOrder.FacilityId
+	toColumn: Facility.ObjectId
+
+relationship OrderForProduct
+	fromColumn: CustomerOrder.ProductId
+	toColumn: Product.ProductId
+
+relationship OrderDeliveredTo
+	isActive: false
+	fromColumn: CustomerOrder.DestinationFacilityId
+	toColumn: Facility.ObjectId
+
+relationship ShipmentContainsProduct
+	isActive: false
+	fromColumn: Shipment.ProductId
+	toColumn: Product.ProductId
+
+relationship ShipmentFulfillsOrder
+	fromColumn: Shipment.CustomerOrderId
+	toColumn: CustomerOrder.CustomerOrderId
+
+relationship ShipmentOrigin
+	isActive: false
+	fromColumn: Shipment.OriginFacilityId
+	toColumn: Facility.ObjectId
+
+relationship ShipmentDestination
+	isActive: false
+	fromColumn: Shipment.DestinationFacilityId
+	toColumn: Facility.ObjectId
+
+relationship ShipmentMovedBy
+	fromColumn: Shipment.CarrierId
+	toColumn: Carrier.CarrierId
+
+relationship DemandForProduct
+	fromColumn: DemandSignal.ProductId
+	toColumn: Product.ProductId
+
+relationship DisruptionAffectsSupplier
+	fromColumn: Disruption.SupplierId
+	toColumn: Supplier.SupplierId
+
+relationship DisruptionAffectsFacility
+	isActive: false
+	fromColumn: Disruption.FacilityId
+	toColumn: Facility.ObjectId
+
+relationship DisruptionAffectsShipment
+	isActive: false
+	fromColumn: Disruption.ShipmentId
+	toColumn: Shipment.ShipmentId
+
+relationship InterventionRespondsTo
+	fromColumn: Intervention.DisruptionId
+	toColumn: Disruption.EventId
+
+relationship InterventionForShipment
+	isActive: false
+	fromColumn: Intervention.ShipmentId
+	toColumn: Shipment.ShipmentId
+
+relationship DecisionControlsIntervention
+	fromColumn: DecisionRecord.InterventionId
+	toColumn: Intervention.InterventionId
+

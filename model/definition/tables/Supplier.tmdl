@@ -1,0 +1,114 @@
+/// An approved supplier providing components or manufacturing capacity to Zava.
+table Supplier
+
+	/// Stable supplier identifier.
+	column SupplierId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: SupplierId
+
+		annotation OntologyProperty = SupplierId
+
+	/// Supplier trading name.
+	column SupplierName
+		dataType: string
+		summarizeBy: none
+		sourceColumn: SupplierName
+
+		annotation OntologyProperty = SupplierName
+
+	/// Supplier role in the value chain.
+	column SupplierTier
+		dataType: string
+		summarizeBy: none
+		sourceColumn: SupplierTier
+
+		annotation OntologyProperty = SupplierTier
+
+	/// Primary operating country.
+	column Country
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Country
+
+		annotation OntologyProperty = Country
+
+	/// Primary operating region.
+	column Region
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Region
+
+		annotation OntologyProperty = Region
+
+	/// Current sourcing status.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Units committed for the planning horizon.
+	column CapacityCommitmentUnits
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: CapacityCommitmentUnits
+
+		annotation unit = units
+
+		annotation OntologyProperty = CapacityCommitmentUnits
+
+	/// Trailing on-time delivery.
+	column OnTimeDeliveryPercent
+		dataType: double
+		summarizeBy: none
+		sourceColumn: OnTimeDeliveryPercent
+
+		annotation unit = percent
+
+		annotation OntologyProperty = OnTimeDeliveryPercent
+
+	/// Trailing received defect rate.
+	column DefectRatePercent
+		dataType: double
+		summarizeBy: none
+		sourceColumn: DefectRatePercent
+
+		annotation unit = percent
+
+		annotation direction = Lower is better
+
+		annotation OntologyProperty = DefectRatePercent
+
+	/// Current supplier risk classification.
+	column RiskTier
+		dataType: string
+		summarizeBy: none
+		sourceColumn: RiskTier
+
+		annotation OntologyProperty = RiskTier
+
+	partition Supplier-DirectLake = entity
+		mode: directLake
+		source
+			entityName: supplier
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Global Procurement
+
+	annotation grain = One row per supplier
+
+	annotation sensitivity = Commercial
+
+	annotation OntologyQualifiedName = partners#Supplier
+
+	annotation OntologyNamespace = partners
+
+	annotation OntologySynonyms = vendor; source partner
+

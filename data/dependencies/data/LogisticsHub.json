@@ -1,0 +1,6 @@
+[
+  {"LogisticsHubId":"HUB-0001","HubName":"Northbridge Transfer Hub","HubType":"Intermodal","Status":"Closed","ExpectedRecoveryHours":72,"SnapshotTime":"2027-12-31T20:00:00Z"},
+  {"LogisticsHubId":"HUB-0002","HubName":"Hillcrest Air Hub","HubType":"Air","Status":"Open","ExpectedRecoveryHours":0,"SnapshotTime":"2027-12-31T20:00:00Z"},
+  {"LogisticsHubId":"HUB-0003","HubName":"Westgate Rail Hub","HubType":"Rail","Status":"Open","ExpectedRecoveryHours":0,"SnapshotTime":"2027-12-31T20:00:00Z"},
+  {"LogisticsHubId":"HUB-0004","HubName":"Independent Coastal Port","HubType":"Port","Status":"Open","ExpectedRecoveryHours":0,"SnapshotTime":"2027-12-31T20:00:00Z"}
+]

@@ -1,0 +1,30 @@
+{
+  "ShipmentTelemetry": {
+    "ShipmentId": "string",
+    "ObservationTime": "datetime",
+    "EstimatedDelayHours": "real",
+    "ShockG": "real",
+    "RouteRiskScore": "real"
+  },
+  "InventoryPositionTelemetry": {
+    "InventoryPositionId": "string",
+    "ObservationTime": "datetime",
+    "AvailableToPromiseUnits": "long",
+    "DaysOfSupply": "real",
+    "StockoutRiskScore": "real"
+  },
+  "ProductionOrderTelemetry": {
+    "ProductionOrderId": "string",
+    "ObservationTime": "datetime",
+    "YieldPercent": "real",
+    "ThroughputUnitsPerHour": "real",
+    "LineDeviationScore": "real"
+  },
+  "DemandSignalTelemetry": {
+    "DemandSignalId": "string",
+    "ObservationTime": "datetime",
+    "ActualDemandUnits": "real",
+    "DemandSurgePercent": "real",
+    "DemandRiskScore": "real"
+  }
+}

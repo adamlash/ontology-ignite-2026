@@ -1,0 +1,51 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	discourageImplicitMeasures
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation businessDomain = Global consumer products supply chain
+
+annotation industry = Consumer electronics
+
+annotation businessOutcomes = Availability; quality; cost; resilience; customer loyalty
+
+annotation decisionHorizon = Minutes to weeks
+
+annotation dataClassification = Synthetic operational demo data
+
+annotation executiveOwner = Chief Supply Chain Officer
+
+annotation ontologyVersion = 2.0-demo
+
+annotation scenario = Zava global control tower
+
+annotation scenarioProfile = zava-year-end-2027
+
+annotation scenarioStartTime = 2027-01-01T00:00:00Z
+
+annotation scenarioEvaluationTime = 2027-12-31T20:00:00Z
+
+annotation OntologyDemoName = ZavaSupplyChain2027
+
+annotation OntologyCustomer = Zava
+
+annotation OntologyUseCase = Protect global consumer-electronics availability, quality, margin, and customer commitments by reasoning across demand, inventory, production, suppliers, logistics, disruptions, interventions, and governed decisions.
+
+ref table Product
+ref table Component
+ref table Supplier
+ref table Carrier
+ref table Facility
+ref table InventoryPosition
+ref table ProductionOrder
+ref table CustomerOrder
+ref table Shipment
+ref table DemandSignal
+ref table Disruption
+ref table Intervention
+ref table DecisionRecord
+

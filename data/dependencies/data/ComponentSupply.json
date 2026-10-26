@@ -1,0 +1,7 @@
+[
+  {"ComponentSupplyId":"SUPPLY-0001","ComponentId":"COMPONENT-0001","SupplierSiteId":"SITE-0001","SupplyRouteId":"ROUTE-0001","QualificationStatus":"Qualified","LeadTimeHours":24,"DailyCapacityUnits":90},
+  {"ComponentSupplyId":"SUPPLY-0002","ComponentId":"COMPONENT-0001","SupplierSiteId":"SITE-0002","SupplyRouteId":"ROUTE-0002","QualificationStatus":"Qualified","LeadTimeHours":36,"DailyCapacityUnits":110},
+  {"ComponentSupplyId":"SUPPLY-0003","ComponentId":"COMPONENT-0001","SupplierSiteId":"SITE-0003","SupplyRouteId":"ROUTE-0003","QualificationStatus":"Pending","LeadTimeHours":18,"DailyCapacityUnits":300},
+  {"ComponentSupplyId":"SUPPLY-0004","ComponentId":"COMPONENT-0001","SupplierSiteId":"SITE-0004","SupplyRouteId":"ROUTE-0004","QualificationStatus":"Qualified","LeadTimeHours":96,"DailyCapacityUnits":40},
+  {"ComponentSupplyId":"SUPPLY-0005","ComponentId":"COMPONENT-0005","SupplierSiteId":"SITE-0004","SupplyRouteId":"ROUTE-0004","QualificationStatus":"Qualified","LeadTimeHours":18,"DailyCapacityUnits":250}
+]

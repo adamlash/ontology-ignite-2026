@@ -1,0 +1,112 @@
+/// The current and projected inventory position for a product at a facility.
+table InventoryPosition
+
+	/// Physical inventory units on hand.
+	measure 'On Hand Inventory Units' = SUM('InventoryPosition'[OnHandUnits])
+		formatString: #,##0
+
+		annotation OntologyMeasureSynonyms = stock on hand; inventory units
+
+	/// On-hand units remaining after commitments.
+	measure 'Net Available Inventory Units' = SUMX('InventoryPosition', 'InventoryPosition'[OnHandUnits] - 'InventoryPosition'[CommittedUnits])
+		formatString: #,##0
+
+		annotation OntologyMeasureSynonyms = net ATP; uncommitted inventory
+
+	/// Available inventory divided by forecast demand.
+	measure 'Demand Coverage Ratio' = DIVIDE([Net Available Inventory Units], [Forecast Demand Units])
+		formatString: 0.0%
+
+		annotation OntologyMeasureSynonyms = coverage; availability ratio
+
+	/// Stable inventory-position identifier.
+	column InventoryPositionId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: InventoryPositionId
+
+		annotation OntologyProperty = InventoryPositionId
+
+	/// Product held at the facility.
+	column ProductId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ProductId
+
+		annotation OntologyProperty = ProductId
+
+	/// Facility where inventory is held.
+	column FacilityId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: FacilityId
+
+		annotation OntologyProperty = FacilityId
+
+	/// Inventory health status.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Physical units on hand.
+	column OnHandUnits
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: OnHandUnits
+
+		annotation unit = units
+
+		annotation aggregation = Sum
+
+		annotation OntologyProperty = OnHandUnits
+
+	/// Units already committed.
+	column CommittedUnits
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: CommittedUnits
+
+		annotation unit = units
+
+		annotation aggregation = Sum
+
+		annotation OntologyProperty = CommittedUnits
+
+	/// Policy safety-stock quantity.
+	column SafetyStockUnits
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: SafetyStockUnits
+
+		annotation unit = units
+
+		annotation OntologyProperty = SafetyStockUnits
+
+	partition InventoryPosition-DirectLake = entity
+		mode: directLake
+		source
+			entityName: inventoryposition
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Inventory Planning
+
+	annotation grain = Product x facility
+
+	annotation freshnessSla = 15 minutes
+
+	annotation decisionUse = Allocation and replenishment
+
+	annotation OntologyQualifiedName = operations#InventoryPosition
+
+	annotation OntologyNamespace = operations
+
+	annotation OntologySynonyms = stock position; inventory balance; ATP
+

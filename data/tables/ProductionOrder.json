@@ -1,0 +1,902 @@
+[
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0001",
+    "ProductId": "PRODUCT-0005",
+    "FacilityId": "FACILITY-0006",
+    "Status": "Planned",
+    "PlannedQuantity": 1,
+    "CompletedQuantity": 1,
+    "PromiseDate": "2027-01-01T00:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0002",
+    "ProductId": "PRODUCT-0006",
+    "FacilityId": "FACILITY-0007",
+    "Status": "Released",
+    "PlannedQuantity": 2,
+    "CompletedQuantity": 2,
+    "PromiseDate": "2027-01-04T16:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0003",
+    "ProductId": "PRODUCT-0007",
+    "FacilityId": "FACILITY-0008",
+    "Status": "Running",
+    "PlannedQuantity": 3,
+    "CompletedQuantity": 3,
+    "PromiseDate": "2027-01-08T08:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0004",
+    "ProductId": "PRODUCT-0008",
+    "FacilityId": "FACILITY-0009",
+    "Status": "Blocked",
+    "PlannedQuantity": 4,
+    "CompletedQuantity": 4,
+    "PromiseDate": "2027-01-12T01:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0005",
+    "ProductId": "PRODUCT-0009",
+    "FacilityId": "FACILITY-0010",
+    "Status": "Complete",
+    "PlannedQuantity": 5,
+    "CompletedQuantity": 5,
+    "PromiseDate": "2027-01-15T17:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0006",
+    "ProductId": "PRODUCT-0010",
+    "FacilityId": "FACILITY-0011",
+    "Status": "Planned",
+    "PlannedQuantity": 6,
+    "CompletedQuantity": 6,
+    "PromiseDate": "2027-01-19T10:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0007",
+    "ProductId": "PRODUCT-0011",
+    "FacilityId": "FACILITY-0012",
+    "Status": "Released",
+    "PlannedQuantity": 7,
+    "CompletedQuantity": 7,
+    "PromiseDate": "2027-01-23T02:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0008",
+    "ProductId": "PRODUCT-0012",
+    "FacilityId": "FACILITY-0013",
+    "Status": "Running",
+    "PlannedQuantity": 8,
+    "CompletedQuantity": 8,
+    "PromiseDate": "2027-01-26T19:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0009",
+    "ProductId": "PRODUCT-0013",
+    "FacilityId": "FACILITY-0014",
+    "Status": "Blocked",
+    "PlannedQuantity": 9,
+    "CompletedQuantity": 9,
+    "PromiseDate": "2027-01-30T11:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0010",
+    "ProductId": "PRODUCT-0014",
+    "FacilityId": "FACILITY-0015",
+    "Status": "Complete",
+    "PlannedQuantity": 10,
+    "CompletedQuantity": 10,
+    "PromiseDate": "2027-02-03T04:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0011",
+    "ProductId": "PRODUCT-0015",
+    "FacilityId": "FACILITY-0016",
+    "Status": "Planned",
+    "PlannedQuantity": 11,
+    "CompletedQuantity": 11,
+    "PromiseDate": "2027-02-06T20:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0012",
+    "ProductId": "PRODUCT-0016",
+    "FacilityId": "FACILITY-0017",
+    "Status": "Released",
+    "PlannedQuantity": 12,
+    "CompletedQuantity": 12,
+    "PromiseDate": "2027-02-10T12:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0013",
+    "ProductId": "PRODUCT-0017",
+    "FacilityId": "FACILITY-0018",
+    "Status": "Running",
+    "PlannedQuantity": 13,
+    "CompletedQuantity": 13,
+    "PromiseDate": "2027-02-14T05:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0014",
+    "ProductId": "PRODUCT-0018",
+    "FacilityId": "FACILITY-0019",
+    "Status": "Blocked",
+    "PlannedQuantity": 14,
+    "CompletedQuantity": 14,
+    "PromiseDate": "2027-02-17T21:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0015",
+    "ProductId": "PRODUCT-0019",
+    "FacilityId": "FACILITY-0020",
+    "Status": "Complete",
+    "PlannedQuantity": 15,
+    "CompletedQuantity": 15,
+    "PromiseDate": "2027-02-21T14:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0016",
+    "ProductId": "PRODUCT-0020",
+    "FacilityId": "FACILITY-0021",
+    "Status": "Planned",
+    "PlannedQuantity": 16,
+    "CompletedQuantity": 16,
+    "PromiseDate": "2027-02-25T06:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0017",
+    "ProductId": "PRODUCT-0021",
+    "FacilityId": "FACILITY-0022",
+    "Status": "Released",
+    "PlannedQuantity": 17,
+    "CompletedQuantity": 17,
+    "PromiseDate": "2027-02-28T23:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0018",
+    "ProductId": "PRODUCT-0022",
+    "FacilityId": "FACILITY-0023",
+    "Status": "Running",
+    "PlannedQuantity": 18,
+    "CompletedQuantity": 18,
+    "PromiseDate": "2027-03-04T15:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0019",
+    "ProductId": "PRODUCT-0023",
+    "FacilityId": "FACILITY-0024",
+    "Status": "Blocked",
+    "PlannedQuantity": 19,
+    "CompletedQuantity": 19,
+    "PromiseDate": "2027-03-08T08:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0020",
+    "ProductId": "PRODUCT-0024",
+    "FacilityId": "FACILITY-0025",
+    "Status": "Complete",
+    "PlannedQuantity": 20,
+    "CompletedQuantity": 20,
+    "PromiseDate": "2027-03-12T00:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0021",
+    "ProductId": "PRODUCT-0025",
+    "FacilityId": "FACILITY-0026",
+    "Status": "Planned",
+    "PlannedQuantity": 21,
+    "CompletedQuantity": 21,
+    "PromiseDate": "2027-03-15T16:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0022",
+    "ProductId": "PRODUCT-0026",
+    "FacilityId": "FACILITY-0027",
+    "Status": "Released",
+    "PlannedQuantity": 22,
+    "CompletedQuantity": 22,
+    "PromiseDate": "2027-03-19T09:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0023",
+    "ProductId": "PRODUCT-0027",
+    "FacilityId": "FACILITY-0028",
+    "Status": "Running",
+    "PlannedQuantity": 23,
+    "CompletedQuantity": 23,
+    "PromiseDate": "2027-03-23T01:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0024",
+    "ProductId": "PRODUCT-0028",
+    "FacilityId": "FACILITY-0029",
+    "Status": "Blocked",
+    "PlannedQuantity": 24,
+    "CompletedQuantity": 24,
+    "PromiseDate": "2027-03-26T18:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0025",
+    "ProductId": "PRODUCT-0029",
+    "FacilityId": "FACILITY-0030",
+    "Status": "Complete",
+    "PlannedQuantity": 25,
+    "CompletedQuantity": 25,
+    "PromiseDate": "2027-03-30T10:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0026",
+    "ProductId": "PRODUCT-0030",
+    "FacilityId": "FACILITY-0031",
+    "Status": "Planned",
+    "PlannedQuantity": 26,
+    "CompletedQuantity": 26,
+    "PromiseDate": "2027-04-03T03:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0027",
+    "ProductId": "PRODUCT-0031",
+    "FacilityId": "FACILITY-0032",
+    "Status": "Released",
+    "PlannedQuantity": 27,
+    "CompletedQuantity": 27,
+    "PromiseDate": "2027-04-06T19:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0028",
+    "ProductId": "PRODUCT-0032",
+    "FacilityId": "FACILITY-0033",
+    "Status": "Running",
+    "PlannedQuantity": 28,
+    "CompletedQuantity": 28,
+    "PromiseDate": "2027-04-10T12:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0029",
+    "ProductId": "PRODUCT-0033",
+    "FacilityId": "FACILITY-0034",
+    "Status": "Blocked",
+    "PlannedQuantity": 29,
+    "CompletedQuantity": 29,
+    "PromiseDate": "2027-04-14T04:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0030",
+    "ProductId": "PRODUCT-0034",
+    "FacilityId": "FACILITY-0035",
+    "Status": "Complete",
+    "PlannedQuantity": 30,
+    "CompletedQuantity": 30,
+    "PromiseDate": "2027-04-17T20:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0031",
+    "ProductId": "PRODUCT-0035",
+    "FacilityId": "FACILITY-0036",
+    "Status": "Planned",
+    "PlannedQuantity": 31,
+    "CompletedQuantity": 31,
+    "PromiseDate": "2027-04-21T13:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0032",
+    "ProductId": "PRODUCT-0036",
+    "FacilityId": "FACILITY-0037",
+    "Status": "Released",
+    "PlannedQuantity": 32,
+    "CompletedQuantity": 32,
+    "PromiseDate": "2027-04-25T05:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0033",
+    "ProductId": "PRODUCT-0037",
+    "FacilityId": "FACILITY-0038",
+    "Status": "Running",
+    "PlannedQuantity": 33,
+    "CompletedQuantity": 33,
+    "PromiseDate": "2027-04-28T22:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0034",
+    "ProductId": "PRODUCT-0038",
+    "FacilityId": "FACILITY-0039",
+    "Status": "Blocked",
+    "PlannedQuantity": 34,
+    "CompletedQuantity": 34,
+    "PromiseDate": "2027-05-02T14:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0035",
+    "ProductId": "PRODUCT-0039",
+    "FacilityId": "FACILITY-0040",
+    "Status": "Complete",
+    "PlannedQuantity": 35,
+    "CompletedQuantity": 35,
+    "PromiseDate": "2027-05-06T07:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0036",
+    "ProductId": "PRODUCT-0040",
+    "FacilityId": "FACILITY-0041",
+    "Status": "Planned",
+    "PlannedQuantity": 36,
+    "CompletedQuantity": 36,
+    "PromiseDate": "2027-05-09T23:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0037",
+    "ProductId": "PRODUCT-0041",
+    "FacilityId": "FACILITY-0042",
+    "Status": "Released",
+    "PlannedQuantity": 37,
+    "CompletedQuantity": 37,
+    "PromiseDate": "2027-05-13T16:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0038",
+    "ProductId": "PRODUCT-0042",
+    "FacilityId": "FACILITY-0043",
+    "Status": "Running",
+    "PlannedQuantity": 38,
+    "CompletedQuantity": 38,
+    "PromiseDate": "2027-05-17T08:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0039",
+    "ProductId": "PRODUCT-0043",
+    "FacilityId": "FACILITY-0044",
+    "Status": "Blocked",
+    "PlannedQuantity": 39,
+    "CompletedQuantity": 39,
+    "PromiseDate": "2027-05-21T00:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0040",
+    "ProductId": "PRODUCT-0044",
+    "FacilityId": "FACILITY-0045",
+    "Status": "Complete",
+    "PlannedQuantity": 40,
+    "CompletedQuantity": 40,
+    "PromiseDate": "2027-05-24T17:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0041",
+    "ProductId": "PRODUCT-0045",
+    "FacilityId": "FACILITY-0046",
+    "Status": "Planned",
+    "PlannedQuantity": 41,
+    "CompletedQuantity": 41,
+    "PromiseDate": "2027-05-28T09:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0042",
+    "ProductId": "PRODUCT-0046",
+    "FacilityId": "FACILITY-0047",
+    "Status": "Released",
+    "PlannedQuantity": 42,
+    "CompletedQuantity": 42,
+    "PromiseDate": "2027-06-01T02:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0043",
+    "ProductId": "PRODUCT-0047",
+    "FacilityId": "FACILITY-0048",
+    "Status": "Running",
+    "PlannedQuantity": 43,
+    "CompletedQuantity": 43,
+    "PromiseDate": "2027-06-04T18:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0044",
+    "ProductId": "PRODUCT-0048",
+    "FacilityId": "FACILITY-0001",
+    "Status": "Blocked",
+    "PlannedQuantity": 44,
+    "CompletedQuantity": 44,
+    "PromiseDate": "2027-06-08T11:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0045",
+    "ProductId": "PRODUCT-0049",
+    "FacilityId": "FACILITY-0002",
+    "Status": "Complete",
+    "PlannedQuantity": 45,
+    "CompletedQuantity": 45,
+    "PromiseDate": "2027-06-12T03:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0046",
+    "ProductId": "PRODUCT-0050",
+    "FacilityId": "FACILITY-0003",
+    "Status": "Planned",
+    "PlannedQuantity": 46,
+    "CompletedQuantity": 46,
+    "PromiseDate": "2027-06-15T20:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0047",
+    "ProductId": "PRODUCT-0051",
+    "FacilityId": "FACILITY-0004",
+    "Status": "Released",
+    "PlannedQuantity": 47,
+    "CompletedQuantity": 47,
+    "PromiseDate": "2027-06-19T12:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0048",
+    "ProductId": "PRODUCT-0052",
+    "FacilityId": "FACILITY-0005",
+    "Status": "Running",
+    "PlannedQuantity": 48,
+    "CompletedQuantity": 48,
+    "PromiseDate": "2027-06-23T04:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0049",
+    "ProductId": "PRODUCT-0053",
+    "FacilityId": "FACILITY-0006",
+    "Status": "Blocked",
+    "PlannedQuantity": 49,
+    "CompletedQuantity": 49,
+    "PromiseDate": "2027-06-26T21:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0050",
+    "ProductId": "PRODUCT-0054",
+    "FacilityId": "FACILITY-0007",
+    "Status": "Complete",
+    "PlannedQuantity": 50,
+    "CompletedQuantity": 50,
+    "PromiseDate": "2027-06-30T13:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0051",
+    "ProductId": "PRODUCT-0055",
+    "FacilityId": "FACILITY-0008",
+    "Status": "Planned",
+    "PlannedQuantity": 51,
+    "CompletedQuantity": 51,
+    "PromiseDate": "2027-07-04T06:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0052",
+    "ProductId": "PRODUCT-0056",
+    "FacilityId": "FACILITY-0009",
+    "Status": "Released",
+    "PlannedQuantity": 52,
+    "CompletedQuantity": 52,
+    "PromiseDate": "2027-07-07T22:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0053",
+    "ProductId": "PRODUCT-0057",
+    "FacilityId": "FACILITY-0010",
+    "Status": "Running",
+    "PlannedQuantity": 53,
+    "CompletedQuantity": 53,
+    "PromiseDate": "2027-07-11T15:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0054",
+    "ProductId": "PRODUCT-0058",
+    "FacilityId": "FACILITY-0011",
+    "Status": "Blocked",
+    "PlannedQuantity": 54,
+    "CompletedQuantity": 54,
+    "PromiseDate": "2027-07-15T07:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0055",
+    "ProductId": "PRODUCT-0059",
+    "FacilityId": "FACILITY-0012",
+    "Status": "Complete",
+    "PlannedQuantity": 55,
+    "CompletedQuantity": 55,
+    "PromiseDate": "2027-07-19T00:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0056",
+    "ProductId": "PRODUCT-0060",
+    "FacilityId": "FACILITY-0013",
+    "Status": "Planned",
+    "PlannedQuantity": 56,
+    "CompletedQuantity": 56,
+    "PromiseDate": "2027-07-22T16:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0057",
+    "ProductId": "PRODUCT-0061",
+    "FacilityId": "FACILITY-0014",
+    "Status": "Released",
+    "PlannedQuantity": 57,
+    "CompletedQuantity": 57,
+    "PromiseDate": "2027-07-26T08:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0058",
+    "ProductId": "PRODUCT-0062",
+    "FacilityId": "FACILITY-0015",
+    "Status": "Running",
+    "PlannedQuantity": 58,
+    "CompletedQuantity": 58,
+    "PromiseDate": "2027-07-30T01:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0059",
+    "ProductId": "PRODUCT-0063",
+    "FacilityId": "FACILITY-0016",
+    "Status": "Blocked",
+    "PlannedQuantity": 59,
+    "CompletedQuantity": 59,
+    "PromiseDate": "2027-08-02T17:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0060",
+    "ProductId": "PRODUCT-0064",
+    "FacilityId": "FACILITY-0017",
+    "Status": "Complete",
+    "PlannedQuantity": 60,
+    "CompletedQuantity": 60,
+    "PromiseDate": "2027-08-06T10:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0061",
+    "ProductId": "PRODUCT-0065",
+    "FacilityId": "FACILITY-0018",
+    "Status": "Planned",
+    "PlannedQuantity": 61,
+    "CompletedQuantity": 61,
+    "PromiseDate": "2027-08-10T02:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0062",
+    "ProductId": "PRODUCT-0066",
+    "FacilityId": "FACILITY-0019",
+    "Status": "Released",
+    "PlannedQuantity": 62,
+    "CompletedQuantity": 62,
+    "PromiseDate": "2027-08-13T19:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0063",
+    "ProductId": "PRODUCT-0067",
+    "FacilityId": "FACILITY-0020",
+    "Status": "Running",
+    "PlannedQuantity": 63,
+    "CompletedQuantity": 63,
+    "PromiseDate": "2027-08-17T11:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0064",
+    "ProductId": "PRODUCT-0068",
+    "FacilityId": "FACILITY-0021",
+    "Status": "Blocked",
+    "PlannedQuantity": 64,
+    "CompletedQuantity": 64,
+    "PromiseDate": "2027-08-21T04:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0065",
+    "ProductId": "PRODUCT-0069",
+    "FacilityId": "FACILITY-0022",
+    "Status": "Complete",
+    "PlannedQuantity": 65,
+    "CompletedQuantity": 65,
+    "PromiseDate": "2027-08-24T20:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0066",
+    "ProductId": "PRODUCT-0070",
+    "FacilityId": "FACILITY-0023",
+    "Status": "Planned",
+    "PlannedQuantity": 66,
+    "CompletedQuantity": 66,
+    "PromiseDate": "2027-08-28T12:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0067",
+    "ProductId": "PRODUCT-0071",
+    "FacilityId": "FACILITY-0024",
+    "Status": "Released",
+    "PlannedQuantity": 67,
+    "CompletedQuantity": 67,
+    "PromiseDate": "2027-09-01T05:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0068",
+    "ProductId": "PRODUCT-0072",
+    "FacilityId": "FACILITY-0025",
+    "Status": "Running",
+    "PlannedQuantity": 68,
+    "CompletedQuantity": 68,
+    "PromiseDate": "2027-09-04T21:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0069",
+    "ProductId": "PRODUCT-0073",
+    "FacilityId": "FACILITY-0026",
+    "Status": "Blocked",
+    "PlannedQuantity": 69,
+    "CompletedQuantity": 69,
+    "PromiseDate": "2027-09-08T14:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0070",
+    "ProductId": "PRODUCT-0074",
+    "FacilityId": "FACILITY-0027",
+    "Status": "Complete",
+    "PlannedQuantity": 70,
+    "CompletedQuantity": 70,
+    "PromiseDate": "2027-09-12T06:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0071",
+    "ProductId": "PRODUCT-0075",
+    "FacilityId": "FACILITY-0028",
+    "Status": "Planned",
+    "PlannedQuantity": 71,
+    "CompletedQuantity": 71,
+    "PromiseDate": "2027-09-15T23:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0072",
+    "ProductId": "PRODUCT-0076",
+    "FacilityId": "FACILITY-0029",
+    "Status": "Released",
+    "PlannedQuantity": 72,
+    "CompletedQuantity": 72,
+    "PromiseDate": "2027-09-19T15:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0073",
+    "ProductId": "PRODUCT-0077",
+    "FacilityId": "FACILITY-0030",
+    "Status": "Running",
+    "PlannedQuantity": 73,
+    "CompletedQuantity": 73,
+    "PromiseDate": "2027-09-23T08:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0074",
+    "ProductId": "PRODUCT-0078",
+    "FacilityId": "FACILITY-0031",
+    "Status": "Blocked",
+    "PlannedQuantity": 74,
+    "CompletedQuantity": 74,
+    "PromiseDate": "2027-09-27T00:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0075",
+    "ProductId": "PRODUCT-0079",
+    "FacilityId": "FACILITY-0032",
+    "Status": "Complete",
+    "PlannedQuantity": 75,
+    "CompletedQuantity": 75,
+    "PromiseDate": "2027-09-30T16:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0076",
+    "ProductId": "PRODUCT-0080",
+    "FacilityId": "FACILITY-0033",
+    "Status": "Planned",
+    "PlannedQuantity": 76,
+    "CompletedQuantity": 76,
+    "PromiseDate": "2027-10-04T09:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0077",
+    "ProductId": "PRODUCT-0001",
+    "FacilityId": "FACILITY-0034",
+    "Status": "Released",
+    "PlannedQuantity": 77,
+    "CompletedQuantity": 77,
+    "PromiseDate": "2027-10-08T01:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0078",
+    "ProductId": "PRODUCT-0002",
+    "FacilityId": "FACILITY-0035",
+    "Status": "Running",
+    "PlannedQuantity": 78,
+    "CompletedQuantity": 78,
+    "PromiseDate": "2027-10-11T18:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0079",
+    "ProductId": "PRODUCT-0003",
+    "FacilityId": "FACILITY-0036",
+    "Status": "Blocked",
+    "PlannedQuantity": 79,
+    "CompletedQuantity": 79,
+    "PromiseDate": "2027-10-15T10:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0080",
+    "ProductId": "PRODUCT-0004",
+    "FacilityId": "FACILITY-0037",
+    "Status": "Complete",
+    "PlannedQuantity": 80,
+    "CompletedQuantity": 80,
+    "PromiseDate": "2027-10-19T03:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0081",
+    "ProductId": "PRODUCT-0005",
+    "FacilityId": "FACILITY-0038",
+    "Status": "Planned",
+    "PlannedQuantity": 81,
+    "CompletedQuantity": 81,
+    "PromiseDate": "2027-10-22T19:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0082",
+    "ProductId": "PRODUCT-0006",
+    "FacilityId": "FACILITY-0039",
+    "Status": "Released",
+    "PlannedQuantity": 82,
+    "CompletedQuantity": 82,
+    "PromiseDate": "2027-10-26T12:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0083",
+    "ProductId": "PRODUCT-0007",
+    "FacilityId": "FACILITY-0040",
+    "Status": "Running",
+    "PlannedQuantity": 83,
+    "CompletedQuantity": 83,
+    "PromiseDate": "2027-10-30T04:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0084",
+    "ProductId": "PRODUCT-0008",
+    "FacilityId": "FACILITY-0041",
+    "Status": "Blocked",
+    "PlannedQuantity": 84,
+    "CompletedQuantity": 84,
+    "PromiseDate": "2027-11-02T20:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0085",
+    "ProductId": "PRODUCT-0009",
+    "FacilityId": "FACILITY-0042",
+    "Status": "Complete",
+    "PlannedQuantity": 85,
+    "CompletedQuantity": 85,
+    "PromiseDate": "2027-11-06T13:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0086",
+    "ProductId": "PRODUCT-0010",
+    "FacilityId": "FACILITY-0043",
+    "Status": "Planned",
+    "PlannedQuantity": 86,
+    "CompletedQuantity": 86,
+    "PromiseDate": "2027-11-10T05:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0087",
+    "ProductId": "PRODUCT-0011",
+    "FacilityId": "FACILITY-0044",
+    "Status": "Released",
+    "PlannedQuantity": 87,
+    "CompletedQuantity": 87,
+    "PromiseDate": "2027-11-13T22:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0088",
+    "ProductId": "PRODUCT-0012",
+    "FacilityId": "FACILITY-0045",
+    "Status": "Running",
+    "PlannedQuantity": 88,
+    "CompletedQuantity": 88,
+    "PromiseDate": "2027-11-17T14:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0089",
+    "ProductId": "PRODUCT-0013",
+    "FacilityId": "FACILITY-0046",
+    "Status": "Blocked",
+    "PlannedQuantity": 89,
+    "CompletedQuantity": 89,
+    "PromiseDate": "2027-11-21T07:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0090",
+    "ProductId": "PRODUCT-0014",
+    "FacilityId": "FACILITY-0047",
+    "Status": "Complete",
+    "PlannedQuantity": 90,
+    "CompletedQuantity": 90,
+    "PromiseDate": "2027-11-24T23:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0091",
+    "ProductId": "PRODUCT-0015",
+    "FacilityId": "FACILITY-0048",
+    "Status": "Planned",
+    "PlannedQuantity": 91,
+    "CompletedQuantity": 91,
+    "PromiseDate": "2027-11-28T16:00:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0092",
+    "ProductId": "PRODUCT-0016",
+    "FacilityId": "FACILITY-0001",
+    "Status": "Released",
+    "PlannedQuantity": 92,
+    "CompletedQuantity": 92,
+    "PromiseDate": "2027-12-02T08:26:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0093",
+    "ProductId": "PRODUCT-0017",
+    "FacilityId": "FACILITY-0002",
+    "Status": "Running",
+    "PlannedQuantity": 93,
+    "CompletedQuantity": 93,
+    "PromiseDate": "2027-12-06T00:53:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0094",
+    "ProductId": "PRODUCT-0018",
+    "FacilityId": "FACILITY-0003",
+    "Status": "Blocked",
+    "PlannedQuantity": 94,
+    "CompletedQuantity": 94,
+    "PromiseDate": "2027-12-09T17:20:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0095",
+    "ProductId": "PRODUCT-0019",
+    "FacilityId": "FACILITY-0004",
+    "Status": "Complete",
+    "PlannedQuantity": 95,
+    "CompletedQuantity": 95,
+    "PromiseDate": "2027-12-13T09:46:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0096",
+    "ProductId": "PRODUCT-0020",
+    "FacilityId": "FACILITY-0005",
+    "Status": "Planned",
+    "PlannedQuantity": 96,
+    "CompletedQuantity": 96,
+    "PromiseDate": "2027-12-17T02:13:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0097",
+    "ProductId": "PRODUCT-0021",
+    "FacilityId": "FACILITY-0006",
+    "Status": "Released",
+    "PlannedQuantity": 97,
+    "CompletedQuantity": 97,
+    "PromiseDate": "2027-12-20T18:40:00+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0098",
+    "ProductId": "PRODUCT-0022",
+    "FacilityId": "FACILITY-0007",
+    "Status": "Running",
+    "PlannedQuantity": 98,
+    "CompletedQuantity": 98,
+    "PromiseDate": "2027-12-24T11:06:40+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0099",
+    "ProductId": "PRODUCT-0023",
+    "FacilityId": "FACILITY-0008",
+    "Status": "Blocked",
+    "PlannedQuantity": 99,
+    "CompletedQuantity": 99,
+    "PromiseDate": "2027-12-28T03:33:20+00:00"
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0100",
+    "ProductId": "PRODUCT-0024",
+    "FacilityId": "FACILITY-0009",
+    "Status": "Complete",
+    "PlannedQuantity": 100,
+    "CompletedQuantity": 100,
+    "PromiseDate": "2027-12-31T20:00:00+00:00"
+  }
+]

@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "bundleSha256": "679c45aa6d06a8661ebaa181fe5d03cb8102b13e930ea1c44dad9612dfc9461c",
+  "lakehouseTables": 19,
+  "files": [
+    {
+      "name": "contract.json",
+      "path": "data/contract.json",
+      "bytes": 5008,
+      "sha256": "3022eff97c0509bc653a7d3e7108af9d871c29123e2b52bd01a34f8c4c19c57f"
+    },
+    {
+      "name": "data/Carrier.json",
+      "path": "data/tables/Carrier.json",
+      "bytes": 3724,
+      "sha256": "600eb56a543ab35e5488b9b4c17e3a025cdbb0552496dab5b0851ef5b82ec384"
+    },
+    {
+      "name": "data/Component.json",
+      "path": "data/tables/Component.json",
+      "bytes": 35007,
+      "sha256": "43ac2b356bb2cf9aa30e0c964fa340cc8cd8b06705e013b2b61f7382ae4fa4ad"
+    },
+    {
+      "name": "data/CustomerOrder.json",
+      "path": "data/tables/CustomerOrder.json",
+      "bytes": 66754,
+      "sha256": "c6ae698c84eb6dcf78935b8ee5bcf3c0ee1d2f656f97f82716e720c109a4d3af"
+    },
+    {
+      "name": "data/DecisionRecord.json",
+      "path": "data/tables/DecisionRecord.json",
+      "bytes": 32927,
+      "sha256": "90384a96469814eb81567853b8be5befeb7e6e70057b1d40fc07493a94289f55"
+    },
+    {
+      "name": "data/DemandSignal.json",
+      "path": "data/tables/DemandSignal.json",
+      "bytes": 33007,
+      "sha256": "dc516a0db7aeb147ffca345a3d06474606bd2b5ec9b21cb05b459b2fcd2b426f"
+    },
+    {
+      "name": "data/Disruption.json",
+      "path": "data/tables/Disruption.json",
+      "bytes": 36654,
+      "sha256": "db6a8d1578538073180ba666c235109e0d30563989521f6f2f06facdfb1c7355"
+    },
+    {
+      "name": "data/Facility.json",
+      "path": "data/tables/Facility.json",
+      "bytes": 15491,
+      "sha256": "333ded23c68a7f3d8068426f17062014849c0aef7f463dffcd0913f196cf5ce3"
+    },
+    {
+      "name": "data/Intervention.json",
+      "path": "data/tables/Intervention.json",
+      "bytes": 33411,
+      "sha256": "a2c1ebd18cbb2ef82eb5bfd47fe35b31a21af85b1e0e5421fecfb8932b530846"
+    },
+    {
+      "name": "data/InventoryPosition.json",
+      "path": "data/tables/InventoryPosition.json",
+      "bytes": 53043,
+      "sha256": "e9a41fc74ce11bb00208bbb1f8f5cf4b51cecd6361e09b2d4a958240e94a920e"
+    },
+    {
+      "name": "data/Product.json",
+      "path": "data/tables/Product.json",
+      "bytes": 25684,
+      "sha256": "62e173994c95e9e717822383d7998b27f0e3aa393cb67a1e51b4347d2f9cf292"
+    },
+    {
+      "name": "data/ProductionOrder.json",
+      "path": "data/tables/ProductionOrder.json",
+      "bytes": 26329,
+      "sha256": "1d21dcf4c50df9776e25daed892760f9fb6cbb11dfb3431eeb1db5b9401ff367"
+    },
+    {
+      "name": "data/Shipment.json",
+      "path": "data/tables/Shipment.json",
+      "bytes": 68011,
+      "sha256": "b1dcfe80de0d11a8cd14e506e6e7f6e76d694eb8c7d21faa7e55fce80f6eb7c1"
+    },
+    {
+      "name": "data/Supplier.json",
+      "path": "data/tables/Supplier.json",
+      "bytes": 12996,
+      "sha256": "8eacf65029b592e37de3d83029b1635efe0c9ff7d8bf4b47e1a815fe399d7157"
+    },
+    {
+      "name": "dependencies/contract.json",
+      "path": "data/dependencies/contract.json",
+      "bytes": 2523,
+      "sha256": "e89f73334121627fc21326d739b6bc0fc5cf06ca12114c698842c196b3f6c5fd"
+    },
+    {
+      "name": "dependencies/data/BillOfMaterial.json",
+      "path": "data/dependencies/data/BillOfMaterial.json",
+      "bytes": 1338,
+      "sha256": "1d8868ba0fcf8c6d77e500f64ae04cafd30abf5a1a0327f28d26b5366ad0e935"
+    },
+    {
+      "name": "dependencies/data/ComponentSupply.json",
+      "path": "data/dependencies/data/ComponentSupply.json",
+      "bytes": 1036,
+      "sha256": "52ef00c6f76c1db82eca638520c9ea70b4dd177e5e6f642c28ad3c1a4e879371"
+    },
+    {
+      "name": "dependencies/data/LogisticsHub.json",
+      "path": "data/dependencies/data/LogisticsHub.json",
+      "bytes": 671,
+      "sha256": "b7d655c21b31a98ec894641e11af78a9d013242a44f93ac36d2bb5c37533a548"
+    },
+    {
+      "name": "dependencies/data/RouteHub.json",
+      "path": "data/dependencies/data/RouteHub.json",
+      "bytes": 659,
+      "sha256": "f1dffca6f1d918bd6fbc1c24620b0cbed72313d095ca006ae90df6c35262987c"
+    },
+    {
+      "name": "dependencies/data/SupplierSite.json",
+      "path": "data/dependencies/data/SupplierSite.json",
+      "bytes": 494,
+      "sha256": "d1123dd0aa010041b7b22998daedd1515d19fc11947ba5e4a83a8a678f2e76f9"
+    },
+    {
+      "name": "dependencies/data/SupplyRoute.json",
+      "path": "data/dependencies/data/SupplyRoute.json",
+      "bytes": 850,
+      "sha256": "968059d911278de37b06f72584b2862b96674efc4257b7a9e1c1378e9b373389"
+    },
+    {
+      "name": "dependencies/schemas.json",
+      "path": "data/dependencies/schemas.json",
+      "bytes": 1193,
+      "sha256": "37881860ccc6d6c3675031d12c18b34462ee1b478b29a1c9c31783d445f411b2"
+    },
+    {
+      "name": "model/definition.pbism",
+      "path": "model/definition.pbism",
+      "bytes": 199,
+      "sha256": "a851e2015e7ee5b297e2a3a69977bc8c03b53afe87223a63f6d45230bd97c967"
+    },
+    {
+      "name": "model/definition/database.tmdl",
+      "path": "model/definition/database.tmdl",
+      "bytes": 39,
+      "sha256": "70ab80d94316635a0a7a30c02b75c43919d12c05faa0f62361705e7495b19c99"
+    },
+    {
+      "name": "model/definition/expressions.tmdl",
+      "path": "model/definition/expressions.tmdl",
+      "bytes": 172,
+      "sha256": "3e50976cd46d614a76e58e76004a6b7f321b64243edd20ceb73cbc50de56ab42"
+    },
+    {
+      "name": "model/definition/model.tmdl",
+      "path": "model/definition/model.tmdl",
+      "bytes": 1477,
+      "sha256": "9c78b09989fd11c889a27a3b14cd6d517ce57f6684f345d524f66f3ae2e0f91e"
+    },
+    {
+      "name": "model/definition/relationships.tmdl",
+      "path": "model/definition/relationships.tmdl",
+      "bytes": 2320,
+      "sha256": "25bdab9a151afba45774d1a55eda3ad52a537cbc7277c06eb1db2eb89355994c"
+    },
+    {
+      "name": "model/definition/tables/Carrier.tmdl",
+      "path": "model/definition/tables/Carrier.tmdl",
+      "bytes": 1730,
+      "sha256": "daed29fa4ca9b2d5d0f93b3720e0adb65bd4b13c7a63c65bdbc63b9c2d3cdcd7"
+    },
+    {
+      "name": "model/definition/tables/Component.tmdl",
+      "path": "model/definition/tables/Component.tmdl",
+      "bytes": 2329,
+      "sha256": "6d69dbbf52b4ba15cc079e96168ecc53830db9bd65b518168ad11229be785651"
+    },
+    {
+      "name": "model/definition/tables/CustomerOrder.tmdl",
+      "path": "model/definition/tables/CustomerOrder.tmdl",
+      "bytes": 2876,
+      "sha256": "a6eb945bb8bdee9b29928fe3fc02a895fba5dfe5ebc1d0fe3985c04fd7c4ba3d"
+    },
+    {
+      "name": "model/definition/tables/DecisionRecord.tmdl",
+      "path": "model/definition/tables/DecisionRecord.tmdl",
+      "bytes": 2582,
+      "sha256": "1f93579f9a49679409558a0370caa4e569146e21cf187fad84e60c55818cee33"
+    },
+    {
+      "name": "model/definition/tables/DemandSignal.tmdl",
+      "path": "model/definition/tables/DemandSignal.tmdl",
+      "bytes": 1723,
+      "sha256": "aba1e6a5cf793cf495f7f92f45e8c2e5290a4f7a8a69ec6c31d4660965210f9d"
+    },
+    {
+      "name": "model/definition/tables/Disruption.tmdl",
+      "path": "model/definition/tables/Disruption.tmdl",
+      "bytes": 3036,
+      "sha256": "a3482645c907565ea0d12d938adb3aa31278bc3f18e63e7b271df02326d35580"
+    },
+    {
+      "name": "model/definition/tables/Facility.tmdl",
+      "path": "model/definition/tables/Facility.tmdl",
+      "bytes": 2488,
+      "sha256": "13a3dcd453400afc4fef6b027d509079ea54bdb472cf9426bf3b4370ebaaf136"
+    },
+    {
+      "name": "model/definition/tables/Intervention.tmdl",
+      "path": "model/definition/tables/Intervention.tmdl",
+      "bytes": 2566,
+      "sha256": "58b14d3a1b7d3f2a4409c75cd6e8320658694eea62bfcd8843faad494a25a7c2"
+    },
+    {
+      "name": "model/definition/tables/InventoryPosition.tmdl",
+      "path": "model/definition/tables/InventoryPosition.tmdl",
+      "bytes": 2946,
+      "sha256": "29c7bf697efdb0b2addbce1124d0cb0fa0cf859bca76b6832c7258ea421590bf"
+    },
+    {
+      "name": "model/definition/tables/Product.tmdl",
+      "path": "model/definition/tables/Product.tmdl",
+      "bytes": 2998,
+      "sha256": "899692577ffe2e70cbf349b35994407b19048512ee020ac5dc91c76c64b7156a"
+    },
+    {
+      "name": "model/definition/tables/ProductionOrder.tmdl",
+      "path": "model/definition/tables/ProductionOrder.tmdl",
+      "bytes": 2216,
+      "sha256": "7600f97ba2e344d5dd38022bef46a3673fba767b095734c787e3ccdc682a9095"
+    },
+    {
+      "name": "model/definition/tables/Shipment.tmdl",
+      "path": "model/definition/tables/Shipment.tmdl",
+      "bytes": 2814,
+      "sha256": "7f19a6a277a68d2e0b6f230dc96081529bb98f3452bcc0141334e3301dbcba10"
+    },
+    {
+      "name": "model/definition/tables/Supplier.tmdl",
+      "path": "model/definition/tables/Supplier.tmdl",
+      "bytes": 2610,
+      "sha256": "5cdfd25e581dd357a393c26cd7c9bd76dd0828e730e1757dbe16c493e5c76f2d"
+    },
+    {
+      "name": "schemas.json",
+      "path": "data/schemas.json",
+      "bytes": 3765,
+      "sha256": "8b75d74e19634ba6c419ca15224f00e4132b1af41d2559c46bad17d98854096f"
+    },
+    {
+      "name": "telemetry-schemas.json",
+      "path": "data/telemetry-schemas.json",
+      "bytes": 826,
+      "sha256": "c1f155a5f954de2d2d8b551f0b3db92196b2c995a4c572be12fff5b7d6db08f4"
+    },
+    {
+      "name": "telemetry/DemandSignalTelemetry.json",
+      "path": "data/telemetry/DemandSignalTelemetry.json",
+      "bytes": 157173,
+      "sha256": "2b9d7417905d8aec2aefae374bb1acbfaa3918ccf9e2edcaa01b12a6274cf8d6"
+    },
+    {
+      "name": "telemetry/InventoryPositionTelemetry.json",
+      "path": "data/telemetry/InventoryPositionTelemetry.json",
+      "bytes": 182157,
+      "sha256": "e122626cc6970ab84dd4999c4657ddb7f14b54b9f07ea34e4f8f9d7c5c7fe039"
+    },
+    {
+      "name": "telemetry/ProductionOrderTelemetry.json",
+      "path": "data/telemetry/ProductionOrderTelemetry.json",
+      "bytes": 81725,
+      "sha256": "fdc6f1f8c8f9d11db0afdd79f800cb9f3d301e1678ae66022a3bb5dd00390b45"
+    },
+    {
+      "name": "telemetry/ShipmentTelemetry.json",
+      "path": "data/telemetry/ShipmentTelemetry.json",
+      "bytes": 112657,
+      "sha256": "ea2cd910d69a7d8a18e753a7da078bb1f7c1fce8d03fb0c47a353042494fb513"
+    }
+  ]
+}

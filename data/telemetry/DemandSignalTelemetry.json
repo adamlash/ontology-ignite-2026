@@ -1,0 +1,5602 @@
+[
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0001",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 1.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0001",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 1.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0001",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 1.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0001",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 1.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0002",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 2.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0002",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 2.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0002",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 2.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0002",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 2.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0003",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 3.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0003",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 3.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0003",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 3.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0003",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 3.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0004",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 4.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0004",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 4.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0004",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 4.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0004",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 4.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0005",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 5.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0005",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 5.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0005",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 5.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0005",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 5.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0006",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 6.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0006",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 6.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0006",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 6.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0006",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 6.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0007",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 7.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0007",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 7.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0007",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 7.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0007",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 7.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0008",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 8.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0008",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 8.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0008",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 8.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0008",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 8.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0009",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 9.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0009",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 9.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0009",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 9.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0009",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 9.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0010",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 10.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0010",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 10.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0010",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 10.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0010",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 10.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0011",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 11.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0011",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 11.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0011",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 11.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0011",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 11.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0012",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 12.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0012",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 12.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0012",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 12.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0012",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 12.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0013",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 13.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0013",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 13.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0013",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 13.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0013",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 13.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0014",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 14.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0014",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 14.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0014",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 14.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0014",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 14.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0015",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 15.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0015",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 15.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0015",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 15.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0015",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 15.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0016",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 16.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0016",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 16.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0016",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 16.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0016",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 16.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0017",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 17.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0017",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 17.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0017",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 17.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0017",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 17.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0018",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 18.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0018",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 18.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0018",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 18.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0018",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 18.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0019",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 19.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0019",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 19.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0019",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 19.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0019",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 19.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0020",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 20.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0020",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 20.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0020",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 20.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0020",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 20.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0021",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 21.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0021",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 21.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0021",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 21.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0021",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 21.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0022",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 22.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0022",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 22.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0022",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 22.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0022",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 22.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0023",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 23.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0023",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 23.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0023",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 23.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0023",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 23.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0024",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 24.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0024",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 24.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0024",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 24.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0024",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 24.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0025",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 25.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0025",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 25.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0025",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 25.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0025",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 25.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0026",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 26.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0026",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 26.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0026",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 26.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0026",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 26.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0027",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 27.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0027",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 27.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0027",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 27.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0027",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 27.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0028",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 28.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0028",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 28.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0028",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 28.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0028",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 28.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0029",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 29.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0029",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 29.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0029",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 29.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0029",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 29.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0030",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 30.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0030",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 30.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0030",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 30.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0030",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 30.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0031",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 31.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0031",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 31.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0031",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 31.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0031",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 31.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0032",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 32.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0032",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 32.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0032",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 32.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0032",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 32.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0033",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 33.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0033",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 33.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0033",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 33.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0033",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 33.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0034",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 34.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0034",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 34.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0034",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 34.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0034",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 34.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0035",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 35.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0035",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 35.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0035",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 35.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0035",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 35.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0036",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 36.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0036",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 36.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0036",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 36.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0036",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 36.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0037",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 37.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0037",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 37.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0037",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 37.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0037",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 37.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0038",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 38.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0038",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 38.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0038",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 38.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0038",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 38.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0039",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 39.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0039",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 39.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0039",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 39.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0039",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 39.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0040",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 40.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0040",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 40.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0040",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 40.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0040",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 40.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0041",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 41.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0041",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 41.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0041",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 41.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0041",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 41.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0042",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 42.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0042",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 42.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0042",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 42.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0042",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 42.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0043",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 43.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0043",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 43.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0043",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 43.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0043",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 43.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0044",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 44.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0044",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 44.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0044",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 44.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0044",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 44.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0045",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 45.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0045",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 45.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0045",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 45.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0045",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 45.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0046",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 46.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0046",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 46.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0046",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 46.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0046",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 46.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0047",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 47.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0047",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 47.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0047",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 47.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0047",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 47.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0048",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 48.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0048",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 48.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0048",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 48.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0048",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 48.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0049",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 49.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0049",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 49.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0049",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 49.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0049",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 49.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0050",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 50.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0050",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 50.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0050",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 50.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0050",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 50.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0051",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 51.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0051",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 51.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0051",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 51.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0051",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 51.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0052",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 52.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0052",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 52.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0052",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 52.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0052",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 52.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0053",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 53.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0053",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 53.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0053",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 53.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0053",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 53.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0054",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 54.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0054",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 54.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0054",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 54.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0054",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 54.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0055",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 55.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0055",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 55.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0055",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 55.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0055",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 55.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0056",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 56.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0056",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 56.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0056",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 56.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0056",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 56.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0057",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 57.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0057",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 57.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0057",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 57.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0057",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 57.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0058",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 58.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0058",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 58.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0058",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 58.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0058",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 58.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0059",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 59.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0059",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 59.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0059",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 59.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0059",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 59.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0060",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 60.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0060",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 60.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0060",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 60.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0060",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 60.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0061",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 61.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0061",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 61.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0061",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 61.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0061",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 61.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0062",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 62.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0062",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 62.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0062",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 62.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0062",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 62.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0063",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 63.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0063",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 63.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0063",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 63.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0063",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 63.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0064",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 64.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0064",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 64.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0064",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 64.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0064",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 64.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0065",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 65.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0065",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 65.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0065",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 65.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0065",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 65.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0066",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 66.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0066",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 66.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0066",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 66.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0066",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 66.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0067",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 67.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0067",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 67.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0067",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 67.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0067",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 67.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0068",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 68.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0068",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 68.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0068",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 68.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0068",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 68.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0069",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 69.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0069",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 69.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0069",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 69.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0069",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 69.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0070",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 70.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0070",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 70.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0070",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 70.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0070",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 70.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0071",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 71.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0071",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 71.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0071",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 71.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0071",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 71.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0072",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 72.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0072",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 72.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0072",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 72.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0072",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 72.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0073",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 73.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0073",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 73.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0073",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 73.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0073",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 73.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0074",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 74.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0074",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 74.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0074",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 74.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0074",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 74.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0075",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 75.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0075",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 75.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0075",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 75.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0075",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 75.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0076",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 76.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0076",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 76.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0076",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 76.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0076",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 76.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0077",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 77.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0077",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 77.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0077",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 77.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0077",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 77.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0078",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 78.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0078",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 78.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0078",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 78.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0078",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 78.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0079",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 79.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0079",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 79.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0079",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 79.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0079",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 79.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0080",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 80.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0080",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 80.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0080",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 80.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0080",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 80.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0081",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 81.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0081",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 81.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0081",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 81.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0081",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 81.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0082",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 82.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0082",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 82.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0082",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 82.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0082",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 82.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0083",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 83.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0083",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 83.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0083",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 83.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0083",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 83.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0084",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 84.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0084",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 84.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0084",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 84.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0084",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 84.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0085",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 85.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0085",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 85.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0085",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 85.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0085",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 85.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0086",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 86.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0086",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 86.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0086",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 86.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0086",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 86.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0087",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 87.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0087",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 87.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0087",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 87.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0087",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 87.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0088",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 88.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0088",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 88.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0088",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 88.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0088",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 88.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0089",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 89.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0089",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 89.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0089",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 89.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0089",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 89.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0090",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 90.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0090",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 90.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0090",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 90.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0090",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 90.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0091",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 91.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0091",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 91.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0091",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 91.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0091",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 91.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0092",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 92.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0092",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 92.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0092",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 92.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0092",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 92.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0093",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 93.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0093",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 93.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0093",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 93.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0093",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 93.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0094",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 94.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0094",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 94.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0094",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 94.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0094",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 94.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0095",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 95.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0095",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 95.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0095",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 95.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0095",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 95.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0096",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 96.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0096",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 96.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0096",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 96.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0096",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 96.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0097",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 97.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0097",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 97.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0097",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 97.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0097",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 97.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0098",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 98.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0098",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 98.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0098",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 98.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0098",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 98.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0099",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 99.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0099",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 99.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0099",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 99.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0099",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 99.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0100",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 100.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0100",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 100.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0100",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 100.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0100",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 100.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0101",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 101.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0101",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 101.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0101",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 101.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0101",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 101.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0102",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 102.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0102",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 102.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0102",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 102.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0102",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 102.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0103",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 103.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0103",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 103.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0103",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 103.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0103",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 103.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0104",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 104.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0104",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 104.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0104",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 104.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0104",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 104.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0105",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 105.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0105",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 105.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0105",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 105.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0105",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 105.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0106",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 106.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0106",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 106.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0106",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 106.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0106",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 106.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0107",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 107.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0107",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 107.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0107",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 107.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0107",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 107.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0108",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 108.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0108",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 108.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0108",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 108.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0108",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 108.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0109",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 109.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0109",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 109.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0109",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 109.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0109",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 109.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0110",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 110.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0110",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 110.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0110",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 110.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0110",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 110.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0111",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 111.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0111",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 111.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0111",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 111.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0111",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 111.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0112",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 112.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0112",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 112.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0112",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 112.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0112",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 112.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0113",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 113.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0113",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 113.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0113",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 113.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0113",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 113.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0114",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 114.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0114",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 114.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0114",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 114.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0114",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 114.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0115",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 115.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0115",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 115.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0115",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 115.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0115",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 115.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0116",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 116.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0116",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 116.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0116",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 116.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0116",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 116.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0117",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 117.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0117",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 117.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0117",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 117.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0117",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 117.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0118",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 118.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0118",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 118.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0118",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 118.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0118",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 118.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0119",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 119.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0119",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 119.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0119",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 119.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0119",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 119.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0120",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 120.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0120",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 120.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0120",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 120.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0120",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 120.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0121",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 121.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0121",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 121.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0121",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 121.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0121",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 121.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0122",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 122.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0122",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 122.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0122",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 122.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0122",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 122.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0123",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 123.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0123",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 123.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0123",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 123.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0123",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 123.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0124",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 124.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0124",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 124.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0124",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 124.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0124",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 124.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0125",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 125.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0125",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 125.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0125",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 125.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0125",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 125.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0126",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 126.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0126",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 126.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0126",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 126.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0126",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 126.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0127",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 127.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0127",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 127.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0127",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 127.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0127",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 127.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0128",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 128.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0128",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 128.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0128",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 128.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0128",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 128.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0129",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 129.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0129",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 129.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0129",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 129.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0129",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 129.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0130",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 130.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0130",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 130.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0130",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 130.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0130",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 130.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0131",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 131.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0131",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 131.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0131",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 131.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0131",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 131.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0132",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 132.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0132",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 132.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0132",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 132.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0132",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 132.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0133",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 133.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0133",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 133.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0133",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 133.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0133",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 133.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0134",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 134.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0134",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 134.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0134",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 134.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0134",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 134.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0135",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 135.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0135",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 135.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0135",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 135.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0135",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 135.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0136",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 136.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0136",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 136.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0136",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 136.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0136",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 136.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0137",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 137.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0137",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 137.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0137",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 137.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0137",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 137.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0138",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 138.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0138",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 138.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0138",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 138.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0138",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 138.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0139",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 139.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0139",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 139.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0139",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 139.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0139",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 139.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0140",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 140.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0140",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 140.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0140",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 140.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0140",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 140.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0141",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 141.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0141",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 141.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0141",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 141.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0141",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 141.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0142",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 142.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0142",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 142.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0142",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 142.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0142",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 142.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0143",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 143.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0143",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 143.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0143",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 143.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0143",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 143.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0144",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 144.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0144",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 144.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0144",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 144.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0144",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 144.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0145",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 145.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0145",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 145.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0145",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 145.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0145",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 145.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0146",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 146.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0146",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 146.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0146",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 146.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0146",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 146.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0147",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 147.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0147",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 147.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0147",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 147.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0147",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 147.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0148",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 148.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0148",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 148.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0148",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 148.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0148",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 148.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0149",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 149.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0149",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 149.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0149",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 149.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0149",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 149.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0150",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 150.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0150",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 150.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0150",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 150.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0150",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 150.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0151",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 151.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0151",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 151.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0151",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 151.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0151",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 151.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0152",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 152.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0152",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 152.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0152",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 152.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0152",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 152.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0153",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 153.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0153",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 153.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0153",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 153.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0153",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 153.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0154",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 154.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0154",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 154.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0154",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 154.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0154",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 154.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0155",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 155.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0155",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 155.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0155",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 155.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0155",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 155.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0156",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 156.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0156",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 156.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0156",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 156.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0156",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 156.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0157",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 157.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0157",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 157.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0157",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 157.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0157",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 157.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0158",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 158.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0158",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 158.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0158",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 158.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0158",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 158.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0159",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 159.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0159",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 159.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0159",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 159.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0159",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 159.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0160",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 160.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0160",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 160.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0160",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 160.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0160",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 160.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0161",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 161.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0161",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 161.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0161",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 161.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0161",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 161.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0162",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 162.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0162",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 162.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0162",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 162.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0162",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 162.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0163",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 163.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0163",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 163.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0163",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 163.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0163",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 163.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0164",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 164.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0164",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 164.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0164",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 164.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0164",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 164.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0165",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 165.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0165",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 165.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0165",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 165.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0165",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 165.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0166",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 166.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0166",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 166.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0166",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 166.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0166",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 166.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0167",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 167.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0167",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 167.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0167",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 167.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0167",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 167.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0168",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 168.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0168",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 168.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0168",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 168.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0168",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 168.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0169",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 169.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0169",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 169.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0169",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 169.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0169",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 169.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0170",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 170.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0170",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 170.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0170",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 170.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0170",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 170.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0171",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 171.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0171",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 171.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0171",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 171.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0171",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 171.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0172",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 172.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0172",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 172.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0172",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 172.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0172",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 172.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0173",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 173.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0173",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 173.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0173",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 173.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0173",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 173.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0174",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 174.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0174",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 174.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0174",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 174.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0174",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 174.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0175",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 175.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0175",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 175.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0175",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 175.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0175",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 175.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0176",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 176.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0176",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 176.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0176",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 176.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0176",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 176.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0177",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 177.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0177",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 177.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0177",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 177.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0177",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 177.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0178",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 178.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0178",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 178.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0178",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 178.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0178",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 178.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0179",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 179.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0179",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 179.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0179",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 179.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0179",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 179.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0180",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 180.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0180",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 180.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0180",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 180.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0180",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 180.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0181",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 181.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0181",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 181.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0181",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 181.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0181",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 181.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 10.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0182",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 182.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0182",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 182.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0182",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 182.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0182",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 182.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 11.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0183",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 183.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0183",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 183.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0183",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 183.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0183",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 183.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 12.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0184",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 184.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0184",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 184.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0184",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 184.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0184",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 184.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 13.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0185",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 185.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0185",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 185.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0185",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 185.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0185",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 185.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 14.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0186",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 186.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0186",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 186.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0186",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 186.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0186",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 186.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 15.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0187",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 187.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0187",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 187.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0187",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 187.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0187",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 187.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 16.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0188",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 188.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0188",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 188.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0188",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 188.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0188",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 188.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 17.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0189",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 189.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0189",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 189.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0189",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 189.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0189",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 189.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 18.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0190",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 190.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0190",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 190.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0190",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 190.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0190",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 190.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 19.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0191",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 191.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0191",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 191.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0191",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 191.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0191",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 191.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 20.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0192",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 192.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0192",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 192.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0192",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 192.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0192",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 192.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 21.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0193",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 193.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0193",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 193.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0193",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 193.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0193",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 193.0,
+    "DemandSurgePercent": 0.0,
+    "DemandRiskScore": 22.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0194",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 194.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0194",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 194.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0194",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 194.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0194",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 194.0,
+    "DemandSurgePercent": 1.0,
+    "DemandRiskScore": 23.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0195",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 195.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0195",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 195.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0195",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 195.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0195",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 195.0,
+    "DemandSurgePercent": 2.0,
+    "DemandRiskScore": 24.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0196",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 196.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0196",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 196.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0196",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 196.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0196",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 196.0,
+    "DemandSurgePercent": 3.0,
+    "DemandRiskScore": 25.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0197",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 197.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0197",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 197.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0197",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 197.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0197",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 197.0,
+    "DemandSurgePercent": 4.0,
+    "DemandRiskScore": 26.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0198",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 198.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0198",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 198.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0198",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 198.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0198",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 198.0,
+    "DemandSurgePercent": 5.0,
+    "DemandRiskScore": 27.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0199",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 199.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0199",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 199.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0199",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 199.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0199",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 199.0,
+    "DemandSurgePercent": 6.0,
+    "DemandRiskScore": 28.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0200",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "ActualDemandUnits": 200.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0200",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "ActualDemandUnits": 200.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0200",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "ActualDemandUnits": 200.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0200",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "ActualDemandUnits": 200.0,
+    "DemandSurgePercent": 7.0,
+    "DemandRiskScore": 29.0
+  }
+]

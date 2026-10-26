@@ -1,0 +1,90 @@
+/// A planned or executing order to manufacture a Zava product at a facility.
+table ProductionOrder
+
+	/// Completed units divided by planned units.
+	measure 'Production Completion Rate' = DIVIDE(SUM('ProductionOrder'[CompletedQuantity]), SUM('ProductionOrder'[PlannedQuantity]))
+		formatString: 0.0%
+
+	/// Stable production-order identifier.
+	column ProductionOrderId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: ProductionOrderId
+
+		annotation OntologyProperty = ProductionOrderId
+
+	/// Product being manufactured.
+	column ProductId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ProductId
+
+		annotation OntologyProperty = ProductId
+
+	/// Facility executing the order.
+	column FacilityId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: FacilityId
+
+		annotation OntologyProperty = FacilityId
+
+	/// Execution status.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Units planned.
+	column PlannedQuantity
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: PlannedQuantity
+
+		annotation unit = units
+
+		annotation OntologyProperty = PlannedQuantity
+
+	/// Good units completed.
+	column CompletedQuantity
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: CompletedQuantity
+
+		annotation unit = units
+
+		annotation OntologyProperty = CompletedQuantity
+
+	/// Committed completion time.
+	column PromiseDate
+		dataType: dateTime
+		summarizeBy: none
+		sourceColumn: PromiseDate
+
+		annotation OntologyProperty = PromiseDate
+
+	partition ProductionOrder-DirectLake = entity
+		mode: directLake
+		source
+			entityName: productionorder
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Manufacturing Operations
+
+	annotation grain = One row per production order
+
+	annotation freshnessSla = 15 minutes
+
+	annotation OntologyQualifiedName = operations#ProductionOrder
+
+	annotation OntologyNamespace = operations
+
+	annotation OntologySynonyms = work order; manufacturing order
+

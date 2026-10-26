@@ -1,0 +1,120 @@
+/// A movement of product between network nodes that may fulfill a customer commitment.
+table Shipment
+
+	/// Units on delayed shipments.
+	measure 'Delayed Shipment Units' = CALCULATE(SUM('Shipment'[ShipmentQuantity]), 'Shipment'[Status] = "Delayed")
+		formatString: #,##0
+
+	/// Stable shipment identifier.
+	column ShipmentId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: ShipmentId
+
+		annotation OntologyProperty = ShipmentId
+
+	/// Primary product moved.
+	column ProductId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ProductId
+
+		annotation OntologyProperty = ProductId
+
+	/// Customer order fulfilled.
+	column CustomerOrderId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: CustomerOrderId
+
+		annotation OntologyProperty = CustomerOrderId
+
+	/// Origin network node.
+	column OriginFacilityId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: OriginFacilityId
+
+		annotation OntologyProperty = OriginFacilityId
+
+	/// Destination network node.
+	column DestinationFacilityId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: DestinationFacilityId
+
+		annotation OntologyProperty = DestinationFacilityId
+
+	/// Carrier responsible.
+	column CarrierId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: CarrierId
+
+		annotation OntologyProperty = CarrierId
+
+	/// Current shipment status.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Units carried.
+	column ShipmentQuantity
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: ShipmentQuantity
+
+		annotation unit = units
+
+		annotation OntologyProperty = ShipmentQuantity
+
+	/// Transportation mode.
+	column Mode
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Mode
+
+		annotation OntologyProperty = Mode
+
+	/// Promised arrival time.
+	column PlannedArrival
+		dataType: dateTime
+		summarizeBy: none
+		sourceColumn: PlannedArrival
+
+		annotation OntologyProperty = PlannedArrival
+
+	/// Rerouting and allocation priority.
+	column StrategicPriority
+		dataType: string
+		summarizeBy: none
+		sourceColumn: StrategicPriority
+
+		annotation OntologyProperty = StrategicPriority
+
+	partition Shipment-DirectLake = entity
+		mode: directLake
+		source
+			entityName: shipment
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Global Logistics
+
+	annotation grain = One row per shipment
+
+	annotation freshnessSla = 5 minutes
+
+	annotation OntologyQualifiedName = operations#Shipment
+
+	annotation OntologyNamespace = operations
+
+	annotation OntologySynonyms = load; consignment; delivery
+

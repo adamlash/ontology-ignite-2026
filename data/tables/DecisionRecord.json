@@ -1,0 +1,1002 @@
+[
+  {
+    "DecisionId": "DECISIONRECORD-0001",
+    "InterventionId": "INTERVENTION-0001",
+    "DecisionState": "Approved",
+    "DecidedBy": "Control Tower",
+    "DecisionTime": "2027-12-31T19:30:00+00:00",
+    "Rationale": "Net uncommitted supply covers 120 units; reroute protects strategic promise.",
+    "ExpectedMarginProtected": 19200,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0002",
+    "InterventionId": "INTERVENTION-0002",
+    "DecisionState": "Proposed",
+    "DecidedBy": "Pending Quality Operations",
+    "DecisionTime": "2027-12-31T19:30:00+00:00",
+    "Rationale": "12g shock and supplier defect excursion require quality disposition.",
+    "ExpectedMarginProtected": 0,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0003",
+    "InterventionId": "INTERVENTION-0003",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 3",
+    "DecisionTime": "2027-01-08T08:53:20+00:00",
+    "Rationale": "Rationale 3",
+    "ExpectedMarginProtected": 420.33,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0004",
+    "InterventionId": "INTERVENTION-0004",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 4",
+    "DecisionTime": "2027-01-12T01:20:00+00:00",
+    "Rationale": "Rationale 4",
+    "ExpectedMarginProtected": 580.55,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0005",
+    "InterventionId": "INTERVENTION-0005",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 5",
+    "DecisionTime": "2027-01-15T17:46:40+00:00",
+    "Rationale": "Rationale 5",
+    "ExpectedMarginProtected": 70.87,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0006",
+    "InterventionId": "INTERVENTION-0006",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 6",
+    "DecisionTime": "2027-01-19T10:13:20+00:00",
+    "Rationale": "Rationale 6",
+    "ExpectedMarginProtected": 719.78,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0007",
+    "InterventionId": "INTERVENTION-0007",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 7",
+    "DecisionTime": "2027-01-23T02:40:00+00:00",
+    "Rationale": "Rationale 7",
+    "ExpectedMarginProtected": 451.7,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0008",
+    "InterventionId": "INTERVENTION-0008",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 8",
+    "DecisionTime": "2027-01-26T19:06:40+00:00",
+    "Rationale": "Rationale 8",
+    "ExpectedMarginProtected": 932.08,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0009",
+    "InterventionId": "INTERVENTION-0009",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 9",
+    "DecisionTime": "2027-01-30T11:33:20+00:00",
+    "Rationale": "Rationale 9",
+    "ExpectedMarginProtected": 315.11,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0010",
+    "InterventionId": "INTERVENTION-0010",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 10",
+    "DecisionTime": "2027-02-03T04:00:00+00:00",
+    "Rationale": "Rationale 10",
+    "ExpectedMarginProtected": 116.88,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0011",
+    "InterventionId": "INTERVENTION-0011",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 11",
+    "DecisionTime": "2027-02-06T20:26:40+00:00",
+    "Rationale": "Rationale 11",
+    "ExpectedMarginProtected": 844.56,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0012",
+    "InterventionId": "INTERVENTION-0012",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 12",
+    "DecisionTime": "2027-02-10T12:53:20+00:00",
+    "Rationale": "Rationale 12",
+    "ExpectedMarginProtected": 411.66,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0013",
+    "InterventionId": "INTERVENTION-0013",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 13",
+    "DecisionTime": "2027-02-14T05:20:00+00:00",
+    "Rationale": "Rationale 13",
+    "ExpectedMarginProtected": 258.4,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0014",
+    "InterventionId": "INTERVENTION-0014",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 14",
+    "DecisionTime": "2027-02-17T21:46:40+00:00",
+    "Rationale": "Rationale 14",
+    "ExpectedMarginProtected": 196.08,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0015",
+    "InterventionId": "INTERVENTION-0015",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 15",
+    "DecisionTime": "2027-02-21T14:13:20+00:00",
+    "Rationale": "Rationale 15",
+    "ExpectedMarginProtected": 848.27,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0016",
+    "InterventionId": "INTERVENTION-0016",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 16",
+    "DecisionTime": "2027-02-25T06:40:00+00:00",
+    "Rationale": "Rationale 16",
+    "ExpectedMarginProtected": 551.88,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0017",
+    "InterventionId": "INTERVENTION-0017",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 17",
+    "DecisionTime": "2027-02-28T23:06:40+00:00",
+    "Rationale": "Rationale 17",
+    "ExpectedMarginProtected": 526.36,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0018",
+    "InterventionId": "INTERVENTION-0018",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 18",
+    "DecisionTime": "2027-03-04T15:33:20+00:00",
+    "Rationale": "Rationale 18",
+    "ExpectedMarginProtected": 58.63,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0019",
+    "InterventionId": "INTERVENTION-0019",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 19",
+    "DecisionTime": "2027-03-08T08:00:00+00:00",
+    "Rationale": "Rationale 19",
+    "ExpectedMarginProtected": 727.81,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0020",
+    "InterventionId": "INTERVENTION-0020",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 20",
+    "DecisionTime": "2027-03-12T00:26:40+00:00",
+    "Rationale": "Rationale 20",
+    "ExpectedMarginProtected": 225.74,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0021",
+    "InterventionId": "INTERVENTION-0021",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 21",
+    "DecisionTime": "2027-03-15T16:53:20+00:00",
+    "Rationale": "Rationale 21",
+    "ExpectedMarginProtected": 739.97,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0022",
+    "InterventionId": "INTERVENTION-0022",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 22",
+    "DecisionTime": "2027-03-19T09:20:00+00:00",
+    "Rationale": "Rationale 22",
+    "ExpectedMarginProtected": 517.06,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0023",
+    "InterventionId": "INTERVENTION-0023",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 23",
+    "DecisionTime": "2027-03-23T01:46:40+00:00",
+    "Rationale": "Rationale 23",
+    "ExpectedMarginProtected": 277.65,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0024",
+    "InterventionId": "INTERVENTION-0024",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 24",
+    "DecisionTime": "2027-03-26T18:13:20+00:00",
+    "Rationale": "Rationale 24",
+    "ExpectedMarginProtected": 102.65,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0025",
+    "InterventionId": "INTERVENTION-0025",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 25",
+    "DecisionTime": "2027-03-30T10:40:00+00:00",
+    "Rationale": "Rationale 25",
+    "ExpectedMarginProtected": 199.27,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0026",
+    "InterventionId": "INTERVENTION-0026",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 26",
+    "DecisionTime": "2027-04-03T03:06:40+00:00",
+    "Rationale": "Rationale 26",
+    "ExpectedMarginProtected": 476.27,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0027",
+    "InterventionId": "INTERVENTION-0027",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 27",
+    "DecisionTime": "2027-04-06T19:33:20+00:00",
+    "Rationale": "Rationale 27",
+    "ExpectedMarginProtected": 436.58,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0028",
+    "InterventionId": "INTERVENTION-0028",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 28",
+    "DecisionTime": "2027-04-10T12:00:00+00:00",
+    "Rationale": "Rationale 28",
+    "ExpectedMarginProtected": 126.47,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0029",
+    "InterventionId": "INTERVENTION-0029",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 29",
+    "DecisionTime": "2027-04-14T04:26:40+00:00",
+    "Rationale": "Rationale 29",
+    "ExpectedMarginProtected": 356.13,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0030",
+    "InterventionId": "INTERVENTION-0030",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 30",
+    "DecisionTime": "2027-04-17T20:53:20+00:00",
+    "Rationale": "Rationale 30",
+    "ExpectedMarginProtected": 519.34,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0031",
+    "InterventionId": "INTERVENTION-0031",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 31",
+    "DecisionTime": "2027-04-21T13:20:00+00:00",
+    "Rationale": "Rationale 31",
+    "ExpectedMarginProtected": 173.52,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0032",
+    "InterventionId": "INTERVENTION-0032",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 32",
+    "DecisionTime": "2027-04-25T05:46:40+00:00",
+    "Rationale": "Rationale 32",
+    "ExpectedMarginProtected": 116.87,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0033",
+    "InterventionId": "INTERVENTION-0033",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 33",
+    "DecisionTime": "2027-04-28T22:13:20+00:00",
+    "Rationale": "Rationale 33",
+    "ExpectedMarginProtected": 924.4,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0034",
+    "InterventionId": "INTERVENTION-0034",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 34",
+    "DecisionTime": "2027-05-02T14:40:00+00:00",
+    "Rationale": "Rationale 34",
+    "ExpectedMarginProtected": 593.9,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0035",
+    "InterventionId": "INTERVENTION-0035",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 35",
+    "DecisionTime": "2027-05-06T07:06:40+00:00",
+    "Rationale": "Rationale 35",
+    "ExpectedMarginProtected": 301.39,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0036",
+    "InterventionId": "INTERVENTION-0036",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 36",
+    "DecisionTime": "2027-05-09T23:33:20+00:00",
+    "Rationale": "Rationale 36",
+    "ExpectedMarginProtected": 431.51,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0037",
+    "InterventionId": "INTERVENTION-0037",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 37",
+    "DecisionTime": "2027-05-13T16:00:00+00:00",
+    "Rationale": "Rationale 37",
+    "ExpectedMarginProtected": 475.0,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0038",
+    "InterventionId": "INTERVENTION-0038",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 38",
+    "DecisionTime": "2027-05-17T08:26:40+00:00",
+    "Rationale": "Rationale 38",
+    "ExpectedMarginProtected": 762.37,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0039",
+    "InterventionId": "INTERVENTION-0039",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 39",
+    "DecisionTime": "2027-05-21T00:53:20+00:00",
+    "Rationale": "Rationale 39",
+    "ExpectedMarginProtected": 512.57,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0040",
+    "InterventionId": "INTERVENTION-0040",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 40",
+    "DecisionTime": "2027-05-24T17:20:00+00:00",
+    "Rationale": "Rationale 40",
+    "ExpectedMarginProtected": 92.2,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0041",
+    "InterventionId": "INTERVENTION-0041",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 41",
+    "DecisionTime": "2027-05-28T09:46:40+00:00",
+    "Rationale": "Rationale 41",
+    "ExpectedMarginProtected": 71.12,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0042",
+    "InterventionId": "INTERVENTION-0042",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 42",
+    "DecisionTime": "2027-06-01T02:13:20+00:00",
+    "Rationale": "Rationale 42",
+    "ExpectedMarginProtected": 660.6,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0043",
+    "InterventionId": "INTERVENTION-0043",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 43",
+    "DecisionTime": "2027-06-04T18:40:00+00:00",
+    "Rationale": "Rationale 43",
+    "ExpectedMarginProtected": 489.05,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0044",
+    "InterventionId": "INTERVENTION-0044",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 44",
+    "DecisionTime": "2027-06-08T11:06:40+00:00",
+    "Rationale": "Rationale 44",
+    "ExpectedMarginProtected": 32.06,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0045",
+    "InterventionId": "INTERVENTION-0045",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 45",
+    "DecisionTime": "2027-06-12T03:33:20+00:00",
+    "Rationale": "Rationale 45",
+    "ExpectedMarginProtected": 93.5,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0046",
+    "InterventionId": "INTERVENTION-0046",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 46",
+    "DecisionTime": "2027-06-15T20:00:00+00:00",
+    "Rationale": "Rationale 46",
+    "ExpectedMarginProtected": 312.38,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0047",
+    "InterventionId": "INTERVENTION-0047",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 47",
+    "DecisionTime": "2027-06-19T12:26:40+00:00",
+    "Rationale": "Rationale 47",
+    "ExpectedMarginProtected": 702.22,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0048",
+    "InterventionId": "INTERVENTION-0048",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 48",
+    "DecisionTime": "2027-06-23T04:53:20+00:00",
+    "Rationale": "Rationale 48",
+    "ExpectedMarginProtected": 348.61,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0049",
+    "InterventionId": "INTERVENTION-0049",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 49",
+    "DecisionTime": "2027-06-26T21:20:00+00:00",
+    "Rationale": "Rationale 49",
+    "ExpectedMarginProtected": 91.57,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0050",
+    "InterventionId": "INTERVENTION-0050",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 50",
+    "DecisionTime": "2027-06-30T13:46:40+00:00",
+    "Rationale": "Rationale 50",
+    "ExpectedMarginProtected": 171.95,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0051",
+    "InterventionId": "INTERVENTION-0051",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 51",
+    "DecisionTime": "2027-07-04T06:13:20+00:00",
+    "Rationale": "Rationale 51",
+    "ExpectedMarginProtected": 287.97,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0052",
+    "InterventionId": "INTERVENTION-0052",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 52",
+    "DecisionTime": "2027-07-07T22:40:00+00:00",
+    "Rationale": "Rationale 52",
+    "ExpectedMarginProtected": 346.92,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0053",
+    "InterventionId": "INTERVENTION-0053",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 53",
+    "DecisionTime": "2027-07-11T15:06:40+00:00",
+    "Rationale": "Rationale 53",
+    "ExpectedMarginProtected": 356.19,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0054",
+    "InterventionId": "INTERVENTION-0054",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 54",
+    "DecisionTime": "2027-07-15T07:33:20+00:00",
+    "Rationale": "Rationale 54",
+    "ExpectedMarginProtected": 416.35,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0055",
+    "InterventionId": "INTERVENTION-0055",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 55",
+    "DecisionTime": "2027-07-19T00:00:00+00:00",
+    "Rationale": "Rationale 55",
+    "ExpectedMarginProtected": 94.44,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0056",
+    "InterventionId": "INTERVENTION-0056",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 56",
+    "DecisionTime": "2027-07-22T16:26:40+00:00",
+    "Rationale": "Rationale 56",
+    "ExpectedMarginProtected": 760.66,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0057",
+    "InterventionId": "INTERVENTION-0057",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 57",
+    "DecisionTime": "2027-07-26T08:53:20+00:00",
+    "Rationale": "Rationale 57",
+    "ExpectedMarginProtected": 172.89,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0058",
+    "InterventionId": "INTERVENTION-0058",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 58",
+    "DecisionTime": "2027-07-30T01:20:00+00:00",
+    "Rationale": "Rationale 58",
+    "ExpectedMarginProtected": 770.91,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0059",
+    "InterventionId": "INTERVENTION-0059",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 59",
+    "DecisionTime": "2027-08-02T17:46:40+00:00",
+    "Rationale": "Rationale 59",
+    "ExpectedMarginProtected": 849.29,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0060",
+    "InterventionId": "INTERVENTION-0060",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 60",
+    "DecisionTime": "2027-08-06T10:13:20+00:00",
+    "Rationale": "Rationale 60",
+    "ExpectedMarginProtected": 595.87,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0061",
+    "InterventionId": "INTERVENTION-0061",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 61",
+    "DecisionTime": "2027-08-10T02:40:00+00:00",
+    "Rationale": "Rationale 61",
+    "ExpectedMarginProtected": 678.66,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0062",
+    "InterventionId": "INTERVENTION-0062",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 62",
+    "DecisionTime": "2027-08-13T19:06:40+00:00",
+    "Rationale": "Rationale 62",
+    "ExpectedMarginProtected": 350.87,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0063",
+    "InterventionId": "INTERVENTION-0063",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 63",
+    "DecisionTime": "2027-08-17T11:33:20+00:00",
+    "Rationale": "Rationale 63",
+    "ExpectedMarginProtected": 262.3,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0064",
+    "InterventionId": "INTERVENTION-0064",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 64",
+    "DecisionTime": "2027-08-21T04:00:00+00:00",
+    "Rationale": "Rationale 64",
+    "ExpectedMarginProtected": 263.37,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0065",
+    "InterventionId": "INTERVENTION-0065",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 65",
+    "DecisionTime": "2027-08-24T20:26:40+00:00",
+    "Rationale": "Rationale 65",
+    "ExpectedMarginProtected": 526.65,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0066",
+    "InterventionId": "INTERVENTION-0066",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 66",
+    "DecisionTime": "2027-08-28T12:53:20+00:00",
+    "Rationale": "Rationale 66",
+    "ExpectedMarginProtected": 108.8,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0067",
+    "InterventionId": "INTERVENTION-0067",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 67",
+    "DecisionTime": "2027-09-01T05:20:00+00:00",
+    "Rationale": "Rationale 67",
+    "ExpectedMarginProtected": 518.76,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0068",
+    "InterventionId": "INTERVENTION-0068",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 68",
+    "DecisionTime": "2027-09-04T21:46:40+00:00",
+    "Rationale": "Rationale 68",
+    "ExpectedMarginProtected": 118.53,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0069",
+    "InterventionId": "INTERVENTION-0069",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 69",
+    "DecisionTime": "2027-09-08T14:13:20+00:00",
+    "Rationale": "Rationale 69",
+    "ExpectedMarginProtected": 722.45,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0070",
+    "InterventionId": "INTERVENTION-0070",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 70",
+    "DecisionTime": "2027-09-12T06:40:00+00:00",
+    "Rationale": "Rationale 70",
+    "ExpectedMarginProtected": 185.15,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0071",
+    "InterventionId": "INTERVENTION-0071",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 71",
+    "DecisionTime": "2027-09-15T23:06:40+00:00",
+    "Rationale": "Rationale 71",
+    "ExpectedMarginProtected": 987.39,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0072",
+    "InterventionId": "INTERVENTION-0072",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 72",
+    "DecisionTime": "2027-09-19T15:33:20+00:00",
+    "Rationale": "Rationale 72",
+    "ExpectedMarginProtected": 962.42,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0073",
+    "InterventionId": "INTERVENTION-0073",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 73",
+    "DecisionTime": "2027-09-23T08:00:00+00:00",
+    "Rationale": "Rationale 73",
+    "ExpectedMarginProtected": 386.86,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0074",
+    "InterventionId": "INTERVENTION-0074",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 74",
+    "DecisionTime": "2027-09-27T00:26:40+00:00",
+    "Rationale": "Rationale 74",
+    "ExpectedMarginProtected": 433.56,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0075",
+    "InterventionId": "INTERVENTION-0075",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 75",
+    "DecisionTime": "2027-09-30T16:53:20+00:00",
+    "Rationale": "Rationale 75",
+    "ExpectedMarginProtected": 582.93,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0076",
+    "InterventionId": "INTERVENTION-0076",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 76",
+    "DecisionTime": "2027-10-04T09:20:00+00:00",
+    "Rationale": "Rationale 76",
+    "ExpectedMarginProtected": 134.32,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0077",
+    "InterventionId": "INTERVENTION-0077",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 77",
+    "DecisionTime": "2027-10-08T01:46:40+00:00",
+    "Rationale": "Rationale 77",
+    "ExpectedMarginProtected": 711.49,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0078",
+    "InterventionId": "INTERVENTION-0078",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 78",
+    "DecisionTime": "2027-10-11T18:13:20+00:00",
+    "Rationale": "Rationale 78",
+    "ExpectedMarginProtected": 479.28,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0079",
+    "InterventionId": "INTERVENTION-0079",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 79",
+    "DecisionTime": "2027-10-15T10:40:00+00:00",
+    "Rationale": "Rationale 79",
+    "ExpectedMarginProtected": 344.23,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0080",
+    "InterventionId": "INTERVENTION-0080",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 80",
+    "DecisionTime": "2027-10-19T03:06:40+00:00",
+    "Rationale": "Rationale 80",
+    "ExpectedMarginProtected": 353.85,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0081",
+    "InterventionId": "INTERVENTION-0081",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 81",
+    "DecisionTime": "2027-10-22T19:33:20+00:00",
+    "Rationale": "Rationale 81",
+    "ExpectedMarginProtected": 910.69,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0082",
+    "InterventionId": "INTERVENTION-0082",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 82",
+    "DecisionTime": "2027-10-26T12:00:00+00:00",
+    "Rationale": "Rationale 82",
+    "ExpectedMarginProtected": 882.86,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0083",
+    "InterventionId": "INTERVENTION-0083",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 83",
+    "DecisionTime": "2027-10-30T04:26:40+00:00",
+    "Rationale": "Rationale 83",
+    "ExpectedMarginProtected": 597.03,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0084",
+    "InterventionId": "INTERVENTION-0084",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 84",
+    "DecisionTime": "2027-11-02T20:53:20+00:00",
+    "Rationale": "Rationale 84",
+    "ExpectedMarginProtected": 391.71,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0085",
+    "InterventionId": "INTERVENTION-0085",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 85",
+    "DecisionTime": "2027-11-06T13:20:00+00:00",
+    "Rationale": "Rationale 85",
+    "ExpectedMarginProtected": 565.97,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0086",
+    "InterventionId": "INTERVENTION-0086",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 86",
+    "DecisionTime": "2027-11-10T05:46:40+00:00",
+    "Rationale": "Rationale 86",
+    "ExpectedMarginProtected": 85.42,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0087",
+    "InterventionId": "INTERVENTION-0087",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 87",
+    "DecisionTime": "2027-11-13T22:13:20+00:00",
+    "Rationale": "Rationale 87",
+    "ExpectedMarginProtected": 459.64,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0088",
+    "InterventionId": "INTERVENTION-0088",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 88",
+    "DecisionTime": "2027-11-17T14:40:00+00:00",
+    "Rationale": "Rationale 88",
+    "ExpectedMarginProtected": 948.53,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0089",
+    "InterventionId": "INTERVENTION-0089",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 89",
+    "DecisionTime": "2027-11-21T07:06:40+00:00",
+    "Rationale": "Rationale 89",
+    "ExpectedMarginProtected": 828.42,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0090",
+    "InterventionId": "INTERVENTION-0090",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 90",
+    "DecisionTime": "2027-11-24T23:33:20+00:00",
+    "Rationale": "Rationale 90",
+    "ExpectedMarginProtected": 920.37,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0091",
+    "InterventionId": "INTERVENTION-0091",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 91",
+    "DecisionTime": "2027-11-28T16:00:00+00:00",
+    "Rationale": "Rationale 91",
+    "ExpectedMarginProtected": 445.37,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0092",
+    "InterventionId": "INTERVENTION-0092",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 92",
+    "DecisionTime": "2027-12-02T08:26:40+00:00",
+    "Rationale": "Rationale 92",
+    "ExpectedMarginProtected": 257.4,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0093",
+    "InterventionId": "INTERVENTION-0093",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 93",
+    "DecisionTime": "2027-12-06T00:53:20+00:00",
+    "Rationale": "Rationale 93",
+    "ExpectedMarginProtected": 255.67,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0094",
+    "InterventionId": "INTERVENTION-0094",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 94",
+    "DecisionTime": "2027-12-09T17:20:00+00:00",
+    "Rationale": "Rationale 94",
+    "ExpectedMarginProtected": 471.73,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0095",
+    "InterventionId": "INTERVENTION-0095",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 95",
+    "DecisionTime": "2027-12-13T09:46:40+00:00",
+    "Rationale": "Rationale 95",
+    "ExpectedMarginProtected": 215.21,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0096",
+    "InterventionId": "INTERVENTION-0096",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 96",
+    "DecisionTime": "2027-12-17T02:13:20+00:00",
+    "Rationale": "Rationale 96",
+    "ExpectedMarginProtected": 700.67,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0097",
+    "InterventionId": "INTERVENTION-0097",
+    "DecisionState": "Proposed",
+    "DecidedBy": "DecidedBy 97",
+    "DecisionTime": "2027-12-20T18:40:00+00:00",
+    "Rationale": "Rationale 97",
+    "ExpectedMarginProtected": 130.37,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0098",
+    "InterventionId": "INTERVENTION-0098",
+    "DecisionState": "Approved",
+    "DecidedBy": "DecidedBy 98",
+    "DecisionTime": "2027-12-24T11:06:40+00:00",
+    "Rationale": "Rationale 98",
+    "ExpectedMarginProtected": 950.32,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0099",
+    "InterventionId": "INTERVENTION-0099",
+    "DecisionState": "Rejected",
+    "DecidedBy": "DecidedBy 99",
+    "DecisionTime": "2027-12-28T03:33:20+00:00",
+    "Rationale": "Rationale 99",
+    "ExpectedMarginProtected": 873.49,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  },
+  {
+    "DecisionId": "DECISIONRECORD-0100",
+    "InterventionId": "INTERVENTION-0100",
+    "DecisionState": "Escalated",
+    "DecidedBy": "DecidedBy 100",
+    "DecisionTime": "2027-12-31T20:00:00+00:00",
+    "Rationale": "Rationale 100",
+    "ExpectedMarginProtected": 524.32,
+    "PolicyVersion": "ZAVA-SC-2027.4"
+  }
+]

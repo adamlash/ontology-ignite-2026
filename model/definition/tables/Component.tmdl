@@ -1,0 +1,102 @@
+/// A material or subassembly required to manufacture a Zava product.
+table Component
+
+	/// Stable component identifier.
+	column ComponentId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: ComponentId
+
+		annotation OntologyProperty = ComponentId
+
+	/// Engineering component name.
+	column ComponentName
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ComponentName
+
+		annotation OntologyProperty = ComponentName
+
+	/// Primary approved supplier.
+	column SupplierId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: SupplierId
+
+		annotation OntologyProperty = SupplierId
+
+	/// Procurement commodity family.
+	column Commodity
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Commodity
+
+		annotation OntologyProperty = Commodity
+
+	/// Current component status.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Current sourced unit cost.
+	column UnitCost
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: UnitCost
+
+		annotation currency = USD
+
+		annotation OntologyProperty = UnitCost
+
+	/// Committed replenishment lead time.
+	column LeadTimeDays
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: LeadTimeDays
+
+		annotation unit = days
+
+		annotation OntologyProperty = LeadTimeDays
+
+	/// Country where the component is produced.
+	column CountryOfOrigin
+		dataType: string
+		summarizeBy: none
+		sourceColumn: CountryOfOrigin
+
+		annotation OntologyProperty = CountryOfOrigin
+
+	/// Whether supply is below committed demand.
+	column Constrained
+		dataType: boolean
+		summarizeBy: none
+		sourceColumn: Constrained
+
+		annotation OntologyProperty = Constrained
+
+	partition Component-DirectLake = entity
+		mode: directLake
+		source
+			entityName: component
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Materials Planning
+
+	annotation grain = One row per component
+
+	annotation systemOfRecord = PLM and ERP
+
+	annotation OntologyQualifiedName = products#Component
+
+	annotation OntologyNamespace = products
+
+	annotation OntologySynonyms = part; material; subassembly
+

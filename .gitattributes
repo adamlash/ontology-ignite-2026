@@ -1,0 +1,4 @@
+* text=auto
+# Preserve published checksums and the existing deployment's byte-based identity.
+data/** -text
+model/** -text

@@ -1,0 +1,47 @@
+{
+  "BillOfMaterial": {
+    "BillOfMaterialId": "string",
+    "ProductId": "string",
+    "ComponentId": "string",
+    "RequirementName": "string",
+    "UnitsPerProduct": "int64"
+  },
+  "SupplierSite": {
+    "SupplierSiteId": "string",
+    "SupplierId": "string",
+    "SiteName": "string",
+    "Status": "string"
+  },
+  "ComponentSupply": {
+    "ComponentSupplyId": "string",
+    "ComponentId": "string",
+    "SupplierSiteId": "string",
+    "SupplyRouteId": "string",
+    "QualificationStatus": "string",
+    "LeadTimeHours": "int64",
+    "DailyCapacityUnits": "int64"
+  },
+  "SupplyRoute": {
+    "SupplyRouteId": "string",
+    "RouteName": "string",
+    "SupplierSiteId": "string",
+    "DestinationFacilityId": "string",
+    "CarrierId": "string",
+    "Status": "string",
+    "TransitHours": "int64"
+  },
+  "RouteHub": {
+    "RouteHubId": "string",
+    "SupplyRouteId": "string",
+    "LogisticsHubId": "string",
+    "StopSequence": "int64"
+  },
+  "LogisticsHub": {
+    "LogisticsHubId": "string",
+    "HubName": "string",
+    "HubType": "string",
+    "Status": "string",
+    "ExpectedRecoveryHours": "int64",
+    "SnapshotTime": "dateTime"
+  }
+}

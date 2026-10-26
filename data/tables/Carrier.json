@@ -1,0 +1,162 @@
+[
+  {
+    "CarrierId": "CARRIER-0001",
+    "CarrierName": "Carrier 1",
+    "Mode": "Ocean",
+    "Status": "Active",
+    "ReliabilityPercent": 82.95,
+    "CostIndex": 846.63
+  },
+  {
+    "CarrierId": "CARRIER-0002",
+    "CarrierName": "Carrier 2",
+    "Mode": "Air",
+    "Status": "Watch",
+    "ReliabilityPercent": 95.63,
+    "CostIndex": 987.97
+  },
+  {
+    "CarrierId": "CARRIER-0003",
+    "CarrierName": "Carrier 3",
+    "Mode": "Road",
+    "Status": "CapacityLimited",
+    "ReliabilityPercent": 86.08,
+    "CostIndex": 317.98
+  },
+  {
+    "CarrierId": "CARRIER-0004",
+    "CarrierName": "Carrier 4",
+    "Mode": "Rail",
+    "Status": "Suspended",
+    "ReliabilityPercent": 25.45,
+    "CostIndex": 186.85
+  },
+  {
+    "CarrierId": "CARRIER-0005",
+    "CarrierName": "Carrier 5",
+    "Mode": "Ocean",
+    "Status": "Active",
+    "ReliabilityPercent": 63.48,
+    "CostIndex": 717.26
+  },
+  {
+    "CarrierId": "CARRIER-0006",
+    "CarrierName": "Carrier 6",
+    "Mode": "Air",
+    "Status": "Watch",
+    "ReliabilityPercent": 42.07,
+    "CostIndex": 126.27
+  },
+  {
+    "CarrierId": "CARRIER-0007",
+    "CarrierName": "Carrier 7",
+    "Mode": "Road",
+    "Status": "CapacityLimited",
+    "ReliabilityPercent": 76.78,
+    "CostIndex": 772.0
+  },
+  {
+    "CarrierId": "CARRIER-0008",
+    "CarrierName": "Carrier 8",
+    "Mode": "Rail",
+    "Status": "Suspended",
+    "ReliabilityPercent": 80.49,
+    "CostIndex": 269.93
+  },
+  {
+    "CarrierId": "CARRIER-0009",
+    "CarrierName": "Carrier 9",
+    "Mode": "Ocean",
+    "Status": "Active",
+    "ReliabilityPercent": 9.9,
+    "CostIndex": 806.01
+  },
+  {
+    "CarrierId": "CARRIER-0010",
+    "CarrierName": "Carrier 10",
+    "Mode": "Air",
+    "Status": "Watch",
+    "ReliabilityPercent": 4.56,
+    "CostIndex": 994.18
+  },
+  {
+    "CarrierId": "CARRIER-0011",
+    "CarrierName": "Carrier 11",
+    "Mode": "Road",
+    "Status": "CapacityLimited",
+    "ReliabilityPercent": 48.71,
+    "CostIndex": 938.34
+  },
+  {
+    "CarrierId": "CARRIER-0012",
+    "CarrierName": "Carrier 12",
+    "Mode": "Rail",
+    "Status": "Suspended",
+    "ReliabilityPercent": 88.93,
+    "CostIndex": 525.14
+  },
+  {
+    "CarrierId": "CARRIER-0013",
+    "CarrierName": "Carrier 13",
+    "Mode": "Ocean",
+    "Status": "Active",
+    "ReliabilityPercent": 19.88,
+    "CostIndex": 543.28
+  },
+  {
+    "CarrierId": "CARRIER-0014",
+    "CarrierName": "Carrier 14",
+    "Mode": "Air",
+    "Status": "Watch",
+    "ReliabilityPercent": 96.27,
+    "CostIndex": 533.22
+  },
+  {
+    "CarrierId": "CARRIER-0015",
+    "CarrierName": "Carrier 15",
+    "Mode": "Road",
+    "Status": "CapacityLimited",
+    "ReliabilityPercent": 51.3,
+    "CostIndex": 826.18
+  },
+  {
+    "CarrierId": "CARRIER-0016",
+    "CarrierName": "Carrier 16",
+    "Mode": "Rail",
+    "Status": "Suspended",
+    "ReliabilityPercent": 88.74,
+    "CostIndex": 477.89
+  },
+  {
+    "CarrierId": "CARRIER-0017",
+    "CarrierName": "Carrier 17",
+    "Mode": "Ocean",
+    "Status": "Active",
+    "ReliabilityPercent": 98.0,
+    "CostIndex": 696.64
+  },
+  {
+    "CarrierId": "CARRIER-0018",
+    "CarrierName": "Carrier 18",
+    "Mode": "Air",
+    "Status": "Watch",
+    "ReliabilityPercent": 28.26,
+    "CostIndex": 179.93
+  },
+  {
+    "CarrierId": "CARRIER-0019",
+    "CarrierName": "Carrier 19",
+    "Mode": "Road",
+    "Status": "CapacityLimited",
+    "ReliabilityPercent": 3.87,
+    "CostIndex": 336.01
+  },
+  {
+    "CarrierId": "CARRIER-0020",
+    "CarrierName": "Carrier 20",
+    "Mode": "Rail",
+    "Status": "Suspended",
+    "ReliabilityPercent": 56.83,
+    "CostIndex": 250.06
+  }
+]

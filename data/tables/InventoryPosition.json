@@ -1,0 +1,1982 @@
+[
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0001",
+    "ProductId": "PRODUCT-0009",
+    "FacilityId": "FACILITY-0011",
+    "Status": "Healthy",
+    "OnHandUnits": 400,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0002",
+    "ProductId": "PRODUCT-0010",
+    "FacilityId": "FACILITY-0012",
+    "Status": "Short",
+    "OnHandUnits": 100,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0003",
+    "ProductId": "PRODUCT-0005",
+    "FacilityId": "FACILITY-0006",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0004",
+    "ProductId": "PRODUCT-0006",
+    "FacilityId": "FACILITY-0007",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0005",
+    "ProductId": "PRODUCT-0007",
+    "FacilityId": "FACILITY-0008",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0006",
+    "ProductId": "PRODUCT-0008",
+    "FacilityId": "FACILITY-0009",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0007",
+    "ProductId": "PRODUCT-0009",
+    "FacilityId": "FACILITY-0010",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0008",
+    "ProductId": "PRODUCT-0010",
+    "FacilityId": "FACILITY-0011",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0009",
+    "ProductId": "PRODUCT-0011",
+    "FacilityId": "FACILITY-0012",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0010",
+    "ProductId": "PRODUCT-0012",
+    "FacilityId": "FACILITY-0013",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0011",
+    "ProductId": "PRODUCT-0013",
+    "FacilityId": "FACILITY-0014",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0012",
+    "ProductId": "PRODUCT-0014",
+    "FacilityId": "FACILITY-0015",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0013",
+    "ProductId": "PRODUCT-0015",
+    "FacilityId": "FACILITY-0016",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0014",
+    "ProductId": "PRODUCT-0016",
+    "FacilityId": "FACILITY-0017",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0015",
+    "ProductId": "PRODUCT-0017",
+    "FacilityId": "FACILITY-0018",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0016",
+    "ProductId": "PRODUCT-0018",
+    "FacilityId": "FACILITY-0019",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0017",
+    "ProductId": "PRODUCT-0019",
+    "FacilityId": "FACILITY-0020",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0018",
+    "ProductId": "PRODUCT-0020",
+    "FacilityId": "FACILITY-0021",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0019",
+    "ProductId": "PRODUCT-0021",
+    "FacilityId": "FACILITY-0022",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0020",
+    "ProductId": "PRODUCT-0022",
+    "FacilityId": "FACILITY-0023",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0021",
+    "ProductId": "PRODUCT-0023",
+    "FacilityId": "FACILITY-0024",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0022",
+    "ProductId": "PRODUCT-0024",
+    "FacilityId": "FACILITY-0025",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0023",
+    "ProductId": "PRODUCT-0025",
+    "FacilityId": "FACILITY-0026",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0024",
+    "ProductId": "PRODUCT-0026",
+    "FacilityId": "FACILITY-0027",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0025",
+    "ProductId": "PRODUCT-0027",
+    "FacilityId": "FACILITY-0028",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0026",
+    "ProductId": "PRODUCT-0028",
+    "FacilityId": "FACILITY-0029",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0027",
+    "ProductId": "PRODUCT-0029",
+    "FacilityId": "FACILITY-0030",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0028",
+    "ProductId": "PRODUCT-0030",
+    "FacilityId": "FACILITY-0031",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0029",
+    "ProductId": "PRODUCT-0031",
+    "FacilityId": "FACILITY-0032",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0030",
+    "ProductId": "PRODUCT-0032",
+    "FacilityId": "FACILITY-0033",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0031",
+    "ProductId": "PRODUCT-0033",
+    "FacilityId": "FACILITY-0034",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0032",
+    "ProductId": "PRODUCT-0034",
+    "FacilityId": "FACILITY-0035",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0033",
+    "ProductId": "PRODUCT-0035",
+    "FacilityId": "FACILITY-0036",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0034",
+    "ProductId": "PRODUCT-0036",
+    "FacilityId": "FACILITY-0037",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0035",
+    "ProductId": "PRODUCT-0037",
+    "FacilityId": "FACILITY-0038",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0036",
+    "ProductId": "PRODUCT-0038",
+    "FacilityId": "FACILITY-0039",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0037",
+    "ProductId": "PRODUCT-0039",
+    "FacilityId": "FACILITY-0040",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0038",
+    "ProductId": "PRODUCT-0040",
+    "FacilityId": "FACILITY-0041",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0039",
+    "ProductId": "PRODUCT-0041",
+    "FacilityId": "FACILITY-0042",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0040",
+    "ProductId": "PRODUCT-0042",
+    "FacilityId": "FACILITY-0043",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0041",
+    "ProductId": "PRODUCT-0043",
+    "FacilityId": "FACILITY-0044",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0042",
+    "ProductId": "PRODUCT-0044",
+    "FacilityId": "FACILITY-0045",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0043",
+    "ProductId": "PRODUCT-0045",
+    "FacilityId": "FACILITY-0046",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0044",
+    "ProductId": "PRODUCT-0046",
+    "FacilityId": "FACILITY-0047",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0045",
+    "ProductId": "PRODUCT-0047",
+    "FacilityId": "FACILITY-0048",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0046",
+    "ProductId": "PRODUCT-0048",
+    "FacilityId": "FACILITY-0001",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0047",
+    "ProductId": "PRODUCT-0049",
+    "FacilityId": "FACILITY-0002",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0048",
+    "ProductId": "PRODUCT-0050",
+    "FacilityId": "FACILITY-0003",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0049",
+    "ProductId": "PRODUCT-0051",
+    "FacilityId": "FACILITY-0004",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0050",
+    "ProductId": "PRODUCT-0052",
+    "FacilityId": "FACILITY-0005",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0051",
+    "ProductId": "PRODUCT-0053",
+    "FacilityId": "FACILITY-0006",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0052",
+    "ProductId": "PRODUCT-0054",
+    "FacilityId": "FACILITY-0007",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0053",
+    "ProductId": "PRODUCT-0055",
+    "FacilityId": "FACILITY-0008",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0054",
+    "ProductId": "PRODUCT-0056",
+    "FacilityId": "FACILITY-0009",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0055",
+    "ProductId": "PRODUCT-0057",
+    "FacilityId": "FACILITY-0010",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0056",
+    "ProductId": "PRODUCT-0058",
+    "FacilityId": "FACILITY-0011",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0057",
+    "ProductId": "PRODUCT-0059",
+    "FacilityId": "FACILITY-0012",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0058",
+    "ProductId": "PRODUCT-0060",
+    "FacilityId": "FACILITY-0013",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0059",
+    "ProductId": "PRODUCT-0061",
+    "FacilityId": "FACILITY-0014",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0060",
+    "ProductId": "PRODUCT-0062",
+    "FacilityId": "FACILITY-0015",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0061",
+    "ProductId": "PRODUCT-0063",
+    "FacilityId": "FACILITY-0016",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0062",
+    "ProductId": "PRODUCT-0064",
+    "FacilityId": "FACILITY-0017",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0063",
+    "ProductId": "PRODUCT-0065",
+    "FacilityId": "FACILITY-0018",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0064",
+    "ProductId": "PRODUCT-0066",
+    "FacilityId": "FACILITY-0019",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0065",
+    "ProductId": "PRODUCT-0067",
+    "FacilityId": "FACILITY-0020",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0066",
+    "ProductId": "PRODUCT-0068",
+    "FacilityId": "FACILITY-0021",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0067",
+    "ProductId": "PRODUCT-0069",
+    "FacilityId": "FACILITY-0022",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0068",
+    "ProductId": "PRODUCT-0070",
+    "FacilityId": "FACILITY-0023",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0069",
+    "ProductId": "PRODUCT-0071",
+    "FacilityId": "FACILITY-0024",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0070",
+    "ProductId": "PRODUCT-0072",
+    "FacilityId": "FACILITY-0025",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0071",
+    "ProductId": "PRODUCT-0073",
+    "FacilityId": "FACILITY-0026",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0072",
+    "ProductId": "PRODUCT-0074",
+    "FacilityId": "FACILITY-0027",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0073",
+    "ProductId": "PRODUCT-0075",
+    "FacilityId": "FACILITY-0028",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0074",
+    "ProductId": "PRODUCT-0076",
+    "FacilityId": "FACILITY-0029",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0075",
+    "ProductId": "PRODUCT-0077",
+    "FacilityId": "FACILITY-0030",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0076",
+    "ProductId": "PRODUCT-0078",
+    "FacilityId": "FACILITY-0031",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0077",
+    "ProductId": "PRODUCT-0079",
+    "FacilityId": "FACILITY-0032",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0078",
+    "ProductId": "PRODUCT-0080",
+    "FacilityId": "FACILITY-0033",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0079",
+    "ProductId": "PRODUCT-0001",
+    "FacilityId": "FACILITY-0034",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0080",
+    "ProductId": "PRODUCT-0002",
+    "FacilityId": "FACILITY-0035",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0081",
+    "ProductId": "PRODUCT-0003",
+    "FacilityId": "FACILITY-0036",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0082",
+    "ProductId": "PRODUCT-0004",
+    "FacilityId": "FACILITY-0037",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0083",
+    "ProductId": "PRODUCT-0005",
+    "FacilityId": "FACILITY-0038",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0084",
+    "ProductId": "PRODUCT-0006",
+    "FacilityId": "FACILITY-0039",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0085",
+    "ProductId": "PRODUCT-0007",
+    "FacilityId": "FACILITY-0040",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0086",
+    "ProductId": "PRODUCT-0008",
+    "FacilityId": "FACILITY-0041",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0087",
+    "ProductId": "PRODUCT-0009",
+    "FacilityId": "FACILITY-0042",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0088",
+    "ProductId": "PRODUCT-0010",
+    "FacilityId": "FACILITY-0043",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0089",
+    "ProductId": "PRODUCT-0011",
+    "FacilityId": "FACILITY-0044",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0090",
+    "ProductId": "PRODUCT-0012",
+    "FacilityId": "FACILITY-0045",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0091",
+    "ProductId": "PRODUCT-0013",
+    "FacilityId": "FACILITY-0046",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0092",
+    "ProductId": "PRODUCT-0014",
+    "FacilityId": "FACILITY-0047",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0093",
+    "ProductId": "PRODUCT-0015",
+    "FacilityId": "FACILITY-0048",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0094",
+    "ProductId": "PRODUCT-0016",
+    "FacilityId": "FACILITY-0001",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0095",
+    "ProductId": "PRODUCT-0017",
+    "FacilityId": "FACILITY-0002",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0096",
+    "ProductId": "PRODUCT-0018",
+    "FacilityId": "FACILITY-0003",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0097",
+    "ProductId": "PRODUCT-0019",
+    "FacilityId": "FACILITY-0004",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0098",
+    "ProductId": "PRODUCT-0020",
+    "FacilityId": "FACILITY-0005",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0099",
+    "ProductId": "PRODUCT-0021",
+    "FacilityId": "FACILITY-0006",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0100",
+    "ProductId": "PRODUCT-0022",
+    "FacilityId": "FACILITY-0007",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0101",
+    "ProductId": "PRODUCT-0023",
+    "FacilityId": "FACILITY-0008",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0102",
+    "ProductId": "PRODUCT-0024",
+    "FacilityId": "FACILITY-0009",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0103",
+    "ProductId": "PRODUCT-0025",
+    "FacilityId": "FACILITY-0010",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0104",
+    "ProductId": "PRODUCT-0026",
+    "FacilityId": "FACILITY-0011",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0105",
+    "ProductId": "PRODUCT-0027",
+    "FacilityId": "FACILITY-0012",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0106",
+    "ProductId": "PRODUCT-0028",
+    "FacilityId": "FACILITY-0013",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0107",
+    "ProductId": "PRODUCT-0029",
+    "FacilityId": "FACILITY-0014",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0108",
+    "ProductId": "PRODUCT-0030",
+    "FacilityId": "FACILITY-0015",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0109",
+    "ProductId": "PRODUCT-0031",
+    "FacilityId": "FACILITY-0016",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0110",
+    "ProductId": "PRODUCT-0032",
+    "FacilityId": "FACILITY-0017",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0111",
+    "ProductId": "PRODUCT-0033",
+    "FacilityId": "FACILITY-0018",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0112",
+    "ProductId": "PRODUCT-0034",
+    "FacilityId": "FACILITY-0019",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0113",
+    "ProductId": "PRODUCT-0035",
+    "FacilityId": "FACILITY-0020",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0114",
+    "ProductId": "PRODUCT-0036",
+    "FacilityId": "FACILITY-0021",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0115",
+    "ProductId": "PRODUCT-0037",
+    "FacilityId": "FACILITY-0022",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0116",
+    "ProductId": "PRODUCT-0038",
+    "FacilityId": "FACILITY-0023",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0117",
+    "ProductId": "PRODUCT-0039",
+    "FacilityId": "FACILITY-0024",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0118",
+    "ProductId": "PRODUCT-0040",
+    "FacilityId": "FACILITY-0025",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0119",
+    "ProductId": "PRODUCT-0041",
+    "FacilityId": "FACILITY-0026",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0120",
+    "ProductId": "PRODUCT-0042",
+    "FacilityId": "FACILITY-0027",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0121",
+    "ProductId": "PRODUCT-0043",
+    "FacilityId": "FACILITY-0028",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0122",
+    "ProductId": "PRODUCT-0044",
+    "FacilityId": "FACILITY-0029",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0123",
+    "ProductId": "PRODUCT-0045",
+    "FacilityId": "FACILITY-0030",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0124",
+    "ProductId": "PRODUCT-0046",
+    "FacilityId": "FACILITY-0031",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0125",
+    "ProductId": "PRODUCT-0047",
+    "FacilityId": "FACILITY-0032",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0126",
+    "ProductId": "PRODUCT-0048",
+    "FacilityId": "FACILITY-0033",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0127",
+    "ProductId": "PRODUCT-0049",
+    "FacilityId": "FACILITY-0034",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0128",
+    "ProductId": "PRODUCT-0050",
+    "FacilityId": "FACILITY-0035",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0129",
+    "ProductId": "PRODUCT-0051",
+    "FacilityId": "FACILITY-0036",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0130",
+    "ProductId": "PRODUCT-0052",
+    "FacilityId": "FACILITY-0037",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0131",
+    "ProductId": "PRODUCT-0053",
+    "FacilityId": "FACILITY-0038",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0132",
+    "ProductId": "PRODUCT-0054",
+    "FacilityId": "FACILITY-0039",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0133",
+    "ProductId": "PRODUCT-0055",
+    "FacilityId": "FACILITY-0040",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0134",
+    "ProductId": "PRODUCT-0056",
+    "FacilityId": "FACILITY-0041",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0135",
+    "ProductId": "PRODUCT-0057",
+    "FacilityId": "FACILITY-0042",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0136",
+    "ProductId": "PRODUCT-0058",
+    "FacilityId": "FACILITY-0043",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0137",
+    "ProductId": "PRODUCT-0059",
+    "FacilityId": "FACILITY-0044",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0138",
+    "ProductId": "PRODUCT-0060",
+    "FacilityId": "FACILITY-0045",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0139",
+    "ProductId": "PRODUCT-0061",
+    "FacilityId": "FACILITY-0046",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0140",
+    "ProductId": "PRODUCT-0062",
+    "FacilityId": "FACILITY-0047",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0141",
+    "ProductId": "PRODUCT-0063",
+    "FacilityId": "FACILITY-0048",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0142",
+    "ProductId": "PRODUCT-0064",
+    "FacilityId": "FACILITY-0001",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0143",
+    "ProductId": "PRODUCT-0065",
+    "FacilityId": "FACILITY-0002",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0144",
+    "ProductId": "PRODUCT-0066",
+    "FacilityId": "FACILITY-0003",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0145",
+    "ProductId": "PRODUCT-0067",
+    "FacilityId": "FACILITY-0004",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0146",
+    "ProductId": "PRODUCT-0068",
+    "FacilityId": "FACILITY-0005",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0147",
+    "ProductId": "PRODUCT-0069",
+    "FacilityId": "FACILITY-0006",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0148",
+    "ProductId": "PRODUCT-0070",
+    "FacilityId": "FACILITY-0007",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0149",
+    "ProductId": "PRODUCT-0071",
+    "FacilityId": "FACILITY-0008",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0150",
+    "ProductId": "PRODUCT-0072",
+    "FacilityId": "FACILITY-0009",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0151",
+    "ProductId": "PRODUCT-0073",
+    "FacilityId": "FACILITY-0010",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0152",
+    "ProductId": "PRODUCT-0074",
+    "FacilityId": "FACILITY-0011",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0153",
+    "ProductId": "PRODUCT-0075",
+    "FacilityId": "FACILITY-0012",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0154",
+    "ProductId": "PRODUCT-0076",
+    "FacilityId": "FACILITY-0013",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0155",
+    "ProductId": "PRODUCT-0077",
+    "FacilityId": "FACILITY-0014",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0156",
+    "ProductId": "PRODUCT-0078",
+    "FacilityId": "FACILITY-0015",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0157",
+    "ProductId": "PRODUCT-0079",
+    "FacilityId": "FACILITY-0016",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0158",
+    "ProductId": "PRODUCT-0080",
+    "FacilityId": "FACILITY-0017",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0159",
+    "ProductId": "PRODUCT-0001",
+    "FacilityId": "FACILITY-0018",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0160",
+    "ProductId": "PRODUCT-0002",
+    "FacilityId": "FACILITY-0019",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0161",
+    "ProductId": "PRODUCT-0003",
+    "FacilityId": "FACILITY-0020",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0162",
+    "ProductId": "PRODUCT-0004",
+    "FacilityId": "FACILITY-0021",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0163",
+    "ProductId": "PRODUCT-0005",
+    "FacilityId": "FACILITY-0022",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0164",
+    "ProductId": "PRODUCT-0006",
+    "FacilityId": "FACILITY-0023",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0165",
+    "ProductId": "PRODUCT-0007",
+    "FacilityId": "FACILITY-0024",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0166",
+    "ProductId": "PRODUCT-0008",
+    "FacilityId": "FACILITY-0025",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0167",
+    "ProductId": "PRODUCT-0009",
+    "FacilityId": "FACILITY-0026",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0168",
+    "ProductId": "PRODUCT-0010",
+    "FacilityId": "FACILITY-0027",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0169",
+    "ProductId": "PRODUCT-0011",
+    "FacilityId": "FACILITY-0028",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0170",
+    "ProductId": "PRODUCT-0012",
+    "FacilityId": "FACILITY-0029",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0171",
+    "ProductId": "PRODUCT-0013",
+    "FacilityId": "FACILITY-0030",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0172",
+    "ProductId": "PRODUCT-0014",
+    "FacilityId": "FACILITY-0031",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0173",
+    "ProductId": "PRODUCT-0015",
+    "FacilityId": "FACILITY-0032",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0174",
+    "ProductId": "PRODUCT-0016",
+    "FacilityId": "FACILITY-0033",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0175",
+    "ProductId": "PRODUCT-0017",
+    "FacilityId": "FACILITY-0034",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0176",
+    "ProductId": "PRODUCT-0018",
+    "FacilityId": "FACILITY-0035",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0177",
+    "ProductId": "PRODUCT-0019",
+    "FacilityId": "FACILITY-0036",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0178",
+    "ProductId": "PRODUCT-0020",
+    "FacilityId": "FACILITY-0037",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0179",
+    "ProductId": "PRODUCT-0021",
+    "FacilityId": "FACILITY-0038",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0180",
+    "ProductId": "PRODUCT-0022",
+    "FacilityId": "FACILITY-0039",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0181",
+    "ProductId": "PRODUCT-0023",
+    "FacilityId": "FACILITY-0040",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0182",
+    "ProductId": "PRODUCT-0024",
+    "FacilityId": "FACILITY-0041",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0183",
+    "ProductId": "PRODUCT-0025",
+    "FacilityId": "FACILITY-0042",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0184",
+    "ProductId": "PRODUCT-0026",
+    "FacilityId": "FACILITY-0043",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0185",
+    "ProductId": "PRODUCT-0027",
+    "FacilityId": "FACILITY-0044",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0186",
+    "ProductId": "PRODUCT-0028",
+    "FacilityId": "FACILITY-0045",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0187",
+    "ProductId": "PRODUCT-0029",
+    "FacilityId": "FACILITY-0046",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0188",
+    "ProductId": "PRODUCT-0030",
+    "FacilityId": "FACILITY-0047",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0189",
+    "ProductId": "PRODUCT-0031",
+    "FacilityId": "FACILITY-0048",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0190",
+    "ProductId": "PRODUCT-0032",
+    "FacilityId": "FACILITY-0001",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0191",
+    "ProductId": "PRODUCT-0033",
+    "FacilityId": "FACILITY-0002",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0192",
+    "ProductId": "PRODUCT-0034",
+    "FacilityId": "FACILITY-0003",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0193",
+    "ProductId": "PRODUCT-0035",
+    "FacilityId": "FACILITY-0004",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0194",
+    "ProductId": "PRODUCT-0036",
+    "FacilityId": "FACILITY-0005",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0195",
+    "ProductId": "PRODUCT-0037",
+    "FacilityId": "FACILITY-0006",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0196",
+    "ProductId": "PRODUCT-0038",
+    "FacilityId": "FACILITY-0007",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0197",
+    "ProductId": "PRODUCT-0039",
+    "FacilityId": "FACILITY-0008",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0198",
+    "ProductId": "PRODUCT-0040",
+    "FacilityId": "FACILITY-0009",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0199",
+    "ProductId": "PRODUCT-0041",
+    "FacilityId": "FACILITY-0010",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0200",
+    "ProductId": "PRODUCT-0042",
+    "FacilityId": "FACILITY-0011",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0201",
+    "ProductId": "PRODUCT-0043",
+    "FacilityId": "FACILITY-0012",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0202",
+    "ProductId": "PRODUCT-0044",
+    "FacilityId": "FACILITY-0013",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0203",
+    "ProductId": "PRODUCT-0045",
+    "FacilityId": "FACILITY-0014",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0204",
+    "ProductId": "PRODUCT-0046",
+    "FacilityId": "FACILITY-0015",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0205",
+    "ProductId": "PRODUCT-0047",
+    "FacilityId": "FACILITY-0016",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0206",
+    "ProductId": "PRODUCT-0048",
+    "FacilityId": "FACILITY-0017",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0207",
+    "ProductId": "PRODUCT-0049",
+    "FacilityId": "FACILITY-0018",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0208",
+    "ProductId": "PRODUCT-0050",
+    "FacilityId": "FACILITY-0019",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0209",
+    "ProductId": "PRODUCT-0051",
+    "FacilityId": "FACILITY-0020",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0210",
+    "ProductId": "PRODUCT-0052",
+    "FacilityId": "FACILITY-0021",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0211",
+    "ProductId": "PRODUCT-0053",
+    "FacilityId": "FACILITY-0022",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0212",
+    "ProductId": "PRODUCT-0054",
+    "FacilityId": "FACILITY-0023",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0213",
+    "ProductId": "PRODUCT-0055",
+    "FacilityId": "FACILITY-0024",
+    "Status": "Healthy",
+    "OnHandUnits": 480,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0214",
+    "ProductId": "PRODUCT-0056",
+    "FacilityId": "FACILITY-0025",
+    "Status": "Watch",
+    "OnHandUnits": 520,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0215",
+    "ProductId": "PRODUCT-0057",
+    "FacilityId": "FACILITY-0026",
+    "Status": "Short",
+    "OnHandUnits": 560,
+    "CommittedUnits": 160,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0216",
+    "ProductId": "PRODUCT-0058",
+    "FacilityId": "FACILITY-0027",
+    "Status": "Stockout",
+    "OnHandUnits": 600,
+    "CommittedUnits": 180,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0217",
+    "ProductId": "PRODUCT-0059",
+    "FacilityId": "FACILITY-0028",
+    "Status": "Healthy",
+    "OnHandUnits": 320,
+    "CommittedUnits": 80,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0218",
+    "ProductId": "PRODUCT-0060",
+    "FacilityId": "FACILITY-0029",
+    "Status": "Watch",
+    "OnHandUnits": 360,
+    "CommittedUnits": 100,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0219",
+    "ProductId": "PRODUCT-0061",
+    "FacilityId": "FACILITY-0030",
+    "Status": "Short",
+    "OnHandUnits": 400,
+    "CommittedUnits": 120,
+    "SafetyStockUnits": 40
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0220",
+    "ProductId": "PRODUCT-0062",
+    "FacilityId": "FACILITY-0031",
+    "Status": "Stockout",
+    "OnHandUnits": 440,
+    "CommittedUnits": 140,
+    "SafetyStockUnits": 40
+  }
+]

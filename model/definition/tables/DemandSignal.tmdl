@@ -1,0 +1,74 @@
+/// Forecast and observed demand for a product in a market.
+table DemandSignal
+
+	/// Consensus forecast units.
+	measure 'Forecast Demand Units' = SUM('DemandSignal'[ForecastUnits])
+		formatString: #,##0
+
+	/// Stable demand-signal identifier.
+	column DemandSignalId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: DemandSignalId
+
+		annotation OntologyProperty = DemandSignalId
+
+	/// Product being demanded.
+	column ProductId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ProductId
+
+		annotation OntologyProperty = ProductId
+
+	/// Demand market.
+	column Market
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Market
+
+		annotation OntologyProperty = Market
+
+		annotation OntologyReusableProperty = MarketCode
+
+	/// Current demand state.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Consensus demand forecast.
+	column ForecastUnits
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: ForecastUnits
+
+		annotation unit = units
+
+		annotation OntologyProperty = ForecastUnits
+
+	partition DemandSignal-DirectLake = entity
+		mode: directLake
+		source
+			entityName: demandsignal
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Demand Planning
+
+	annotation grain = Product x market x bucket
+
+	annotation freshnessSla = Hourly
+
+	annotation OntologyQualifiedName = market#DemandSignal
+
+	annotation OntologyNamespace = market
+
+	annotation OntologySynonyms = demand forecast; sell-through signal
+

@@ -1,0 +1,116 @@
+/// A Zava or partner site that produces, stores, or sells product.
+table Facility
+
+	/// Stable facility identifier.
+	column ObjectId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: ObjectId
+
+		annotation semanticType = Identifier
+
+		annotation OntologyProperty = ObjectId
+
+	/// Facility name used by operators.
+	column ObjectName
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ObjectName
+
+		annotation semanticType = Display name
+
+		annotation OntologyProperty = ObjectName
+
+	/// Current operating state.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation businessOwner = Network Operations
+
+		annotation OntologyProperty = Status
+
+	/// Role in the network.
+	column FacilityType
+		dataType: string
+		summarizeBy: none
+		sourceColumn: FacilityType
+
+		annotation OntologyProperty = FacilityType
+
+	/// Country of operation.
+	column Country
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Country
+
+		annotation OntologyProperty = Country
+
+	/// Operating region.
+	column Region
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Region
+
+		annotation OntologyProperty = Region
+
+	/// Local time zone.
+	column TimeZone
+		dataType: string
+		summarizeBy: none
+		sourceColumn: TimeZone
+
+		annotation OntologyProperty = TimeZone
+
+	/// Facility latitude.
+	column Latitude
+		dataType: double
+		summarizeBy: none
+		sourceColumn: Latitude
+
+		annotation unit = degrees
+
+		annotation OntologyProperty = Latitude
+
+	/// Facility longitude.
+	column Longitude
+		dataType: double
+		summarizeBy: none
+		sourceColumn: Longitude
+
+		annotation unit = degrees
+
+		annotation OntologyProperty = Longitude
+
+	/// Nominal daily throughput or production capacity.
+	column DailyCapacityUnits
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: DailyCapacityUnits
+
+		annotation unit = units/day
+
+		annotation OntologyProperty = DailyCapacityUnits
+
+	partition Facility-DirectLake = entity
+		mode: directLake
+		source
+			entityName: facility
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Network Strategy
+
+	annotation grain = One row per physical site
+
+	annotation geospatial = true
+
+	annotation OntologyQualifiedName = network#Facility
+
+	annotation OntologyNamespace = network
+
+	annotation OntologySynonyms = site; node; location
+

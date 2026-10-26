@@ -1,0 +1,141 @@
+{
+  "Product": {
+    "ProductId": "string",
+    "ProductName": "string",
+    "PrimaryComponentId": "string",
+    "Category": "string",
+    "Brand": "string",
+    "Status": "string",
+    "UnitCost": "decimal",
+    "ListPrice": "decimal",
+    "TargetMarginPercent": "double",
+    "Criticality": "string"
+  },
+  "Component": {
+    "ComponentId": "string",
+    "ComponentName": "string",
+    "SupplierId": "string",
+    "Commodity": "string",
+    "Status": "string",
+    "UnitCost": "decimal",
+    "LeadTimeDays": "int64",
+    "CountryOfOrigin": "string",
+    "Constrained": "boolean"
+  },
+  "Supplier": {
+    "SupplierId": "string",
+    "SupplierName": "string",
+    "SupplierTier": "string",
+    "Country": "string",
+    "Region": "string",
+    "Status": "string",
+    "CapacityCommitmentUnits": "int64",
+    "OnTimeDeliveryPercent": "double",
+    "DefectRatePercent": "double",
+    "RiskTier": "string"
+  },
+  "Carrier": {
+    "CarrierId": "string",
+    "CarrierName": "string",
+    "Mode": "string",
+    "Status": "string",
+    "ReliabilityPercent": "double",
+    "CostIndex": "double"
+  },
+  "Facility": {
+    "ObjectId": "string",
+    "ObjectName": "string",
+    "Status": "string",
+    "FacilityType": "string",
+    "Country": "string",
+    "Region": "string",
+    "TimeZone": "string",
+    "Latitude": "double",
+    "Longitude": "double",
+    "DailyCapacityUnits": "int64"
+  },
+  "InventoryPosition": {
+    "InventoryPositionId": "string",
+    "ProductId": "string",
+    "FacilityId": "string",
+    "Status": "string",
+    "OnHandUnits": "int64",
+    "CommittedUnits": "int64",
+    "SafetyStockUnits": "int64"
+  },
+  "ProductionOrder": {
+    "ProductionOrderId": "string",
+    "ProductId": "string",
+    "FacilityId": "string",
+    "Status": "string",
+    "PlannedQuantity": "int64",
+    "CompletedQuantity": "int64",
+    "PromiseDate": "dateTime"
+  },
+  "CustomerOrder": {
+    "CustomerOrderId": "string",
+    "ProductId": "string",
+    "DestinationFacilityId": "string",
+    "Market": "string",
+    "Status": "string",
+    "CustomerSegment": "string",
+    "OrderQuantity": "int64",
+    "RequestedDate": "dateTime",
+    "PenaltyPerUnit": "decimal",
+    "RevenuePerUnit": "decimal"
+  },
+  "Shipment": {
+    "ShipmentId": "string",
+    "ProductId": "string",
+    "CustomerOrderId": "string",
+    "OriginFacilityId": "string",
+    "DestinationFacilityId": "string",
+    "CarrierId": "string",
+    "Status": "string",
+    "ShipmentQuantity": "int64",
+    "Mode": "string",
+    "PlannedArrival": "dateTime",
+    "StrategicPriority": "string"
+  },
+  "DemandSignal": {
+    "DemandSignalId": "string",
+    "ProductId": "string",
+    "Market": "string",
+    "Status": "string",
+    "ForecastUnits": "int64"
+  },
+  "Disruption": {
+    "EventId": "string",
+    "EventTime": "dateTime",
+    "Status": "string",
+    "Severity": "string",
+    "SupplierId": "string",
+    "FacilityId": "string",
+    "ShipmentId": "string",
+    "DisruptionType": "string",
+    "ExpectedDurationHours": "double",
+    "EstimatedImpactUnits": "int64",
+    "ConfidencePercent": "double"
+  },
+  "Intervention": {
+    "InterventionId": "string",
+    "DisruptionId": "string",
+    "ShipmentId": "string",
+    "Owner": "string",
+    "ActionType": "string",
+    "Status": "string",
+    "EstimatedCost": "decimal",
+    "ExpectedRecoveryUnits": "int64",
+    "DueDate": "dateTime"
+  },
+  "DecisionRecord": {
+    "DecisionId": "string",
+    "InterventionId": "string",
+    "DecisionState": "string",
+    "DecidedBy": "string",
+    "DecisionTime": "dateTime",
+    "Rationale": "string",
+    "ExpectedMarginProtected": "decimal",
+    "PolicyVersion": "string"
+  }
+}

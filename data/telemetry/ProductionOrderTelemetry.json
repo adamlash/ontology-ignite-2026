@@ -1,0 +1,2802 @@
+[
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0001",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0001",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0001",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0001",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0002",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0002",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0002",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0002",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0003",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0003",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0003",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0003",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0004",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0004",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0004",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0004",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0005",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0005",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0005",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0005",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0006",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0006",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0006",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0006",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0007",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0007",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0007",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0007",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0008",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0008",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0008",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0008",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0009",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0009",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0009",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0009",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0010",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0010",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0010",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0010",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0011",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0011",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0011",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0011",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0012",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0012",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0012",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0012",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0013",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0013",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0013",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0013",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0014",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0014",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0014",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0014",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0015",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0015",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0015",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0015",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0016",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0016",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0016",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0016",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0017",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0017",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0017",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0017",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0018",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0018",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0018",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0018",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0019",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0019",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0019",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0019",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0020",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0020",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0020",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0020",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0021",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0021",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0021",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0021",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0022",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0022",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0022",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0022",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0023",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0023",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0023",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0023",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0024",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0024",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0024",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0024",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0025",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0025",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0025",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0025",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0026",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0026",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0026",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0026",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0027",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0027",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0027",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0027",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0028",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0028",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0028",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0028",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0029",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0029",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0029",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0029",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0030",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0030",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0030",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0030",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0031",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0031",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0031",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0031",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0032",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0032",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0032",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0032",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0033",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0033",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0033",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0033",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0034",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0034",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0034",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0034",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0035",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0035",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0035",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0035",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0036",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0036",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0036",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0036",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0037",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0037",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0037",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0037",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0038",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0038",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0038",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0038",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0039",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0039",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0039",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0039",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0040",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0040",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0040",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0040",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0041",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0041",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0041",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0041",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0042",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0042",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0042",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0042",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0043",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0043",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0043",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0043",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0044",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0044",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0044",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0044",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0045",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0045",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0045",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0045",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0046",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0046",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0046",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0046",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0047",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0047",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0047",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0047",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0048",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0048",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0048",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0048",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0049",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0049",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0049",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0049",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0050",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0050",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0050",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0050",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0051",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0051",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0051",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0051",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0052",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0052",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0052",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0052",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0053",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0053",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0053",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0053",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0054",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0054",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0054",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0054",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0055",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0055",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0055",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0055",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0056",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0056",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0056",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0056",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0057",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0057",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0057",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0057",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0058",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0058",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0058",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0058",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0059",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0059",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0059",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0059",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0060",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0060",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0060",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0060",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0061",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0061",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0061",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0061",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0062",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0062",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0062",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0062",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0063",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0063",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0063",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0063",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0064",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0064",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0064",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0064",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0065",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0065",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0065",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0065",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0066",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0066",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0066",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0066",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0067",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0067",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0067",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0067",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0068",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0068",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0068",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0068",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0069",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0069",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0069",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0069",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0070",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0070",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0070",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0070",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0071",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0071",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0071",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0071",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0072",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0072",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0072",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0072",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0073",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0073",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0073",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0073",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0074",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0074",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0074",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0074",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0075",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0075",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0075",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0075",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0076",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0076",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0076",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0076",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0077",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0077",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0077",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0077",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0078",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0078",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0078",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0078",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0079",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0079",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0079",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0079",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0080",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0080",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0080",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0080",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0081",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0081",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0081",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0081",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 40.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0082",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0082",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0082",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0082",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 41.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0083",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0083",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0083",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0083",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 42.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0084",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0084",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0084",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0084",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 43.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0085",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0085",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0085",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0085",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 44.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0086",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0086",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0086",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0086",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 45.0,
+    "LineDeviationScore": 10.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0087",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0087",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0087",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0087",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 46.0,
+    "LineDeviationScore": 11.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0088",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0088",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0088",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0088",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 47.0,
+    "LineDeviationScore": 12.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0089",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0089",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0089",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0089",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 48.0,
+    "LineDeviationScore": 13.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0090",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0090",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0090",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0090",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 49.0,
+    "LineDeviationScore": 14.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0091",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0091",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0091",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0091",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 50.0,
+    "LineDeviationScore": 0.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0092",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0092",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0092",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0092",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 51.0,
+    "LineDeviationScore": 1.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0093",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0093",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0093",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0093",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 52.0,
+    "LineDeviationScore": 2.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0094",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0094",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0094",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0094",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 53.0,
+    "LineDeviationScore": 3.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0095",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0095",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0095",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0095",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 54.0,
+    "LineDeviationScore": 4.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0096",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0096",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0096",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0096",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 55.0,
+    "LineDeviationScore": 5.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0097",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0097",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0097",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0097",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 56.0,
+    "LineDeviationScore": 6.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0098",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0098",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0098",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0098",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 98.0,
+    "ThroughputUnitsPerHour": 57.0,
+    "LineDeviationScore": 7.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0099",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0099",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0099",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0099",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 99.0,
+    "ThroughputUnitsPerHour": 58.0,
+    "LineDeviationScore": 8.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0100",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0100",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0100",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 9.0
+  },
+  {
+    "ProductionOrderId": "PRODUCTIONORDER-0100",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "YieldPercent": 97.0,
+    "ThroughputUnitsPerHour": 59.0,
+    "LineDeviationScore": 9.0
+  }
+]

@@ -1,0 +1,76 @@
+/// A logistics provider moving products and components across the Zava network.
+table Carrier
+
+	/// Stable carrier identifier.
+	column CarrierId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: CarrierId
+
+		annotation OntologyProperty = CarrierId
+
+	/// Carrier trading name.
+	column CarrierName
+		dataType: string
+		summarizeBy: none
+		sourceColumn: CarrierName
+
+		annotation OntologyProperty = CarrierName
+
+	/// Primary transportation mode.
+	column Mode
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Mode
+
+		annotation OntologyProperty = Mode
+
+	/// Current carrier status.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+		annotation OntologyReusableProperty = LifecycleStatus
+
+	/// Share delivered within promise.
+	column ReliabilityPercent
+		dataType: double
+		summarizeBy: none
+		sourceColumn: ReliabilityPercent
+
+		annotation unit = percent
+
+		annotation OntologyProperty = ReliabilityPercent
+
+	/// Cost relative to contracted baseline.
+	column CostIndex
+		dataType: double
+		summarizeBy: none
+		sourceColumn: CostIndex
+
+		annotation baseline = 100
+
+		annotation OntologyProperty = CostIndex
+
+	partition Carrier-DirectLake = entity
+		mode: directLake
+		source
+			entityName: carrier
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Global Logistics
+
+	annotation grain = One row per carrier
+
+	annotation OntologyQualifiedName = partners#Carrier
+
+	annotation OntologyNamespace = partners
+
+	annotation OntologySynonyms = logistics provider; transport partner
+

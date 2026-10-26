@@ -1,0 +1,1402 @@
+[
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0001",
+    "ProductId": "PRODUCT-0014",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 1
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0002",
+    "ProductId": "PRODUCT-0015",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 2
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0003",
+    "ProductId": "PRODUCT-0016",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 3
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0004",
+    "ProductId": "PRODUCT-0017",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 4
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0005",
+    "ProductId": "PRODUCT-0018",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 5
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0006",
+    "ProductId": "PRODUCT-0019",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 6
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0007",
+    "ProductId": "PRODUCT-0020",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 7
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0008",
+    "ProductId": "PRODUCT-0021",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 8
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0009",
+    "ProductId": "PRODUCT-0022",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 9
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0010",
+    "ProductId": "PRODUCT-0023",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 10
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0011",
+    "ProductId": "PRODUCT-0024",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 11
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0012",
+    "ProductId": "PRODUCT-0025",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 12
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0013",
+    "ProductId": "PRODUCT-0026",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 13
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0014",
+    "ProductId": "PRODUCT-0027",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 14
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0015",
+    "ProductId": "PRODUCT-0028",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 15
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0016",
+    "ProductId": "PRODUCT-0029",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 16
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0017",
+    "ProductId": "PRODUCT-0030",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 17
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0018",
+    "ProductId": "PRODUCT-0031",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 18
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0019",
+    "ProductId": "PRODUCT-0032",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 19
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0020",
+    "ProductId": "PRODUCT-0033",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 20
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0021",
+    "ProductId": "PRODUCT-0034",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 21
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0022",
+    "ProductId": "PRODUCT-0035",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 22
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0023",
+    "ProductId": "PRODUCT-0036",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 23
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0024",
+    "ProductId": "PRODUCT-0037",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 24
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0025",
+    "ProductId": "PRODUCT-0038",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 25
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0026",
+    "ProductId": "PRODUCT-0039",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 26
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0027",
+    "ProductId": "PRODUCT-0040",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 27
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0028",
+    "ProductId": "PRODUCT-0041",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 28
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0029",
+    "ProductId": "PRODUCT-0042",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 29
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0030",
+    "ProductId": "PRODUCT-0043",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 30
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0031",
+    "ProductId": "PRODUCT-0044",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 31
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0032",
+    "ProductId": "PRODUCT-0045",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 32
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0033",
+    "ProductId": "PRODUCT-0046",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 33
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0034",
+    "ProductId": "PRODUCT-0047",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 34
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0035",
+    "ProductId": "PRODUCT-0048",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 35
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0036",
+    "ProductId": "PRODUCT-0049",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 36
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0037",
+    "ProductId": "PRODUCT-0050",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 37
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0038",
+    "ProductId": "PRODUCT-0051",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 38
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0039",
+    "ProductId": "PRODUCT-0052",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 39
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0040",
+    "ProductId": "PRODUCT-0053",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 40
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0041",
+    "ProductId": "PRODUCT-0054",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 41
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0042",
+    "ProductId": "PRODUCT-0055",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 42
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0043",
+    "ProductId": "PRODUCT-0056",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 43
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0044",
+    "ProductId": "PRODUCT-0057",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 44
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0045",
+    "ProductId": "PRODUCT-0058",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 45
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0046",
+    "ProductId": "PRODUCT-0059",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 46
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0047",
+    "ProductId": "PRODUCT-0060",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 47
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0048",
+    "ProductId": "PRODUCT-0061",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 48
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0049",
+    "ProductId": "PRODUCT-0062",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 49
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0050",
+    "ProductId": "PRODUCT-0063",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 50
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0051",
+    "ProductId": "PRODUCT-0064",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 51
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0052",
+    "ProductId": "PRODUCT-0065",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 52
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0053",
+    "ProductId": "PRODUCT-0066",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 53
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0054",
+    "ProductId": "PRODUCT-0067",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 54
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0055",
+    "ProductId": "PRODUCT-0068",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 55
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0056",
+    "ProductId": "PRODUCT-0069",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 56
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0057",
+    "ProductId": "PRODUCT-0070",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 57
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0058",
+    "ProductId": "PRODUCT-0071",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 58
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0059",
+    "ProductId": "PRODUCT-0072",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 59
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0060",
+    "ProductId": "PRODUCT-0073",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 60
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0061",
+    "ProductId": "PRODUCT-0074",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 61
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0062",
+    "ProductId": "PRODUCT-0075",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 62
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0063",
+    "ProductId": "PRODUCT-0076",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 63
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0064",
+    "ProductId": "PRODUCT-0077",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 64
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0065",
+    "ProductId": "PRODUCT-0078",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 65
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0066",
+    "ProductId": "PRODUCT-0079",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 66
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0067",
+    "ProductId": "PRODUCT-0080",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 67
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0068",
+    "ProductId": "PRODUCT-0001",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 68
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0069",
+    "ProductId": "PRODUCT-0002",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 69
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0070",
+    "ProductId": "PRODUCT-0003",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 70
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0071",
+    "ProductId": "PRODUCT-0004",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 71
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0072",
+    "ProductId": "PRODUCT-0005",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 72
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0073",
+    "ProductId": "PRODUCT-0006",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 73
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0074",
+    "ProductId": "PRODUCT-0007",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 74
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0075",
+    "ProductId": "PRODUCT-0008",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 75
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0076",
+    "ProductId": "PRODUCT-0009",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 76
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0077",
+    "ProductId": "PRODUCT-0010",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 77
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0078",
+    "ProductId": "PRODUCT-0011",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 78
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0079",
+    "ProductId": "PRODUCT-0012",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 79
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0080",
+    "ProductId": "PRODUCT-0013",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 80
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0081",
+    "ProductId": "PRODUCT-0014",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 81
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0082",
+    "ProductId": "PRODUCT-0015",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 82
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0083",
+    "ProductId": "PRODUCT-0016",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 83
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0084",
+    "ProductId": "PRODUCT-0017",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 84
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0085",
+    "ProductId": "PRODUCT-0018",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 85
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0086",
+    "ProductId": "PRODUCT-0019",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 86
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0087",
+    "ProductId": "PRODUCT-0020",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 87
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0088",
+    "ProductId": "PRODUCT-0021",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 88
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0089",
+    "ProductId": "PRODUCT-0022",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 89
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0090",
+    "ProductId": "PRODUCT-0023",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 90
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0091",
+    "ProductId": "PRODUCT-0024",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 91
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0092",
+    "ProductId": "PRODUCT-0025",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 92
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0093",
+    "ProductId": "PRODUCT-0026",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 93
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0094",
+    "ProductId": "PRODUCT-0027",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 94
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0095",
+    "ProductId": "PRODUCT-0028",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 95
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0096",
+    "ProductId": "PRODUCT-0029",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 96
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0097",
+    "ProductId": "PRODUCT-0030",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 97
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0098",
+    "ProductId": "PRODUCT-0031",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 98
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0099",
+    "ProductId": "PRODUCT-0032",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 99
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0100",
+    "ProductId": "PRODUCT-0033",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 100
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0101",
+    "ProductId": "PRODUCT-0034",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 101
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0102",
+    "ProductId": "PRODUCT-0035",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 102
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0103",
+    "ProductId": "PRODUCT-0036",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 103
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0104",
+    "ProductId": "PRODUCT-0037",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 104
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0105",
+    "ProductId": "PRODUCT-0038",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 105
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0106",
+    "ProductId": "PRODUCT-0039",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 106
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0107",
+    "ProductId": "PRODUCT-0040",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 107
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0108",
+    "ProductId": "PRODUCT-0041",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 108
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0109",
+    "ProductId": "PRODUCT-0042",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 109
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0110",
+    "ProductId": "PRODUCT-0043",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 110
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0111",
+    "ProductId": "PRODUCT-0044",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 111
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0112",
+    "ProductId": "PRODUCT-0045",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 112
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0113",
+    "ProductId": "PRODUCT-0046",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 113
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0114",
+    "ProductId": "PRODUCT-0047",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 114
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0115",
+    "ProductId": "PRODUCT-0048",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 115
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0116",
+    "ProductId": "PRODUCT-0049",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 116
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0117",
+    "ProductId": "PRODUCT-0050",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 117
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0118",
+    "ProductId": "PRODUCT-0051",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 118
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0119",
+    "ProductId": "PRODUCT-0052",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 119
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0120",
+    "ProductId": "PRODUCT-0053",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 120
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0121",
+    "ProductId": "PRODUCT-0054",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 121
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0122",
+    "ProductId": "PRODUCT-0055",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 122
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0123",
+    "ProductId": "PRODUCT-0056",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 123
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0124",
+    "ProductId": "PRODUCT-0057",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 124
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0125",
+    "ProductId": "PRODUCT-0058",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 125
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0126",
+    "ProductId": "PRODUCT-0059",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 126
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0127",
+    "ProductId": "PRODUCT-0060",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 127
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0128",
+    "ProductId": "PRODUCT-0061",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 128
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0129",
+    "ProductId": "PRODUCT-0062",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 129
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0130",
+    "ProductId": "PRODUCT-0063",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 130
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0131",
+    "ProductId": "PRODUCT-0064",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 131
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0132",
+    "ProductId": "PRODUCT-0065",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 132
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0133",
+    "ProductId": "PRODUCT-0066",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 133
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0134",
+    "ProductId": "PRODUCT-0067",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 134
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0135",
+    "ProductId": "PRODUCT-0068",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 135
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0136",
+    "ProductId": "PRODUCT-0069",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 136
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0137",
+    "ProductId": "PRODUCT-0070",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 137
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0138",
+    "ProductId": "PRODUCT-0071",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 138
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0139",
+    "ProductId": "PRODUCT-0072",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 139
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0140",
+    "ProductId": "PRODUCT-0073",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 140
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0141",
+    "ProductId": "PRODUCT-0074",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 141
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0142",
+    "ProductId": "PRODUCT-0075",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 142
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0143",
+    "ProductId": "PRODUCT-0076",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 143
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0144",
+    "ProductId": "PRODUCT-0077",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 144
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0145",
+    "ProductId": "PRODUCT-0078",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 145
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0146",
+    "ProductId": "PRODUCT-0079",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 146
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0147",
+    "ProductId": "PRODUCT-0080",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 147
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0148",
+    "ProductId": "PRODUCT-0001",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 148
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0149",
+    "ProductId": "PRODUCT-0002",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 149
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0150",
+    "ProductId": "PRODUCT-0003",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 150
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0151",
+    "ProductId": "PRODUCT-0004",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 151
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0152",
+    "ProductId": "PRODUCT-0005",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 152
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0153",
+    "ProductId": "PRODUCT-0006",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 153
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0154",
+    "ProductId": "PRODUCT-0007",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 154
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0155",
+    "ProductId": "PRODUCT-0008",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 155
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0156",
+    "ProductId": "PRODUCT-0009",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 156
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0157",
+    "ProductId": "PRODUCT-0010",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 157
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0158",
+    "ProductId": "PRODUCT-0011",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 158
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0159",
+    "ProductId": "PRODUCT-0012",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 159
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0160",
+    "ProductId": "PRODUCT-0013",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 160
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0161",
+    "ProductId": "PRODUCT-0014",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 161
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0162",
+    "ProductId": "PRODUCT-0015",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 162
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0163",
+    "ProductId": "PRODUCT-0016",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 163
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0164",
+    "ProductId": "PRODUCT-0017",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 164
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0165",
+    "ProductId": "PRODUCT-0018",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 165
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0166",
+    "ProductId": "PRODUCT-0019",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 166
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0167",
+    "ProductId": "PRODUCT-0020",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 167
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0168",
+    "ProductId": "PRODUCT-0021",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 168
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0169",
+    "ProductId": "PRODUCT-0022",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 169
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0170",
+    "ProductId": "PRODUCT-0023",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 170
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0171",
+    "ProductId": "PRODUCT-0024",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 171
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0172",
+    "ProductId": "PRODUCT-0025",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 172
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0173",
+    "ProductId": "PRODUCT-0026",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 173
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0174",
+    "ProductId": "PRODUCT-0027",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 174
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0175",
+    "ProductId": "PRODUCT-0028",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 175
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0176",
+    "ProductId": "PRODUCT-0029",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 176
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0177",
+    "ProductId": "PRODUCT-0030",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 177
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0178",
+    "ProductId": "PRODUCT-0031",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 178
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0179",
+    "ProductId": "PRODUCT-0032",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 179
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0180",
+    "ProductId": "PRODUCT-0033",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 180
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0181",
+    "ProductId": "PRODUCT-0034",
+    "Market": "US",
+    "Status": "Normal",
+    "ForecastUnits": 181
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0182",
+    "ProductId": "PRODUCT-0035",
+    "Market": "Germany",
+    "Status": "Watch",
+    "ForecastUnits": 182
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0183",
+    "ProductId": "PRODUCT-0036",
+    "Market": "Brazil",
+    "Status": "Surging",
+    "ForecastUnits": 183
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0184",
+    "ProductId": "PRODUCT-0037",
+    "Market": "Japan",
+    "Status": "Declining",
+    "ForecastUnits": 184
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0185",
+    "ProductId": "PRODUCT-0038",
+    "Market": "Australia",
+    "Status": "Normal",
+    "ForecastUnits": 185
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0186",
+    "ProductId": "PRODUCT-0039",
+    "Market": "US",
+    "Status": "Watch",
+    "ForecastUnits": 186
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0187",
+    "ProductId": "PRODUCT-0040",
+    "Market": "Germany",
+    "Status": "Surging",
+    "ForecastUnits": 187
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0188",
+    "ProductId": "PRODUCT-0041",
+    "Market": "Brazil",
+    "Status": "Declining",
+    "ForecastUnits": 188
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0189",
+    "ProductId": "PRODUCT-0042",
+    "Market": "Japan",
+    "Status": "Normal",
+    "ForecastUnits": 189
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0190",
+    "ProductId": "PRODUCT-0043",
+    "Market": "Australia",
+    "Status": "Watch",
+    "ForecastUnits": 190
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0191",
+    "ProductId": "PRODUCT-0044",
+    "Market": "US",
+    "Status": "Surging",
+    "ForecastUnits": 191
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0192",
+    "ProductId": "PRODUCT-0045",
+    "Market": "Germany",
+    "Status": "Declining",
+    "ForecastUnits": 192
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0193",
+    "ProductId": "PRODUCT-0046",
+    "Market": "Brazil",
+    "Status": "Normal",
+    "ForecastUnits": 193
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0194",
+    "ProductId": "PRODUCT-0047",
+    "Market": "Japan",
+    "Status": "Watch",
+    "ForecastUnits": 194
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0195",
+    "ProductId": "PRODUCT-0048",
+    "Market": "Australia",
+    "Status": "Surging",
+    "ForecastUnits": 195
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0196",
+    "ProductId": "PRODUCT-0049",
+    "Market": "US",
+    "Status": "Declining",
+    "ForecastUnits": 196
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0197",
+    "ProductId": "PRODUCT-0050",
+    "Market": "Germany",
+    "Status": "Normal",
+    "ForecastUnits": 197
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0198",
+    "ProductId": "PRODUCT-0051",
+    "Market": "Brazil",
+    "Status": "Watch",
+    "ForecastUnits": 198
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0199",
+    "ProductId": "PRODUCT-0052",
+    "Market": "Japan",
+    "Status": "Surging",
+    "ForecastUnits": 199
+  },
+  {
+    "DemandSignalId": "DEMANDSIGNAL-0200",
+    "ProductId": "PRODUCT-0053",
+    "Market": "Australia",
+    "Status": "Declining",
+    "ForecastUnits": 200
+  }
+]

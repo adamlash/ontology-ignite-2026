@@ -1,0 +1,102 @@
+/// The durable record of an approved, rejected, or escalated supply-chain decision.
+table DecisionRecord
+
+	/// Expected margin protected by approved decisions.
+	measure 'Expected Margin Protected' = CALCULATE(SUM('DecisionRecord'[ExpectedMarginProtected]), 'DecisionRecord'[DecisionState] = "Approved")
+		formatString: $#,##0
+
+		annotation OntologyMeasureSynonyms = margin saved; protected gross margin
+
+	/// Stable decision identifier.
+	column DecisionId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: DecisionId
+
+		annotation OntologyProperty = DecisionId
+
+	/// Intervention governed.
+	column InterventionId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: InterventionId
+
+		annotation OntologyProperty = InterventionId
+
+	/// Approval state.
+	column DecisionState
+		dataType: string
+		summarizeBy: none
+		sourceColumn: DecisionState
+
+		annotation workflow = Control tower approval
+
+		annotation OntologyProperty = DecisionState
+
+		annotation OntologyReusableProperty = DecisionState
+
+	/// Accountable role or person.
+	column DecidedBy
+		dataType: string
+		summarizeBy: none
+		sourceColumn: DecidedBy
+
+		annotation OntologyProperty = DecidedBy
+
+	/// Time recorded.
+	column DecisionTime
+		dataType: dateTime
+		summarizeBy: none
+		sourceColumn: DecisionTime
+
+		annotation OntologyProperty = DecisionTime
+
+	/// Evidence-based reason.
+	column Rationale
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Rationale
+
+		annotation OntologyProperty = Rationale
+
+	/// Expected margin protected.
+	column ExpectedMarginProtected
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: ExpectedMarginProtected
+
+		annotation currency = USD
+
+		annotation OntologyProperty = ExpectedMarginProtected
+
+	/// Policy used for approval.
+	column PolicyVersion
+		dataType: string
+		summarizeBy: none
+		sourceColumn: PolicyVersion
+
+		annotation OntologyProperty = PolicyVersion
+
+	partition DecisionRecord-DirectLake = entity
+		mode: directLake
+		source
+			entityName: decisionrecord
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Supply Chain Control Tower
+
+	annotation grain = One row per decision
+
+	annotation retention = Seven years
+
+	annotation auditRequirement = Rationale and policy version required
+
+	annotation OntologyQualifiedName = governance#DecisionRecord
+
+	annotation OntologyNamespace = governance
+
+	annotation OntologySynonyms = decision log; approval record
+

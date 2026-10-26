@@ -1,0 +1,126 @@
+/// A detected condition threatening supply, quality, flow, cost, or customer commitments.
+table Disruption
+
+	/// Units exposed to unresolved disruptions.
+	measure 'Open Disruption Impact Units' = CALCULATE(SUM('Disruption'[EstimatedImpactUnits]), 'Disruption'[Status] <> "Resolved")
+		formatString: #,##0
+
+	/// Unresolved critical disruptions.
+	measure 'Critical Disruption Count' = CALCULATE(COUNTROWS('Disruption'), 'Disruption'[Severity] = "Critical", 'Disruption'[Status] <> "Resolved")
+		formatString: #,##0
+
+	/// Stable disruption identifier.
+	column EventId
+		dataType: string
+		isKey
+		isAvailableInMdx: false
+		summarizeBy: none
+		sourceColumn: EventId
+
+		annotation OntologyProperty = EventId
+
+	/// Time detected.
+	column EventTime
+		dataType: dateTime
+		summarizeBy: none
+		sourceColumn: EventTime
+
+		annotation OntologyProperty = EventTime
+
+	/// Handling state.
+	column Status
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation OntologyProperty = Status
+
+	/// Business severity.
+	column Severity
+		dataType: string
+		summarizeBy: none
+		sourceColumn: Severity
+
+		annotation OntologyProperty = Severity
+
+	/// Affected supplier.
+	column SupplierId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: SupplierId
+
+		annotation OntologyProperty = SupplierId
+
+	/// Affected facility.
+	column FacilityId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: FacilityId
+
+		annotation OntologyProperty = FacilityId
+
+	/// Affected shipment.
+	column ShipmentId
+		dataType: string
+		summarizeBy: none
+		sourceColumn: ShipmentId
+
+		annotation OntologyProperty = ShipmentId
+
+	/// Specialized disruption category.
+	column DisruptionType
+		dataType: string
+		summarizeBy: none
+		sourceColumn: DisruptionType
+
+		annotation OntologyProperty = DisruptionType
+
+	/// Expected time until recovery.
+	column ExpectedDurationHours
+		dataType: double
+		summarizeBy: none
+		sourceColumn: ExpectedDurationHours
+
+		annotation unit = hours
+
+		annotation OntologyProperty = ExpectedDurationHours
+
+	/// Units at risk without action.
+	column EstimatedImpactUnits
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: EstimatedImpactUnits
+
+		annotation unit = units
+
+		annotation OntologyProperty = EstimatedImpactUnits
+
+	/// Assessment confidence.
+	column ConfidencePercent
+		dataType: double
+		summarizeBy: none
+		sourceColumn: ConfidencePercent
+
+		annotation unit = percent
+
+		annotation OntologyProperty = ConfidencePercent
+
+	partition Disruption-DirectLake = entity
+		mode: directLake
+		source
+			entityName: disruption
+			schemaName: dbo
+			expressionSource: 'DirectLake - ZavaSupplyChain2027_Lakehouse_Source'
+
+	annotation businessOwner = Supply Chain Risk
+
+	annotation grain = One row per disruption
+
+	annotation decisionSla = 30 minutes
+
+	annotation OntologyQualifiedName = risk#Disruption
+
+	annotation OntologyNamespace = risk
+
+	annotation OntologySynonyms = risk event; exception; incident
+

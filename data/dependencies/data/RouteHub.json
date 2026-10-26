@@ -1,0 +1,8 @@
+[
+  {"RouteHubId":"ROUTEHUB-0001","SupplyRouteId":"ROUTE-0001","LogisticsHubId":"HUB-0001","StopSequence":1},
+  {"RouteHubId":"ROUTEHUB-0002","SupplyRouteId":"ROUTE-0001","LogisticsHubId":"HUB-0002","StopSequence":2},
+  {"RouteHubId":"ROUTEHUB-0003","SupplyRouteId":"ROUTE-0002","LogisticsHubId":"HUB-0001","StopSequence":1},
+  {"RouteHubId":"ROUTEHUB-0004","SupplyRouteId":"ROUTE-0002","LogisticsHubId":"HUB-0003","StopSequence":2},
+  {"RouteHubId":"ROUTEHUB-0005","SupplyRouteId":"ROUTE-0003","LogisticsHubId":"HUB-0004","StopSequence":1},
+  {"RouteHubId":"ROUTEHUB-0006","SupplyRouteId":"ROUTE-0004","LogisticsHubId":"HUB-0004","StopSequence":1}
+]

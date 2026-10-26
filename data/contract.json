@@ -1,0 +1,190 @@
+{
+  "version": 2,
+  "folderName": "SupplyChain",
+  "participantNamePrefix": "Ignite2026_Zava_",
+  "asOfUtc": "2027-12-31T20:00:00Z",
+  "evidenceWindowHours": 3,
+  "sources": {
+    "model": {
+      "name": "ZavaSupplyChain2027_SemanticModel",
+      "type": "SemanticModel",
+      "route": "semanticModels"
+    },
+    "lakehouse": {
+      "name": "ZavaSupplyChain2027_Lakehouse_Source",
+      "type": "Lakehouse",
+      "route": "lakehouses"
+    },
+    "eventhouse": {
+      "name": "ZavaSupplyChain2027_Eventhouse_Source",
+      "type": "Eventhouse",
+      "route": "eventhouses"
+    },
+    "database": {
+      "name": "ZavaSupplyChain2027_Eventhouse_Source",
+      "type": "KQLDatabase",
+      "route": "kqlDatabases"
+    }
+  },
+  "tables": {
+    "Product": {
+      "physical": "product",
+      "key": "ProductId",
+      "rows": 80
+    },
+    "Component": {
+      "physical": "component",
+      "key": "ComponentId",
+      "rows": 120
+    },
+    "Supplier": {
+      "physical": "supplier",
+      "key": "SupplierId",
+      "rows": 40
+    },
+    "Carrier": {
+      "physical": "carrier",
+      "key": "CarrierId",
+      "rows": 20
+    },
+    "Facility": {
+      "physical": "facility",
+      "key": "ObjectId",
+      "rows": 48
+    },
+    "InventoryPosition": {
+      "physical": "inventoryposition",
+      "key": "InventoryPositionId",
+      "rows": 220
+    },
+    "ProductionOrder": {
+      "physical": "productionorder",
+      "key": "ProductionOrderId",
+      "rows": 100
+    },
+    "CustomerOrder": {
+      "physical": "customerorder",
+      "key": "CustomerOrderId",
+      "rows": 180
+    },
+    "Shipment": {
+      "physical": "shipment",
+      "key": "ShipmentId",
+      "rows": 160
+    },
+    "DemandSignal": {
+      "physical": "demandsignal",
+      "key": "DemandSignalId",
+      "rows": 200
+    },
+    "Disruption": {
+      "physical": "disruption",
+      "key": "EventId",
+      "rows": 90
+    },
+    "Intervention": {
+      "physical": "intervention",
+      "key": "InterventionId",
+      "rows": 100
+    },
+    "DecisionRecord": {
+      "physical": "decisionrecord",
+      "key": "DecisionId",
+      "rows": 100
+    }
+  },
+  "semanticModel": {
+    "relationships": 20,
+    "activeRelationships": 12,
+    "measures": 12,
+    "businessColumns": 113
+  },
+  "enrichment": [
+    {
+      "entity": "Shipment",
+      "staticTable": "shipment",
+      "key": "ShipmentId",
+      "telemetryTable": "ShipmentTelemetry",
+      "timestamp": "ObservationTime",
+      "properties": [
+        "EstimatedDelayHours",
+        "ShockG",
+        "RouteRiskScore"
+      ]
+    },
+    {
+      "entity": "InventoryPosition",
+      "staticTable": "inventoryposition",
+      "key": "InventoryPositionId",
+      "telemetryTable": "InventoryPositionTelemetry",
+      "timestamp": "ObservationTime",
+      "properties": [
+        "AvailableToPromiseUnits",
+        "DaysOfSupply",
+        "StockoutRiskScore"
+      ]
+    }
+  ],
+  "anchors": [
+    {
+      "shipment": "SHIPMENT-0001",
+      "order": "CUSTOMERORDER-0010",
+      "product": "PRODUCT-0009",
+      "inventory": "INVENTORYPOSITION-0001",
+      "facility": "FACILITY-0011",
+      "units": 120,
+      "delayHours": 45,
+      "shockG": 3,
+      "routeRisk": 92,
+      "availableToPromise": 180,
+      "daysOfSupply": 3,
+      "stockoutRisk": 15,
+      "shipmentObservedAt": "2027-12-31T18:01:00Z",
+      "inventoryObservedAt": "2027-12-31T17:41:00Z",
+      "disruption": "DISRUPTION-0001",
+      "intervention": "INTERVENTION-0001",
+      "decision": "DECISIONRECORD-0001",
+      "decisionState": "Approved",
+      "expectedMarginProtected": 19200,
+      "action": "Reroute",
+      "interventionState": "Approved",
+      "onHand": 400,
+      "committed": 180,
+      "safetyStock": 40
+    },
+    {
+      "shipment": "SHIPMENT-0002",
+      "order": "CUSTOMERORDER-0011",
+      "product": "PRODUCT-0010",
+      "inventory": "INVENTORYPOSITION-0002",
+      "facility": "FACILITY-0012",
+      "units": 120,
+      "delayHours": 45,
+      "shockG": 12,
+      "routeRisk": 92,
+      "availableToPromise": 0,
+      "daysOfSupply": 0,
+      "stockoutRisk": 95,
+      "shipmentObservedAt": "2027-12-31T18:02:00Z",
+      "inventoryObservedAt": "2027-12-31T17:42:00Z",
+      "disruption": "DISRUPTION-0002",
+      "intervention": "INTERVENTION-0002",
+      "decision": "DECISIONRECORD-0002",
+      "decisionState": "Proposed",
+      "expectedMarginProtected": 0,
+      "action": "HoldAndInspect",
+      "interventionState": "Proposed",
+      "onHand": 100,
+      "committed": 80,
+      "safetyStock": 40
+    }
+  ],
+  "comparison": {
+    "shipment": "SHIPMENT-0003",
+    "delayHours": 4,
+    "shockG": 2.9,
+    "routeRisk": 12,
+    "observedAt": "2027-12-31T18:03:00Z",
+    "qualification": "Lower-risk telemetry comparison only, not an on-time or consistent order/product control."
+  }
+}

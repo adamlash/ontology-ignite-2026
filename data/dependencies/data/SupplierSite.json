@@ -1,0 +1,6 @@
+[
+  {"SupplierSiteId":"SITE-0001","SupplierId":"SUPPLIER-0001","SiteName":"Cedar Valley Works","Status":"Operational"},
+  {"SupplierSiteId":"SITE-0002","SupplierId":"SUPPLIER-0005","SiteName":"Northstar Microdevices","Status":"Operational"},
+  {"SupplierSiteId":"SITE-0003","SupplierId":"SUPPLIER-0009","SiteName":"Summit Recovery Line","Status":"Operational"},
+  {"SupplierSiteId":"SITE-0004","SupplierId":"SUPPLIER-0013","SiteName":"Independent Reserve Works","Status":"Operational"}
+]

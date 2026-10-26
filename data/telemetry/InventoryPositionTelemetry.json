@@ -1,0 +1,6162 @@
+[
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0001",
+    "ObservationTime": "2027-12-31T16:56:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0001",
+    "ObservationTime": "2027-12-31T17:11:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0001",
+    "ObservationTime": "2027-12-31T17:26:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0001",
+    "ObservationTime": "2027-12-31T17:41:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0002",
+    "ObservationTime": "2027-12-31T16:57:00Z",
+    "AvailableToPromiseUnits": 0,
+    "DaysOfSupply": 0.0,
+    "StockoutRiskScore": 95.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0002",
+    "ObservationTime": "2027-12-31T17:12:00Z",
+    "AvailableToPromiseUnits": 0,
+    "DaysOfSupply": 0.0,
+    "StockoutRiskScore": 95.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0002",
+    "ObservationTime": "2027-12-31T17:27:00Z",
+    "AvailableToPromiseUnits": 0,
+    "DaysOfSupply": 0.0,
+    "StockoutRiskScore": 95.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0002",
+    "ObservationTime": "2027-12-31T17:42:00Z",
+    "AvailableToPromiseUnits": 0,
+    "DaysOfSupply": 0.0,
+    "StockoutRiskScore": 95.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0003",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0003",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0003",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0003",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0004",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0004",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0004",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0004",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0005",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0005",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0005",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0005",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0006",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0006",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0006",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0006",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0007",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0007",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0007",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0007",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0008",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0008",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0008",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0008",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0009",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0009",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0009",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0009",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0010",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0010",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0010",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0010",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0011",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0011",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0011",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0011",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0012",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0012",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0012",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0012",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0013",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0013",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0013",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0013",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0014",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0014",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0014",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0014",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0015",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0015",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0015",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0015",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0016",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0016",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0016",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0016",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0017",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0017",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0017",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0017",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0018",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0018",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0018",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0018",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0019",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0019",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0019",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0019",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0020",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0020",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0020",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0020",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0021",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0021",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0021",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0021",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0022",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0022",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0022",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0022",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0023",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0023",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0023",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0023",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0024",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0024",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0024",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0024",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0025",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0025",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0025",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0025",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0026",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0026",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0026",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0026",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0027",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0027",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0027",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0027",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0028",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0028",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0028",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0028",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0029",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0029",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0029",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0029",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0030",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0030",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0030",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0030",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0031",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0031",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0031",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0031",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0032",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0032",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0032",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0032",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0033",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0033",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0033",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0033",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0034",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0034",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0034",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0034",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0035",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0035",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0035",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0035",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0036",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0036",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0036",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0036",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0037",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0037",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0037",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0037",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0038",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0038",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0038",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0038",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0039",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0039",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0039",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0039",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0040",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0040",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0040",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0040",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0041",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0041",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0041",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0041",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0042",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0042",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0042",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0042",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0043",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0043",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0043",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0043",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0044",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0044",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0044",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0044",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0045",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0045",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0045",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0045",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0046",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0046",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0046",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0046",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0047",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0047",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0047",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0047",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0048",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0048",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0048",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0048",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0049",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0049",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0049",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0049",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0050",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0050",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0050",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0050",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0051",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0051",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0051",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0051",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0052",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0052",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0052",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0052",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0053",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0053",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0053",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0053",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0054",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0054",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0054",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0054",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0055",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0055",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0055",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0055",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0056",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0056",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0056",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0056",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0057",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0057",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0057",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0057",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0058",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0058",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0058",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0058",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0059",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0059",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0059",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0059",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0060",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0060",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0060",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0060",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0061",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0061",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0061",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0061",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0062",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0062",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0062",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0062",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0063",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0063",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0063",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0063",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0064",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0064",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0064",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0064",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0065",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0065",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0065",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0065",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0066",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0066",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0066",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0066",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0067",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0067",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0067",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0067",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0068",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0068",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0068",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0068",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0069",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0069",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0069",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0069",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0070",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0070",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0070",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0070",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0071",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0071",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0071",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0071",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0072",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0072",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0072",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0072",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0073",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0073",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0073",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0073",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0074",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0074",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0074",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0074",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0075",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0075",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0075",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0075",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0076",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0076",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0076",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0076",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0077",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0077",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0077",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0077",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0078",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0078",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0078",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0078",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0079",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0079",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0079",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0079",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0080",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0080",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0080",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0080",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0081",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0081",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0081",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0081",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0082",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0082",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0082",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0082",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0083",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0083",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0083",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0083",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0084",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0084",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0084",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0084",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0085",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0085",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0085",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0085",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0086",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0086",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0086",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0086",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0087",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0087",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0087",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0087",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0088",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0088",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0088",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0088",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0089",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0089",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0089",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0089",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0090",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0090",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0090",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0090",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0091",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0091",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0091",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0091",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0092",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0092",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0092",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0092",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0093",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0093",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0093",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0093",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0094",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0094",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0094",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0094",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0095",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0095",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0095",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0095",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0096",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0096",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0096",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0096",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0097",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0097",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0097",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0097",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0098",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0098",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0098",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0098",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0099",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0099",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0099",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0099",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0100",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0100",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0100",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0100",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0101",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0101",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0101",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0101",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0102",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0102",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0102",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0102",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0103",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0103",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0103",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0103",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0104",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0104",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0104",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0104",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0105",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0105",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0105",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0105",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0106",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0106",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0106",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0106",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0107",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0107",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0107",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0107",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0108",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0108",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0108",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0108",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0109",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0109",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0109",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0109",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0110",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0110",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0110",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0110",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0111",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0111",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0111",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0111",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0112",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0112",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0112",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0112",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0113",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0113",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0113",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0113",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0114",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0114",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0114",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0114",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0115",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0115",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0115",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0115",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0116",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0116",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0116",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0116",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0117",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0117",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0117",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0117",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0118",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0118",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0118",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0118",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0119",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0119",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0119",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0119",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0120",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0120",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0120",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0120",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0121",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0121",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0121",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0121",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0122",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0122",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0122",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0122",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0123",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0123",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0123",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0123",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0124",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0124",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0124",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0124",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0125",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0125",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0125",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0125",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0126",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0126",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0126",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0126",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0127",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0127",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0127",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0127",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0128",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0128",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0128",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0128",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0129",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0129",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0129",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0129",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0130",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0130",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0130",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0130",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0131",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0131",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0131",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0131",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0132",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0132",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0132",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0132",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0133",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0133",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0133",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0133",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0134",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0134",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0134",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0134",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0135",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0135",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0135",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0135",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0136",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0136",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0136",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0136",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0137",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0137",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0137",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0137",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0138",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0138",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0138",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0138",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0139",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0139",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0139",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0139",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0140",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0140",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0140",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0140",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0141",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0141",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0141",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0141",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0142",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0142",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0142",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0142",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0143",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0143",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0143",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0143",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0144",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0144",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0144",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0144",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0145",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0145",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0145",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0145",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0146",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0146",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0146",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0146",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0147",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0147",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0147",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0147",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0148",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0148",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0148",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0148",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0149",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0149",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0149",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0149",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0150",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0150",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0150",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0150",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0151",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0151",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0151",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0151",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0152",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0152",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0152",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0152",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0153",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0153",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0153",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0153",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0154",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0154",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0154",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0154",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0155",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0155",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0155",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0155",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0156",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0156",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0156",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0156",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0157",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0157",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0157",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0157",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0158",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0158",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0158",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0158",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0159",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0159",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0159",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0159",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0160",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0160",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0160",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0160",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0161",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0161",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0161",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0161",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0162",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0162",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0162",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0162",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0163",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0163",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0163",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0163",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0164",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0164",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0164",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0164",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0165",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0165",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0165",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0165",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0166",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0166",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0166",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0166",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0167",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0167",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0167",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0167",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0168",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0168",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0168",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0168",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0169",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0169",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0169",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0169",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0170",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0170",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0170",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0170",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0171",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0171",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0171",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0171",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0172",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0172",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0172",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0172",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0173",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0173",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0173",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0173",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0174",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0174",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0174",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0174",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0175",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0175",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0175",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0175",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0176",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0176",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0176",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0176",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0177",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0177",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0177",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0177",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0178",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0178",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0178",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0178",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0179",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0179",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0179",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0179",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0180",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0180",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0180",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0180",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0181",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0181",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0181",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0181",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0182",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0182",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0182",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0182",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0183",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0183",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0183",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0183",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0184",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0184",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0184",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0184",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0185",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0185",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0185",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0185",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0186",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0186",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0186",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0186",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0187",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0187",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0187",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0187",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0188",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0188",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0188",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0188",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0189",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0189",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0189",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0189",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0190",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0190",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0190",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0190",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0191",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0191",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0191",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0191",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0192",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0192",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0192",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0192",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0193",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0193",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0193",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0193",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0194",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0194",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0194",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0194",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0195",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0195",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0195",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0195",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0196",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0196",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0196",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0196",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0197",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0197",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0197",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0197",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0198",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0198",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0198",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0198",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0199",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0199",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0199",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0199",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 440,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0200",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0200",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0200",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0200",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 460,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0201",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0201",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0201",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0201",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 160,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0202",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0202",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0202",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0202",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 180,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0203",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0203",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0203",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0203",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0204",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0204",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0204",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0204",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0205",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0205",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0205",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0205",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0206",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0206",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0206",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0206",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0207",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0207",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0207",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0207",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 400,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0208",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0208",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0208",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0208",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 420,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0209",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0209",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0209",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0209",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 120,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0210",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0210",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0210",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0210",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 140,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0211",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0211",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0211",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0211",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 280,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0212",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0212",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0212",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0212",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 300,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0213",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0213",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0213",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0213",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 320,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0214",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0214",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0214",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0214",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 340,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0215",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0215",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0215",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0215",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 360,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0216",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0216",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0216",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0216",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 380,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0217",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0217",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0217",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0217",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 200,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0218",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0218",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0218",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0218",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 220,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0219",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0219",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0219",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0219",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 240,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0220",
+    "ObservationTime": "2027-12-31T19:00:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0220",
+    "ObservationTime": "2027-12-31T19:15:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0220",
+    "ObservationTime": "2027-12-31T19:30:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  },
+  {
+    "InventoryPositionId": "INVENTORYPOSITION-0220",
+    "ObservationTime": "2027-12-31T19:45:00Z",
+    "AvailableToPromiseUnits": 260,
+    "DaysOfSupply": 3.0,
+    "StockoutRiskScore": 15.0
+  }
+]
