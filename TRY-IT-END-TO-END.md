@@ -8,6 +8,22 @@ in Fabric, with all 19 SQL tables checked and the unchanged 13-table model
 returning its expected totals. A completely empty-workspace deployment and the
 full ontology UI journey remain separate rehearsal gates.
 
+## Optional: let your own local agent guide you
+
+You can follow this guide yourself or have a local coding/chat agent walk you
+through it. Give the agent a local copy of this repository, or provide
+[AGENT-GUIDE.md](AGENT-GUIDE.md) and its linked companion documents, then send:
+
+> Read AGENT-GUIDE.md and guide me through the workshop one step at a time.
+> Establish my current progress and intended workspace and folder first.
+> Explain what to do, wait for my results, and ask before making changes.
+
+Fabric integrations are optional: without them, you perform the UI actions and
+share relevant outputs or redacted screenshots. If integrations are available,
+the agent must confirm scope and obtain approval before authoring or running
+setup. Never paste tokens or credentials. You still review every ontology plan
+before applying it; the guide does not authorize unattended deployment.
+
 ## 1. Get the starter files
 
 Open [Stage_Zava_Workshop.ipynb](Stage_Zava_Workshop.ipynb) in this repository

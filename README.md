@@ -7,6 +7,24 @@ discover additional entities and operational observations through an ontology.
 For the full walkthrough, use the [end-to-end guide](TRY-IT-END-TO-END.md)
 and [discovery-first prompt card](prompts/workshop.md).
 
+## Optional: use your own local agent
+
+Your local coding or chat agent can guide the workshop one step at a time.
+Open a local copy of this repository in your agent, or provide the
+[agent guide](AGENT-GUIDE.md) and its linked README, walkthrough and prompt card.
+Then send:
+
+> Read AGENT-GUIDE.md and use it to guide me through this workshop one step at a
+> time. First establish where I have reached and which workspace and folder I
+> intend to use. Wait for my results and approval before changes.
+
+No particular agent product or Fabric integration is required. Without Fabric
+tools, your agent explains the UI steps and prompts while you perform them.
+With authorized integrations, it can help inspect and operate your environment
+within the guide's approval gates. It must not ask you to paste credentials or
+claim checks passed without evidence. Start a normal guided conversation; no
+special agent installation or automatic deployment is needed.
+
 ## Start here
 
 1. Open [Stage_Zava_Workshop.ipynb](Stage_Zava_Workshop.ipynb) and use GitHub's
@@ -159,6 +177,7 @@ the conversation rather than forcing predetermined examples or identifiers.
 | `manifest.json` | Allowed source paths, lengths, checksums and base deployment identity |
 | `TRY-IT-END-TO-END.md` | Setup, source checks, ontology enrichment and discovery-first walkthrough |
 | `prompts/workshop.md` | Short business questions, follow-ups and reviewed Plan/Act prompts |
+| `AGENT-GUIDE.md` | Optional provider-neutral instructions for a participant's own local agent |
 | `data/tables` | Original 13 business-table files |
 | `data/dependencies` | Six additional entities, schemas and relationship mappings |
 | `data/telemetry` | Four time-series fixtures |
