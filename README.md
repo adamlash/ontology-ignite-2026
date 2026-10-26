@@ -4,6 +4,9 @@ Set up a Microsoft Fabric workshop from one notebook and publicly hosted files.
 All business data is synthetic. Participants start with a semantic model, then
 discover additional entities and operational observations through an ontology.
 
+For the full walkthrough, use the [end-to-end guide](TRY-IT-END-TO-END.md)
+and [discovery-first prompt card](prompts/workshop.md).
+
 ## Start here
 
 1. Open [Stage_Zava_Workshop.ipynb](Stage_Zava_Workshop.ipynb) and use GitHub's
@@ -83,6 +86,12 @@ entities, keys and measures. The six Lakehouse-only entity tables are:
 
 In **Plan**, ask:
 
+> Where is our supply chain most vulnerable?
+
+Follow an example with "Why is that a risk? Show me what depends on it." If
+the current ontology cannot answer, ask "What additional data would help us
+answer this?" Use that gap to introduce Lakehouse enrichment:
+
 > Find the supply-chain dependencies in our Zava lakehouse that aren't in this
 > ontology yet. Add the new business objects and connect them to what we already
 > have. Keep the existing model and measures. Show the plan first.
@@ -92,19 +101,23 @@ Review the six new entities and the 11 connections in
 Product, Component, Supplier, Facility and Carrier entities; Facility's key is
 ObjectId. Only switch to **Act** to apply the reviewed plan, then return to Plan.
 
-Ask:
+Return to the opening question after enrichment:
 
-> Are our backup suppliers really independent? Follow their shared dependencies
-> through components and products to our customer orders. Include primary
-> components and the additional bills of material. Show the paths and evidence.
+> Where is our supply chain most vulnerable?
 
-Then:
+Follow what the answer reveals, one question at a time:
 
-> If a shared hub stays closed for the next 48 hours, which products and recorded
-> orders are exposed? Could another supply option avoid it, and what would need
-> checking before we could use that option? Count each order only once.
+> Why is that a risk? Show me what depends on it.
 
-Use the simulated checkpoint **31 December 2027 at 20:00 UTC**. These are upstream
+> Do we have a genuine alternative?
+
+> Which customer orders could be affected?
+
+Discover snapshot times from the data and state timing assumptions rather than
+requiring participants to supply dates, identifiers or a recovery horizon.
+Trace both primary-component links and additional bills of material. Check
+qualification, lead time, capacity and shared dependencies before calling an
+alternative usable. These are upstream
 replenishment dependencies, not proof of the cause of existing shipment delays,
 lost sales or an executable recovery plan. An independent option may lack
 qualification or exceed the recovery horizon. LeadTimeHours already includes
@@ -113,10 +126,30 @@ TransitHours; do not add transit again. Deduplicate orders across multiple paths
 For the Eventhouse exercise, preview shipment delay/shock/route-risk observations
 and inventory availability/days-of-supply/stockout-risk observations. Join to
 existing ShipmentId and InventoryPositionId using ObservationTime. Keep the
-existing semantic grounding, review the plan before applying, then compare
-SHIPMENT-0001 and SHIPMENT-0002 using the latest observations in 17:00-20:00 UTC
-at the checkpoint. Distinguish recorded Approved/Proposed decisions from actions
-actually executed. Inspect actual source queries, not just the answer text.
+existing semantic grounding and review the plan before applying. In Plan, ask:
+
+> Which deliveries need our attention?
+
+Follow the cases identified in the answer:
+
+> What makes these stand out?
+
+> Should we respond to all of them the same way?
+
+> What have we already decided, and what still needs checking?
+
+Discover the available observation times, select a bounded window within the
+data and use the latest observations per identity within it. Report the chosen
+times and freshness differences; do not use today's clock. Missing observations
+are unknown, not zero risk. Distinguish recorded Approved/Proposed decisions from
+actions actually executed.
+
+For either exploration, ask:
+
+> Show me the data behind that.
+
+Inspect actual source queries and separate facts from interpretation. Follow
+the conversation rather than forcing predetermined examples or identifiers.
 
 ## Files and maintenance
 
@@ -124,6 +157,8 @@ actually executed. Inspect actual source queries, not just the answer text.
 |---|---|
 | `Stage_Zava_Workshop.ipynb` | Reviewed deployment code, HTTP loader and parameters; no embedded data |
 | `manifest.json` | Allowed source paths, lengths, checksums and base deployment identity |
+| `TRY-IT-END-TO-END.md` | Setup, source checks, ontology enrichment and discovery-first walkthrough |
+| `prompts/workshop.md` | Short business questions, follow-ups and reviewed Plan/Act prompts |
 | `data/tables` | Original 13 business-table files |
 | `data/dependencies` | Six additional entities, schemas and relationship mappings |
 | `data/telemetry` | Four time-series fixtures |
@@ -158,5 +193,5 @@ writes stop rather than being blindly repeated. A new disposable workspace is
 the safe novice reset. Never delete a shared workspace or folder as a workaround.
 
 The notebook reports source verification, not certification of the entire
-ontology/agent journey. This public repository intentionally contains only the
-installer and relevant data/model files, not local tests or private live evidence.
+ontology/agent journey. This public repository contains the installer, relevant
+data/model files and participant guides, not local tests or private live evidence.
